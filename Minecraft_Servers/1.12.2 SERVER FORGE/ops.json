@@ -1,0 +1,14 @@
+[
+  {
+    "uuid": "dac6f13b-b5b4-39dd-997e-69003996f0c0",
+    "name": "vpntest1",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "37c85d66-85d0-3df6-b74e-e5b70fc37f9d",
+    "name": "jongog",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]

@@ -1,0 +1,826 @@
+1645586536568	geckodriver	INFO	Listening on 127.0.0.1:60901
+1645586536577	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "47781" "-no-remote" "-profile" "/tmp/rust_mozprofileG0XJe9"
+1645586543214	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileG0XJe9/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:47781/devtools/browser/acec7482-2386-492e-9dec-4004b004aa1d
+1645586549398	Marionette	INFO	Listening on port 45039
+1645586549537	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1645586564406	Marionette	INFO	Stopped listening on port 45039
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1645586576376	geckodriver	INFO	Listening on 127.0.0.1:54405
+1645586576380	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "33829" "-no-remote" "-profile" "/tmp/rust_mozprofileVmsXVo"
+1645586578663	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileVmsXVo/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:33829/devtools/browser/d9c978ba-d1ce-430d-a672-d6d2d6baef1c
+1645586581809	Marionette	INFO	Listening on port 41031
+1645586582792	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1645586660297	geckodriver	INFO	Listening on 127.0.0.1:46533
+1645586660303	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "56623" "-no-remote" "-profile" "/tmp/rust_mozprofileYncK3U"
+1645586662479	Marionette	INFO	Marionette enabled
+1645586664228	Marionette	INFO	Stopped listening on port 41031
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileYncK3U/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56623/devtools/browser/4cfd9ee6-40ac-45f5-8532-673de576bf47
+1645586666419	Marionette	INFO	Listening on port 34591
+1645586666469	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1645586670370	Marionette	INFO	Stopped listening on port 34591
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1645586702451	geckodriver	INFO	Listening on 127.0.0.1:49901
+1645586702459	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "43551" "-no-remote" "-profile" "/tmp/rust_mozprofile7ySCnr"
+1645586704658	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile7ySCnr/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:43551/devtools/browser/c0fb0c86-64ac-4086-a2c5-20afbcdc942f
+1645586707830	Marionette	INFO	Listening on port 35017
+1645586707953	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1645586713375	Marionette	INFO	Stopped listening on port 35017
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1645586795619	geckodriver	INFO	Listening on 127.0.0.1:52331
+1645586795624	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "58005" "-no-remote" "-profile" "/tmp/rust_mozprofileR2jXuV"
+1645586797823	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileR2jXuV/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58005/devtools/browser/40367909-c34b-4bdb-9cd6-db84c0287ae1
+1645586800924	Marionette	INFO	Listening on port 43793
+1645586801887	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js?id=26649402, line 12: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1645586813693	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'loading'.
+JavaScript warning: https://ssp.rambler.ru/capirs_async.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://ssp.rambler.ru/capirs_async.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1645586814139	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1645586814260	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript warning: https://ssp.rambler.ru/capirs_async.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://z.moatads.com/publicisrudcmdisplay525037249642/moatad.js#moatClientSlicer1=2465501&moatClientLevel2=27284070&moatClientLevel3=328767663&moatClientLevel1=5291139&moatClientLevel4=166564907&zMoatSSTG=1, line 247: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://ssp.rambler.ru/capirs_async.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://ssp.rambler.ru/capirs_async.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://ssp.rambler.ru/capirs_async.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://ssp.rambler.ru/capirs_async.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1645586823053	Marionette	INFO	Stopped listening on port 43793
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1645587805888	geckodriver	INFO	Listening on 127.0.0.1:34687
+1645587805894	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "60529" "-no-remote" "-profile" "/tmp/rust_mozprofileNPJYJD"
+1645587807982	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileNPJYJD/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60529/devtools/browser/57efe933-7a83-4f64-835b-b478ccd42809
+1645587810695	Marionette	INFO	Listening on port 45621
+1645587810742	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+1645587818794	Marionette	INFO	Stopped listening on port 45621
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1645587845104	geckodriver	INFO	Listening on 127.0.0.1:35393
+1645587845110	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "50531" "-no-remote" "-profile" "/tmp/rust_mozprofilePXPkKZ"
+1645587847215	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilePXPkKZ/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50531/devtools/browser/6d19ece4-253a-49e9-80d3-3f4792804066
+1645587850118	Marionette	INFO	Listening on port 35165
+1645587850165	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+1645587895485	Marionette	INFO	Stopped listening on port 35165
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1645588124325	geckodriver	INFO	Listening on 127.0.0.1:51839
+1645588124334	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "37573" "-no-remote" "-profile" "/tmp/rust_mozprofilebvyTuB"
+1645588126426	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilebvyTuB/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:37573/devtools/browser/bd2760b7-2d21-43d2-b742-e613e68a01a7
+1645588129278	Marionette	INFO	Listening on port 36795
+1645588129396	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1645588129399	RemoteAgent	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"45.136.174.32:8000"}
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js?id=26649402, line 12: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1645588134626	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'loading'.
+JavaScript warning: https://ssp.rambler.ru/capirs_async.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1645588134933	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript warning: https://ssp.rambler.ru/capirs_async.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1645588135054	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript error: https://ssp.rambler.ru/capirs_async.js, line 1: TypeError: t.defaultView is null
+JavaScript warning: https://z.moatads.com/publicisrudcmdisplay525037249642/moatad.js#moatClientSlicer1=2465501&moatClientLevel2=27284070&moatClientLevel3=328767663&moatClientLevel1=5291139&moatClientLevel4=166564907&zMoatSSTG=1, line 247: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://ssp.rambler.ru/capirs_async.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/IfvWsR8c8QoIXMZVBAT6kqVdCzRxsMqQy0C-AEZrj6Q.js line 1 > eval line 133 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://ssp.rambler.ru/capirs_async.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://ssp.rambler.ru/capirs_async.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://ssp.rambler.ru/capirs_async.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://ssp.rambler.ru/capirs_async.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://ssp.rambler.ru/capirs_async.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://ssp.rambler.ru/capirs_async.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1645588150300	Marionette	INFO	Stopped listening on port 36795
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1645588212218	geckodriver	INFO	Listening on 127.0.0.1:37715
+1645588212227	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "59935" "-no-remote" "-profile" "/tmp/rust_mozprofileHfwPIy"
+1645588214334	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileHfwPIy/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59935/devtools/browser/7cb4254b-e365-4339-8bcd-1fcf36a07ec7
+1645588217226	Marionette	INFO	Listening on port 38955
+1645588217273	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1645588217275	RemoteAgent	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"45.136.174.32:8000"}
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js?id=26649402, line 12: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+JavaScript warning: https://ssp.rambler.ru/capirs_async.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1645588222517	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript warning: https://ssp.rambler.ru/capirs_async.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1645588222597	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript warning: https://z.moatads.com/publicisrudcmdisplay525037249642/moatad.js#moatClientSlicer1=2465501&moatClientLevel2=27284070&moatClientLevel3=328767663&moatClientLevel1=5291139&moatClientLevel4=166564907&zMoatSSTG=1, line 247: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://ssp.rambler.ru/capirs_async.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://cdn.ampproject.org/rtv/012202072236000/amp4ads-v0.mjs, line 1: Error: Failed to load: https://tpc.googlesyndication.com/pagead/images/abg/ru.png​​​
+JavaScript error: https://cdn.ampproject.org/rtv/012202072236000/amp4ads-v0.mjs, line 1: Error: Failed to load: https://tpc.googlesyndication.com/pagead/images/abg/ru.png​​​
+JavaScript error: https://cdn.ampproject.org/rtv/012202072236000/amp4ads-v0.mjs, line 1: Error: Failed to load: https://tpc.googlesyndication.com/pagead/images/abg/ru.png​​​
+JavaScript error: https://cdn.ampproject.org/rtv/012202072236000/amp4ads-v0.mjs, line 1: Error: Failed to load: https://tpc.googlesyndication.com/pagead/images/abg/ru.png​​​
+JavaScript error: https://cdn.ampproject.org/rtv/012202072236000/amp4ads-v0.mjs, line 1: Error: Failed to load: https://tpc.googlesyndication.com/pagead/images/abg/ru.png​​​
+JavaScript error: https://cdn.ampproject.org/rtv/012202072236000/amp4ads-v0.mjs, line 1: Error: Failed to load: https://tpc.googlesyndication.com/pagead/images/abg/ru.png​​​
+JavaScript error: https://cdn.ampproject.org/rtv/012202072236000/amp4ads-v0.mjs, line 1: Error: Failed to load: https://tpc.googlesyndication.com/pagead/images/abg/ru.png​​​
+JavaScript error: https://cdn.ampproject.org/rtv/012202072236000/amp4ads-v0.mjs, line 1: Error: Failed to load: https://tpc.googlesyndication.com/pagead/images/abg/ru.png​​​
+JavaScript error: https://cdn.ampproject.org/rtv/012202072236000/amp4ads-v0.mjs, line 1: Error: Failed to load: https://tpc.googlesyndication.com/pagead/images/abg/ru.png​​​
+JavaScript error: https://cdn.ampproject.org/rtv/012202072236000/amp4ads-v0.mjs, line 1: Error: Failed to load: https://tpc.googlesyndication.com/pagead/images/abg/ru.png​​​
+JavaScript error: https://cdn.ampproject.org/rtv/012202072236000/amp4ads-v0.mjs, line 1: Error: Failed to load: https://tpc.googlesyndication.com/pagead/images/abg/ru.png​​​
+JavaScript error: https://cdn.ampproject.org/rtv/012202072236000/amp4ads-v0.mjs, line 1: Error: Failed to load: https://tpc.googlesyndication.com/pagead/images/abg/ru.png​​​
+JavaScript error: https://cdn.ampproject.org/rtv/012202072236000/amp4ads-v0.mjs, line 1: Error: Failed to load: https://tpc.googlesyndication.com/pagead/images/abg/ru.png​​​
+JavaScript error: https://cdn.ampproject.org/rtv/012202072236000/amp4ads-v0.mjs, line 1: Error: Failed to load: https://tpc.googlesyndication.com/pagead/images/abg/ru.png​​​
+JavaScript error: https://cdn.ampproject.org/rtv/012202072236000/amp4ads-v0.mjs, line 1: Error: Failed to load: https://tpc.googlesyndication.com/pagead/images/abg/ru.png​​​
+JavaScript error: https://cdn.ampproject.org/rtv/012202072236000/amp4ads-v0.mjs, line 1: Error: Failed to load: https://tpc.googlesyndication.com/pagead/images/abg/ru.png​​​
+JavaScript error: https://cdn.ampproject.org/rtv/012202072236000/amp4ads-v0.mjs, line 1: Error: Failed to load: https://tpc.googlesyndication.com/pagead/images/abg/ru.png​​​
+JavaScript error: https://cdn.ampproject.org/rtv/012202072236000/amp4ads-v0.mjs, line 1: Error: Failed to load: https://tpc.googlesyndication.com/pagead/images/abg/ru.png​​​
+JavaScript error: https://cdn.ampproject.org/rtv/012202072236000/amp4ads-v0.mjs, line 1: Error: Failed to load: https://tpc.googlesyndication.com/pagead/images/abg/ru.png​​​
+JavaScript error: https://cdn.ampproject.org/rtv/012202072236000/amp4ads-v0.mjs, line 1: Error: Failed to load: https://tpc.googlesyndication.com/pagead/images/abg/ru.png​​​
+JavaScript error: https://cdn.ampproject.org/rtv/012202072236000/amp4ads-v0.mjs, line 1: Error: Failed to load: https://tpc.googlesyndication.com/pagead/images/abg/ru.png​​​
+JavaScript error: https://cdn.ampproject.org/rtv/012202072236000/amp4ads-v0.mjs, line 1: Error: Failed to load: https://tpc.googlesyndication.com/pagead/images/abg/ru.png​​​
+JavaScript error: https://cdn.ampproject.org/rtv/012202072236000/amp4ads-v0.mjs, line 1: Error: Failed to load: https://tpc.googlesyndication.com/pagead/images/abg/ru.png​​​
+JavaScript error: https://cdn.ampproject.org/rtv/012202072236000/amp4ads-v0.mjs, line 1: Error: Failed to load: https://tpc.googlesyndication.com/pagead/images/abg/ru.png​​​
+JavaScript error: https://cdn.ampproject.org/rtv/012202072236000/amp4ads-v0.mjs, line 1: Error: Failed to load: https://tpc.googlesyndication.com/pagead/images/abg/ru.png​​​
+JavaScript error: https://cdn.ampproject.org/rtv/012202072236000/amp4ads-v0.mjs, line 1: Error: Failed to load: https://tpc.googlesyndication.com/pagead/images/abg/ru.png​​​
+JavaScript error: https://cdn.ampproject.org/rtv/012202072236000/amp4ads-v0.mjs, line 1: Error: Failed to load: https://tpc.googlesyndication.com/pagead/images/abg/ru.png​​​
+JavaScript warning: https://pagead2.googlesyndication.com/bg/IfvWsR8c8QoIXMZVBAT6kqVdCzRxsMqQy0C-AEZrj6Q.js line 1 > eval line 2855 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/IfvWsR8c8QoIXMZVBAT6kqVdCzRxsMqQy0C-AEZrj6Q.js line 1 > eval line 5769 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://ssp.rambler.ru/capirs_async.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://ssp.rambler.ru/capirs_async.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://ssp.rambler.ru/capirs_async.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://ssp.rambler.ru/capirs_async.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1645588461736	Marionette	INFO	Stopped listening on port 38955
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1645626981456	geckodriver	INFO	Listening on 127.0.0.1:49437
+1645626981464	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "58905" "-no-remote" "-profile" "/tmp/rust_mozprofileOrBH5r"
+1645626983504	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileOrBH5r/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58905/devtools/browser/a74b16eb-876e-4ccb-b254-550e3f6a75e6
+1645626986742	Marionette	INFO	Listening on port 34235
+1645626987755	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1645626987758	RemoteAgent	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"45.136.174.32:8000"}
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js?id=26649402, line 12: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://ssp.rambler.ru/capirs_async.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://ssp.rambler.ru/capirs_async.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1645626992589	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'loading'.
+1645626992617	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1645626992640	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1645626992814	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript warning: https://ssp.rambler.ru/capirs_async.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1645626993110	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript warning: https://z.moatads.com/publicisrudcmdisplay525037249642/moatad.js#moatClientSlicer1=2465501&moatClientLevel2=27284070&moatClientLevel3=328785270&moatClientLevel1=5291139&moatClientLevel4=166564907&zMoatSSTG=1, line 247: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://ssp.rambler.ru/capirs_async.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1645626994655	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'loading'.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/RTAFWjK1oaY5MR175eart5uncqyuFBD5-f7_3Cl3Idw.js line 1 > eval line 1996 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 12: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://ssp.rambler.ru/capirs_async.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://ssp.rambler.ru/capirs_async.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://ssp.rambler.ru/capirs_async.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://ssp.rambler.ru/capirs_async.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://ssp.rambler.ru/capirs_async.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1645627012191	Marionette	INFO	Stopped listening on port 34235
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1645627100423	geckodriver	INFO	Listening on 127.0.0.1:33767
+1645627100431	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "59643" "-no-remote" "-profile" "/tmp/rust_mozprofileLAbQkU"
+1645627102518	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileLAbQkU/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59643/devtools/browser/6fe5ad7c-5b7c-4f87-84d4-0ea77d24ebd4
+1645627105377	Marionette	INFO	Listening on port 43893
+1645627105774	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1645627105777	RemoteAgent	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"45.136.174.32:8000"}
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js?id=26649402, line 12: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://ssp.rambler.ru/capirs_async.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://ssp.rambler.ru/capirs_async.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://ssp.rambler.ru/capirs_async.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://ssp.rambler.ru/capirs_async.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://ssp.rambler.ru/capirs_async.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://ssp.rambler.ru/capirs_async.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://ssp.rambler.ru/capirs_async.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://ssp.rambler.ru/capirs_async.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript warning: https://ssp.rambler.ru/capirs_async.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://ssp.rambler.ru/capirs_async.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1645627120974	geckodriver	INFO	Listening on 127.0.0.1:34717
+1645627120981	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "32861" "-no-remote" "-profile" "/tmp/rust_mozprofileJ9L1Z7"
+1645627123142	Marionette	INFO	Marionette enabled
+JavaScript warning: https://pagead2.googlesyndication.com/bg/RTAFWjK1oaY5MR175eart5uncqyuFBD5-f7_3Cl3Idw.js line 1 > eval line 5416 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileJ9L1Z7/search.json.mozlz4", (void 0)))
+JavaScript warning: https://z.moatads.com/publicisrudcmdisplay525037249642/moatad.js#moatClientSlicer1=2465501&moatClientLevel2=27284070&moatClientLevel3=328767663&moatClientLevel1=5291139&moatClientLevel4=166564907&zMoatSSTG=1, line 247: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+DevTools listening on ws://localhost:32861/devtools/browser/aadd3fd8-20ec-49ef-b8bc-c2ebea7ff08b
+JavaScript error: https://ssp.rambler.ru/capirs_async.js, line 1: TypeError: t.defaultView is null
+1645627126059	Marionette	INFO	Listening on port 39835
+1645627127067	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1645627127070	RemoteAgent	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"45.136.174.32:8000"}
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js?id=26649402, line 12: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://ssp.rambler.ru/capirs_async.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1645627132751	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'loading'.
+JavaScript warning: https://ssp.rambler.ru/capirs_async.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://ssp.rambler.ru/capirs_async.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://ssp.rambler.ru/capirs_async.js, line 1: TypeError: t.defaultView is null
+JavaScript warning: https://ssp.rambler.ru/capirs_async.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1645627135380	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'loading'.
+JavaScript warning: https://z.moatads.com/publicisrudcmdisplay525037249642/moatad.js#moatClientSlicer1=2465501&moatClientLevel2=27284070&moatClientLevel3=328767663&moatClientLevel1=5291139&moatClientLevel4=166564907&zMoatSSTG=1, line 247: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/RTAFWjK1oaY5MR175eart5uncqyuFBD5-f7_3Cl3Idw.js line 1 > eval line 1911 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://ssp.rambler.ru/capirs_async.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://ssp.rambler.ru/capirs_async.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://ssp.rambler.ru/capirs_async.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://ssp.rambler.ru/capirs_async.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://ssp.rambler.ru/capirs_async.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1645627143083	Marionette	INFO	Stopped listening on port 39835
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript warning: https://ssp.rambler.ru/capirs_async.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://ssp.rambler.ru/capirs_async.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://ssp.rambler.ru/capirs_async.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://ssp.rambler.ru/capirs_async.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://ssp.rambler.ru/capirs_async.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://ssp.rambler.ru/capirs_async.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://ssp.rambler.ru/capirs_async.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1645627166109	Marionette	INFO	Stopped listening on port 43893
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+1645627545173	geckodriver	INFO	Listening on 127.0.0.1:57025
+1645627545181	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "54267" "-no-remote" "-profile" "/tmp/rust_mozprofileJhNrJq"
+1645627547266	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileJhNrJq/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54267/devtools/browser/3843785f-a414-4596-888e-084da5ec3b88
+1645627550101	Marionette	INFO	Listening on port 42809
+1645627550323	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1645627550326	RemoteAgent	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:34335","sslProxy":"127.0.0.1:34335"}
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js?id=26649402, line 12: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://ssp.rambler.ru/capirs_async.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1645627560263	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'loading'.
+JavaScript warning: https://ssp.rambler.ru/capirs_async.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://ssp.rambler.ru/capirs_async.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1645627565987	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'loading'.
+JavaScript warning: https://ssp.rambler.ru/capirs_async.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/amNa6lhdd-Oid2bHU1unpRJ57vx5QG5_ysqcoHUTmoo.js line 1 > eval line 1053 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/amNa6lhdd-Oid2bHU1unpRJ57vx5QG5_ysqcoHUTmoo.js line 1 > eval line 893 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://s0.2mdn.net/sadbundle/4524366017786281984/TUI_Z22_Video_970x250.html?e=69&leftOffset=0&topOffset=0&c=gCVZWFTbPA&t=1&renderingType=2, line 53: TypeError: video is null
+JavaScript warning: https://pagead2.googlesyndication.com/bg/amNa6lhdd-Oid2bHU1unpRJ57vx5QG5_ysqcoHUTmoo.js line 1 > eval line 3415 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: ServiceWorker script at https://www.rambler.ru/sw-desktop.js for scope https://www.rambler.ru/ threw an exception during script evaluation.
+1645627765774	geckodriver	INFO	Listening on 127.0.0.1:40865
+1645627765780	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "52817" "-no-remote" "-profile" "/tmp/rust_mozprofileYKdMA8"
+1645627767900	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileYKdMA8/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52817/devtools/browser/eb9436ec-6c82-4abd-a6df-ea6cc588cca2
+1645627770946	Marionette	INFO	Listening on port 45723
+1645627771065	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1645627771069	RemoteAgent	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:45215","sslProxy":"127.0.0.1:45215"}
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js?id=26649402, line 12: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://ssp.rambler.ru/capirs_async.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1645627782788	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'loading'.
+JavaScript warning: https://ssp.rambler.ru/capirs_async.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://ssp.rambler.ru/capirs_async.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://ssp.rambler.ru/capirs_async.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://ssp.rambler.ru/capirs_async.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1645627786851	Marionette	INFO	Stopped listening on port 42809
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://ssp.rambler.ru/capirs_async.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/amNa6lhdd-Oid2bHU1unpRJ57vx5QG5_ysqcoHUTmoo.js line 1 > eval line 306 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/amNa6lhdd-Oid2bHU1unpRJ57vx5QG5_ysqcoHUTmoo.js line 1 > eval line 7477 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/amNa6lhdd-Oid2bHU1unpRJ57vx5QG5_ysqcoHUTmoo.js line 1 > eval line 6911 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: 7
+JavaScript warning: https://pagead2.googlesyndication.com/bg/amNa6lhdd-Oid2bHU1unpRJ57vx5QG5_ysqcoHUTmoo.js line 1 > eval line 3559 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/amNa6lhdd-Oid2bHU1unpRJ57vx5QG5_ysqcoHUTmoo.js line 1 > eval line 6441 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: ServiceWorker script at https://www.rambler.ru/sw-desktop.js for scope https://www.rambler.ru/ threw an exception during script evaluation.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://ssp.rambler.ru/capirs_async.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://ssp.rambler.ru/capirs_async.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://ssp.rambler.ru/capirs_async.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://ssp.rambler.ru/capirs_async.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1645627836618	Marionette	INFO	Stopped listening on port 45723
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1645628010454	geckodriver	INFO	Listening on 127.0.0.1:48469
+1645628010460	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "51959" "-no-remote" "-profile" "/tmp/rust_mozprofileiHznKC"
+1645628012649	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileiHznKC/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51959/devtools/browser/7106e159-da1d-4f48-af41-ff7109bd9a7d
+1645628015464	Marionette	INFO	Listening on port 37833
+1645628015728	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1645628015732	RemoteAgent	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:35655","sslProxy":"127.0.0.1:35655"}
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js?id=26649402, line 12: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://ssp.rambler.ru/capirs_async.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1645628026607	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'loading'.
+1645628026808	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'loading'.
+JavaScript warning: https://ssp.rambler.ru/capirs_async.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://ssp.rambler.ru/capirs_async.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://ssp.rambler.ru/capirs_async.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/amNa6lhdd-Oid2bHU1unpRJ57vx5QG5_ysqcoHUTmoo.js line 1 > eval line 430 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://s0.2mdn.net/sadbundle/4524366017786281984/TUI_Z22_Video_970x250.html?e=69&leftOffset=0&topOffset=0&c=IEixZKzClC&t=1&renderingType=2, line 53: TypeError: video is null
+JavaScript error: , line 0: uncaught exception: 7
+1645628049097	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript warning: https://pagead2.googlesyndication.com/bg/amNa6lhdd-Oid2bHU1unpRJ57vx5QG5_ysqcoHUTmoo.js line 1 > eval line 7592 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/amNa6lhdd-Oid2bHU1unpRJ57vx5QG5_ysqcoHUTmoo.js line 1 > eval line 4882 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: ServiceWorker script at https://www.rambler.ru/sw-desktop.js for scope https://www.rambler.ru/ threw an exception during script evaluation.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.error: "stylesheets: fetch failed for https://www.rambler.ru/assets/desk_magnesium.9c233d59.css, using system principal instead."
+console.error: "Error while calling actor 'pagestyle's method 'getApplied'" "Failed to fetch https://www.rambler.ru/assets/desk_magnesium.9c233d59.css. Code 2152398920."
+console.error: (new Error("Failed to fetch https://www.rambler.ru/assets/desk_magnesium.9c233d59.css. Code 2152398920.", "resource://devtools/shared/DevToolsUtils.js", 556))
+SourceActor threw an exception: Error: Failed to fetch https://adservice.google.com/adsid/integrator.js?domain=www.rambler.ru. Code 2152398920.
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:556:16
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 556, column: 16
+console.error: (new Error("Failed to fetch https://adservice.google.com/adsid/integrator.js?domain=www.rambler.ru. Code 2152398920.", "resource://devtools/shared/DevToolsUtils.js", 556))
+SourceActor threw an exception: Error: Failed to fetch https://adservice.google.nl/adsid/integrator.js?domain=www.rambler.ru. Code 2152398920.
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:556:16
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 556, column: 16
+console.error: (new Error("Failed to fetch https://adservice.google.nl/adsid/integrator.js?domain=www.rambler.ru. Code 2152398920.", "resource://devtools/shared/DevToolsUtils.js", 556))
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 556: Error: Failed to fetch https://adservice.google.com/adsid/integrator.js?domain=www.rambler.ru. Code 2152398920.
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 556: Error: Failed to fetch https://adservice.google.nl/adsid/integrator.js?domain=www.rambler.ru. Code 2152398920.
+SourceActor threw an exception: Error: Failed to fetch https://2ee91a4f09a3112018a760cea2642810.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html?n=1. Code 2152398920.
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:556:16
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 556, column: 16
+console.error: (new Error("Failed to fetch https://2ee91a4f09a3112018a760cea2642810.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html?n=1. Code 2152398920.", "resource://devtools/shared/DevToolsUtils.js", 556))
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 556: Error: Failed to fetch https://2ee91a4f09a3112018a760cea2642810.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html?n=1. Code 2152398920.
+SourceActor threw an exception: Error: Failed to fetch https://2ee91a4f09a3112018a760cea2642810.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html?n=1. Code 2152398920.
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:556:16
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 556, column: 16
+console.error: (new Error("Failed to fetch https://2ee91a4f09a3112018a760cea2642810.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html?n=1. Code 2152398920.", "resource://devtools/shared/DevToolsUtils.js", 556))
+SourceActor threw an exception: Error: Failed to fetch https://ads.adfox.ru/getid?t=jsonp&f=af_setLpdId&pr=1248163078. Code 2152398920.
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:556:16
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 556, column: 16
+console.error: (new Error("Failed to fetch https://ads.adfox.ru/getid?t=jsonp&f=af_setLpdId&pr=1248163078. Code 2152398920.", "resource://devtools/shared/DevToolsUtils.js", 556))
+SourceActor threw an exception: Error: Failed to fetch https://fb64a4ea988afc3d891eb90bbfe63e37.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html. Code 2152398920.
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:556:16
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 556, column: 16
+console.error: (new Error("Failed to fetch https://fb64a4ea988afc3d891eb90bbfe63e37.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html. Code 2152398920.", "resource://devtools/shared/DevToolsUtils.js", 556))
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 556: Error: Failed to fetch https://2ee91a4f09a3112018a760cea2642810.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html?n=1. Code 2152398920.
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 556: Error: Failed to fetch https://ads.adfox.ru/getid?t=jsonp&f=af_setLpdId&pr=1248163078. Code 2152398920.
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 556: Error: Failed to fetch https://fb64a4ea988afc3d891eb90bbfe63e37.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html. Code 2152398920.
+SourceActor threw an exception: Error: Failed to fetch https://adservice.google.nl/adsid/integrator.js?domain=www.rambler.ru. Code 2152398920.
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:556:16
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 556, column: 16
+console.error: (new Error("Failed to fetch https://adservice.google.nl/adsid/integrator.js?domain=www.rambler.ru. Code 2152398920.", "resource://devtools/shared/DevToolsUtils.js", 556))
+SourceActor threw an exception: Error: Failed to fetch https://adservice.google.com/adsid/integrator.js?domain=www.rambler.ru. Code 2152398920.
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:556:16
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 556, column: 16
+console.error: (new Error("Failed to fetch https://adservice.google.com/adsid/integrator.js?domain=www.rambler.ru. Code 2152398920.", "resource://devtools/shared/DevToolsUtils.js", 556))
+SourceActor threw an exception: Error: Failed to fetch https://e33c6730336711395ed0c904d9f3053d.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html?n=1. Code 2152398920.
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:556:16
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 556, column: 16
+console.error: (new Error("Failed to fetch https://e33c6730336711395ed0c904d9f3053d.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html?n=1. Code 2152398920.", "resource://devtools/shared/DevToolsUtils.js", 556))
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 556: Error: Failed to fetch https://adservice.google.nl/adsid/integrator.js?domain=www.rambler.ru. Code 2152398920.
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 556: Error: Failed to fetch https://adservice.google.com/adsid/integrator.js?domain=www.rambler.ru. Code 2152398920.
+SourceActor threw an exception: Error: Failed to fetch https://www.rambler.ru/. Code 2152398920.
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:556:16
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 556, column: 16
+console.error: (new Error("Failed to fetch https://www.rambler.ru/. Code 2152398920.", "resource://devtools/shared/DevToolsUtils.js", 556))
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 556: Error: Failed to fetch https://e33c6730336711395ed0c904d9f3053d.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html?n=1. Code 2152398920.
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 556: Error: Failed to fetch https://www.rambler.ru/. Code 2152398920.
+SourceActor threw an exception: Error: Failed to fetch https://ads.adfox.ru/getid?t=jsonp&f=sapirs_setLpdId&pr=2105921968. Code 2152398920.
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:556:16
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 556, column: 16
+console.error: (new Error("Failed to fetch https://ads.adfox.ru/getid?t=jsonp&f=sapirs_setLpdId&pr=2105921968. Code 2152398920.", "resource://devtools/shared/DevToolsUtils.js", 556))
+SourceActor threw an exception: Error: Failed to fetch https://gamd.hit.gemius.pl/fpdata.js?href=www.rambler.ru. Code 2152398920.
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:556:16
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 556, column: 16
+console.error: (new Error("Failed to fetch https://gamd.hit.gemius.pl/fpdata.js?href=www.rambler.ru. Code 2152398920.", "resource://devtools/shared/DevToolsUtils.js", 556))
+SourceActor threw an exception: Error: Failed to fetch https://ads.adfox.ru/getid?t=jsonp&f=af_setLpdId&pr=2431693735. Code 2152398920.
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:556:16
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 556, column: 16
+console.error: (new Error("Failed to fetch https://ads.adfox.ru/getid?t=jsonp&f=af_setLpdId&pr=2431693735. Code 2152398920.", "resource://devtools/shared/DevToolsUtils.js", 556))
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 556: Error: Failed to fetch https://ads.adfox.ru/getid?t=jsonp&f=sapirs_setLpdId&pr=2105921968. Code 2152398920.
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 556: Error: Failed to fetch https://gamd.hit.gemius.pl/fpdata.js?href=www.rambler.ru. Code 2152398920.
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 556: Error: Failed to fetch https://ads.adfox.ru/getid?t=jsonp&f=af_setLpdId&pr=2431693735. Code 2152398920.
+SourceActor threw an exception: Error: Failed to fetch https://gamd.hit.gemius.pl/_1645628024533/rexdot.js?l=100&id=nSzgvPuSG0jfABCp5jRWjnZHXmDBvAdjV.RMPABTRG3.57&et=view&hsrc=1&initsonar=1&extra=&eventid=0&fr=1&tz=-420&fv=-&href=https%3A%2F%2Fwww.rambler.ru%2F&ref=&screen=1920x1080r1000&col=24&window=1280x862&ltime=1899&lsdata=e118DbZbzqJS8cPFbXTTtxvpMd3LXuQ6mTNH9gJgyAH.O7.VDIHZRGHpOnzqXwaZmzLWNR.V5IrwGEaBhCkmysBnab6q/IwmQUFjmIPXaj/&fpdata=xYPGU1ysiLpGHaeTH8ZnvV7.RH5D6sp_S0z3AUS9W8H.P7&vis=1&fpcap=. Code 2152398920.
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:556:16
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 556, column: 16
+console.error: (new Error("Failed to fetch https://gamd.hit.gemius.pl/_1645628024533/rexdot.js?l=100&id=nSzgvPuSG0jfABCp5jRWjnZHXmDBvAdjV.RMPABTRG3.57&et=view&hsrc=1&initsonar=1&extra=&eventid=0&fr=1&tz=-420&fv=-&href=https%3A%2F%2Fwww.rambler.ru%2F&ref=&screen=1920x1080r1000&col=24&window=1280x862&ltime=1899&lsdata=e118DbZbzqJS8cPFbXTTtxvpMd3LXuQ6mTNH9gJgyAH.O7.VDIHZRGHpOnzqXwaZmzLWNR.V5IrwGEaBhCkmysBnab6q/IwmQUFjmIPXaj/&fpdata=xYPGU1ysiLpGHaeTH8ZnvV7.RH5D6sp_S0z3AUS9W8H.P7&vis=1&fpcap=. Code 2152398920.", "resource://devtools/shared/DevToolsUtils.js", 556))
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 556: Error: Failed to fetch https://gamd.hit.gemius.pl/_1645628024533/rexdot.js?l=100&id=nSzgvPuSG0jfABCp5jRWjnZHXmDBvAdjV.RMPABTRG3.57&et=view&hsrc=1&initsonar=1&extra=&eventid=0&fr=1&tz=-420&fv=-&href=https%3A%2F%2Fwww.rambler.ru%2F&ref=&screen=1920x1080r1000&col=24&window=1280x862&ltime=1899&lsdata=e118DbZbzqJS8cPFbXTTtxvpMd3LXuQ6mTNH9gJgyAH.O7.VDIHZRGHpOnzqXwaZmzLWNR.V5IrwGEaBhCkmysBnab6q/IwmQUFjmIPXaj/&fpdata=xYPGU1ysiLpGHaeTH8ZnvV7.RH5D6sp_S0z3AUS9W8H.P7&vis=1&fpcap=. Code 2152398920.
+SourceActor threw an exception: Error: Failed to fetch https://adservice.google.nl/adsid/integrator.js?domain=www.rambler.ru. Code 2152398920.
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:556:16
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 556, column: 16
+console.error: (new Error("Failed to fetch https://adservice.google.nl/adsid/integrator.js?domain=www.rambler.ru. Code 2152398920.", "resource://devtools/shared/DevToolsUtils.js", 556))
+SourceActor threw an exception: Error: Failed to fetch https://adservice.google.com/adsid/integrator.js?domain=www.rambler.ru. Code 2152398920.
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:556:16
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 556, column: 16
+console.error: (new Error("Failed to fetch https://adservice.google.com/adsid/integrator.js?domain=www.rambler.ru. Code 2152398920.", "resource://devtools/shared/DevToolsUtils.js", 556))
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 556: Error: Failed to fetch https://adservice.google.nl/adsid/integrator.js?domain=www.rambler.ru. Code 2152398920.
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 556: Error: Failed to fetch https://adservice.google.com/adsid/integrator.js?domain=www.rambler.ru. Code 2152398920.
+SourceActor threw an exception: Error: Failed to fetch https://e33c6730336711395ed0c904d9f3053d.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html?n=1. Code 2152398920.
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:556:16
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 556, column: 16
+console.error: (new Error("Failed to fetch https://e33c6730336711395ed0c904d9f3053d.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html?n=1. Code 2152398920.", "resource://devtools/shared/DevToolsUtils.js", 556))
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 556: Error: Failed to fetch https://e33c6730336711395ed0c904d9f3053d.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html?n=1. Code 2152398920.
+1645628118952	geckodriver	INFO	Listening on 127.0.0.1:39257
+1645628118958	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "33751" "-no-remote" "-profile" "/tmp/rust_mozprofileNV8puF"
+1645628121209	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileNV8puF/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:33751/devtools/browser/2cc22f1c-32c0-4da1-9c5b-f458f6103928
+1645628124589	Marionette	INFO	Listening on port 34323
+1645628125045	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1645628125049	RemoteAgent	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:36413","sslProxy":"127.0.0.1:36413"}
+JavaScript warning: https://ssp.rambler.ru/capirs_async.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://ssp.rambler.ru/capirs_async.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://ssp.rambler.ru/capirs_async.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://ssp.rambler.ru/capirs_async.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://ssp.rambler.ru/capirs_async.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1645628127409	Marionette	INFO	Stopped listening on port 37833
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js?id=26649402, line 12: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://ssp.rambler.ru/capirs_async.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://ssp.rambler.ru/capirs_async.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://ssp.rambler.ru/capirs_async.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/amNa6lhdd-Oid2bHU1unpRJ57vx5QG5_ysqcoHUTmoo.js line 1 > eval line 5360 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: ServiceWorker script at https://www.rambler.ru/sw-desktop.js for scope https://www.rambler.ru/ threw an exception during script evaluation.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/amNa6lhdd-Oid2bHU1unpRJ57vx5QG5_ysqcoHUTmoo.js line 1 > eval line 5163 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/amNa6lhdd-Oid2bHU1unpRJ57vx5QG5_ysqcoHUTmoo.js line 1 > eval line 4027 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 12: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 12: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://ssp.rambler.ru/capirs_async.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://id.rambler.ru"
+JavaScript warning: https://ssp.rambler.ru/capirs_async.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1645628411535	geckodriver	INFO	Listening on 127.0.0.1:38003
+1645628411542	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "35031" "-no-remote" "-profile" "/tmp/rust_mozprofileaWl3El"
+1645628413854	Marionette	INFO	Marionette enabled
+JavaScript warning: https://ssp.rambler.ru/capirs_async.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://ssp.rambler.ru/capirs_async.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://ssp.rambler.ru/capirs_async.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://ssp.rambler.ru/capirs_async.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1645628414371	Marionette	INFO	Stopped listening on port 34323
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileaWl3El/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:35031/devtools/browser/8bbeb7a7-f389-4b2d-be96-aecc513dce1a
+1645628417147	Marionette	INFO	Listening on port 38347
+1645628417390	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1645628417394	RemoteAgent	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:41239","sslProxy":"127.0.0.1:41239"}
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js?id=26649402, line 12: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1645628428705	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'loading'.
+JavaScript warning: https://ssp.rambler.ru/capirs_async.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://ssp.rambler.ru/capirs_async.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://ssp.rambler.ru/capirs_async.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://ssp.rambler.ru/capirs_async.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://ssp.rambler.ru/capirs_async.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://ssp.rambler.ru/capirs_async.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1645628430053	Marionette	INFO	Stopped listening on port 38347
+
+###!!! [Child][PContentChild] Error: Send(msgname=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1645628440760	geckodriver	INFO	Listening on 127.0.0.1:37247
+1645628440766	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "41555" "-no-remote" "-profile" "/tmp/rust_mozprofileKU7rjg"
+1645628442927	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileKU7rjg/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:41555/devtools/browser/8c6bae28-6846-44ad-a5fb-38d8edb0420e
+1645628446072	Marionette	INFO	Listening on port 37613
+1645628446427	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1645628446430	RemoteAgent	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:34013","sslProxy":"127.0.0.1:34013"}
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 12: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://ssp.rambler.ru/capirs_async.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 12: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://ssp.rambler.ru/capirs_async.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1645628578253	geckodriver	INFO	Listening on 127.0.0.1:40753
+1645628578259	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "33987" "-no-remote" "-profile" "/tmp/rust_mozprofilelUcSqs"
+1645628580444	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilelUcSqs/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:33987/devtools/browser/cb3b4771-9fb2-48fe-9826-3a903ef43de4
+1645628583777	Marionette	INFO	Listening on port 43809
+1645628583906	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1645628583911	RemoteAgent	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:35205","sslProxy":"127.0.0.1:35205"}
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 12: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://ssp.rambler.ru/capirs_async.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 12: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1645628618311	Marionette	INFO	Stopped listening on port 43809
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1645628619617	geckodriver	INFO	Listening on 127.0.0.1:60487
+1645628619624	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "47975" "-no-remote" "-profile" "/tmp/rust_mozprofilePVqTJn"
+1645628621748	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilePVqTJn/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:47975/devtools/browser/331027bf-3ce9-4d34-b3f2-f1215b6b6cc9
+1645628625089	Marionette	INFO	Listening on port 43771
+1645628625412	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1645628625416	RemoteAgent	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:45295","sslProxy":"127.0.0.1:45295"}
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 12: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 12: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://ssp.rambler.ru/capirs_async.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://ssp.rambler.ru/capirs_async.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+SourceActor threw an exception: Error: Failed to fetch https://www.google.com/recaptcha/api2/anchor?ar=1&k=6LdZq68UAAAAAI-DGymMPzpPNJNjiJQu9pw5wi7m&co=aHR0cHM6Ly9pZC5yYW1ibGVyLnJ1OjQ0Mw..&hl=en&v=1B_yv3CBEV10KtI2HJ6eEXhJ&size=invisible&cb=k8m6uqdr8n93. Code 2152398920.
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:556:16
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 556, column: 16
+console.error: (new Error("Failed to fetch https://www.google.com/recaptcha/api2/anchor?ar=1&k=6LdZq68UAAAAAI-DGymMPzpPNJNjiJQu9pw5wi7m&co=aHR0cHM6Ly9pZC5yYW1ibGVyLnJ1OjQ0Mw..&hl=en&v=1B_yv3CBEV10KtI2HJ6eEXhJ&size=invisible&cb=k8m6uqdr8n93. Code 2152398920.", "resource://devtools/shared/DevToolsUtils.js", 556))
+SourceActor threw an exception: Error: Failed to fetch https://mail.rambler.ru/?. Code 2152398920.
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:556:16
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 556, column: 16
+console.error: (new Error("Failed to fetch https://mail.rambler.ru/?. Code 2152398920.", "resource://devtools/shared/DevToolsUtils.js", 556))
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 556: Error: Failed to fetch https://www.google.com/recaptcha/api2/anchor?ar=1&k=6LdZq68UAAAAAI-DGymMPzpPNJNjiJQu9pw5wi7m&co=aHR0cHM6Ly9pZC5yYW1ibGVyLnJ1OjQ0Mw..&hl=en&v=1B_yv3CBEV10KtI2HJ6eEXhJ&size=invisible&cb=k8m6uqdr8n93. Code 2152398920.
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 556: Error: Failed to fetch https://mail.rambler.ru/?. Code 2152398920.
+SourceActor threw an exception: Error: Failed to fetch https://id.rambler.ru/_id/2.11.0/_next/static/f5l_CMi9FhUl_US4l7TsR/_buildManifest.js. Code 2152398920.
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:556:16
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 556, column: 16
+console.error: (new Error("Failed to fetch https://id.rambler.ru/_id/2.11.0/_next/static/f5l_CMi9FhUl_US4l7TsR/_buildManifest.js. Code 2152398920.", "resource://devtools/shared/DevToolsUtils.js", 556))
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 556: Error: Failed to fetch https://id.rambler.ru/_id/2.11.0/_next/static/f5l_CMi9FhUl_US4l7TsR/_buildManifest.js. Code 2152398920.
+SourceActor threw an exception: Error: Failed to fetch https://id.rambler.ru/_id/2.11.0/_next/static/f5l_CMi9FhUl_US4l7TsR/_ssgManifest.js. Code 2152398920.
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:556:16
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 556, column: 16
+console.error: (new Error("Failed to fetch https://id.rambler.ru/_id/2.11.0/_next/static/f5l_CMi9FhUl_US4l7TsR/_ssgManifest.js. Code 2152398920.", "resource://devtools/shared/DevToolsUtils.js", 556))
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 556: Error: Failed to fetch https://id.rambler.ru/_id/2.11.0/_next/static/f5l_CMi9FhUl_US4l7TsR/_ssgManifest.js. Code 2152398920.
+SourceActor threw an exception: Error: Failed to fetch https://id.rambler.ru/_id/2.11.0/_next/static/f5l_CMi9FhUl_US4l7TsR/_middlewareManifest.js. Code 2152398920.
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:556:16
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 556, column: 16
+console.error: (new Error("Failed to fetch https://id.rambler.ru/_id/2.11.0/_next/static/f5l_CMi9FhUl_US4l7TsR/_middlewareManifest.js. Code 2152398920.", "resource://devtools/shared/DevToolsUtils.js", 556))
+SourceActor threw an exception: Error: Failed to fetch https://www.google.com/recaptcha/api.js?render=6LdZq68UAAAAAI-DGymMPzpPNJNjiJQu9pw5wi7m. Code 2152398920.
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:556:16
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 556, column: 16
+console.error: (new Error("Failed to fetch https://www.google.com/recaptcha/api.js?render=6LdZq68UAAAAAI-DGymMPzpPNJNjiJQu9pw5wi7m. Code 2152398920.", "resource://devtools/shared/DevToolsUtils.js", 556))
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 556: Error: Failed to fetch https://id.rambler.ru/_id/2.11.0/_next/static/f5l_CMi9FhUl_US4l7TsR/_middlewareManifest.js. Code 2152398920.
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 556: Error: Failed to fetch https://www.google.com/recaptcha/api.js?render=6LdZq68UAAAAAI-DGymMPzpPNJNjiJQu9pw5wi7m. Code 2152398920.
+SourceActor threw an exception: Error: Failed to fetch https://ads.adfox.ru/getid?t=jsonp&f=af_setLpdId&pr=4199485050. Code 2152398920.
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:556:16
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 556, column: 16
+console.error: (new Error("Failed to fetch https://ads.adfox.ru/getid?t=jsonp&f=af_setLpdId&pr=4199485050. Code 2152398920.", "resource://devtools/shared/DevToolsUtils.js", 556))
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 556: Error: Failed to fetch https://ads.adfox.ru/getid?t=jsonp&f=af_setLpdId&pr=4199485050. Code 2152398920.
+SourceActor threw an exception: Error: Failed to fetch https://ads.adfox.ru/getid?t=jsonp&f=af_setLpdId&pr=1107073075. Code 2152398920.
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:556:16
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 556, column: 16
+console.error: (new Error("Failed to fetch https://ads.adfox.ru/getid?t=jsonp&f=af_setLpdId&pr=1107073075. Code 2152398920.", "resource://devtools/shared/DevToolsUtils.js", 556))
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 556: Error: Failed to fetch https://ads.adfox.ru/getid?t=jsonp&f=af_setLpdId&pr=1107073075. Code 2152398920.
+SourceActor threw an exception: Error: Failed to fetch https://googleads.g.doubleclick.net/pagead/viewthroughconversion/867973094/?random=1645628630054&cv=9&fst=1645628630054&num=1&bg=ffffff&guid=ON&resp=GooglemKTybQhCsO&u_h=1080&u_w=1920&u_ah=1053&u_aw=1848&u_cd=24&u_his=1&u_tz=420&u_java=false&u_nplug=0&u_nmime=0&gtm=2oa2g0&sendb=1&ig=0&data=event%3Dgtag.config&frm=0&url=https%3A%2F%2Fmail.rambler.ru%2F%3F&tiba=%D0%A0%D0%B0%D0%BC%D0%B1%D0%BB%D0%B5%D1%80%2F%D0%BF%D0%BE%D1%87%D1%82%D0%B0%20%E2%80%93%20%D0%BD%D0%B0%D0%B4%D0%B5%D0%B6%D0%BD%D0%B0%D1%8F%20%D0%B8%20%D0%B1%D0%B5%D1%81%D0%BF%D0%BB%D0%B0%D1%82%D0%BD%D0%B0%D1%8F%20%D1%8D%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE&hn=www.google.com&async=1&rfmt=3&fmt=4. Code 2152398920.
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:556:16
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 556, column: 16
+console.error: (new Error("Failed to fetch https://googleads.g.doubleclick.net/pagead/viewthroughconversion/867973094/?random=1645628630054&cv=9&fst=1645628630054&num=1&bg=ffffff&guid=ON&resp=GooglemKTybQhCsO&u_h=1080&u_w=1920&u_ah=1053&u_aw=1848&u_cd=24&u_his=1&u_tz=420&u_java=false&u_nplug=0&u_nmime=0&gtm=2oa2g0&sendb=1&ig=0&data=event%3Dgtag.config&frm=0&url=https%3A%2F%2Fmail.rambler.ru%2F%3F&tiba=%D0%A0%D0%B0%D0%BC%D0%B1%D0%BB%D0%B5%D1%80%2F%D0%BF%D0%BE%D1%87%D1%82%D0%B0%20%E2%80%93%20%D0%BD%D0%B0%D0%B4%D0%B5%D0%B6%D0%BD%D0%B0%D1%8F%20%D0%B8%20%D0%B1%D0%B5%D1%81%D0%BF%D0%BB%D0%B0%D1%82%D0%BD%D0%B0%D1%8F%20%D1%8D%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE&hn=www.google.com&async=1&rfmt=3&fmt=4. Code 2152398920.", "resource://devtools/shared/DevToolsUtils.js", 556))
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 556: Error: Failed to fetch https://googleads.g.doubleclick.net/pagead/viewthroughconversion/867973094/?random=1645628630054&cv=9&fst=1645628630054&num=1&bg=ffffff&guid=ON&resp=GooglemKTybQhCsO&u_h=1080&u_w=1920&u_ah=1053&u_aw=1848&u_cd=24&u_his=1&u_tz=420&u_java=false&u_nplug=0&u_nmime=0&gtm=2oa2g0&sendb=1&ig=0&data=event%3Dgtag.config&frm=0&url=https%3A%2F%2Fmail.rambler.ru%2F%3F&tiba=%D0%A0%D0%B0%D0%BC%D0%B1%D0%BB%D0%B5%D1%80%2F%D0%BF%D0%BE%D1%87%D1%82%D0%B0%20%E2%80%93%20%D0%BD%D0%B0%D0%B4%D0%B5%D0%B6%D0%BD%D0%B0%D1%8F%20%D0%B8%20%D0%B1%D0%B5%D1%81%D0%BF%D0%BB%D0%B0%D1%82%D0%BD%D0%B0%D1%8F%20%D1%8D%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE&hn=www.google.com&async=1&rfmt=3&fmt=4. Code 2152398920.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://id.rambler.ru"
+console.error: "Error while calling actor 'pagestyle's method 'getUsedFontFaces'" ({})
+console.error: ({})
+console.error: "Could not get the list of font families" (new Error("NS_ERROR_UNEXPECTED from: server0.conn0.windowGlobal2147483654/pagestyle25 (resource://devtools/server/actors/page-style.js:379:0)", "resource://devtools/shared/protocol/Front.js", 365))
+console.error: (new InvalidStateError("JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment", (void 0), 327))
+InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment: _createTargetActor/<@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:327:12
+newListener@resource://devtools/shared/event-emitter.js:173:27
+_emit@resource://devtools/shared/event-emitter.js:244:34
+emit@resource://devtools/shared/event-emitter.js:190:18
+emit@resource://devtools/shared/event-emitter.js:342:18
+destroy@resource://devtools/server/actors/targets/window-global.js:743:10
+module.exports/proto.destroy@resource://devtools/server/actors/targets/target-actor-mixin.js:244:30
+instantiate@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:242:26
+handleEvent@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:651:12
+
+console.error: "Unable to find target with innerWindowId:2147483654"
+console.error: (new InvalidStateError("JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment", (void 0), 327))
+InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment: _createTargetActor/<@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:327:12
+newListener@resource://devtools/shared/event-emitter.js:173:27
+_emit@resource://devtools/shared/event-emitter.js:244:34
+emit@resource://devtools/shared/event-emitter.js:190:18
+emit@resource://devtools/shared/event-emitter.js:342:18
+destroy@resource://devtools/server/actors/targets/window-global.js:743:10
+module.exports/proto.destroy@resource://devtools/server/actors/targets/target-actor-mixin.js:244:30
+instantiate@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:242:26
+handleEvent@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:651:12
+
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1645628701781	Marionette	INFO	Stopped listening on port 43771
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://id.rambler.ru"
+1645628706981	Marionette	INFO	Stopped listening on port 37613
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1645629023683	geckodriver	INFO	Listening on 127.0.0.1:52371
+1645629023692	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "58119" "-no-remote" "-profile" "/tmp/rust_mozprofilegEZT24"
+1645629025856	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilegEZT24/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58119/devtools/browser/5d116462-79ed-440f-8688-e6ac87a93a50
+1645629028995	Marionette	INFO	Listening on port 40095
+1645629030007	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1645629030011	RemoteAgent	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:35621","sslProxy":"127.0.0.1:35621"}
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 12: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://ssp.rambler.ru/capirs_async.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 12: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://ssp.rambler.ru/capirs_async.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1645629223340	geckodriver	INFO	Listening on 127.0.0.1:49805
+1645629223347	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "33781" "-no-remote" "-profile" "/tmp/rust_mozprofileDcr7H7"
+1645629225500	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileDcr7H7/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:33781/devtools/browser/7847518c-84fc-403c-8f47-6626a53f4f6b
+1645629228827	Marionette	INFO	Listening on port 40241
+1645629229841	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1645629229846	RemoteAgent	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:34905","sslProxy":"127.0.0.1:34905"}
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 12: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1645629236197	Marionette	INFO	Stopped listening on port 40095
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 12: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://ssp.rambler.ru/capirs_async.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://ssp.rambler.ru/capirs_async.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1645629332150	Marionette	INFO	Stopped listening on port 40241
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1645630998008	geckodriver	INFO	Listening on 127.0.0.1:42971
+1645630998466	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "38653" "-no-remote" "-profile" "/tmp/rust_mozprofileb4OsrI"
+1645631001122	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileb4OsrI/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:38653/devtools/browser/486de97b-3dcc-4603-9321-6f206c2d6392
+1645631004691	Marionette	INFO	Listening on port 41821
+1645631004895	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1645631004902	RemoteAgent	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:44439","sslProxy":"127.0.0.1:44439"}
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+1645631026979	Marionette	INFO	Stopped listening on port 41821
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1645631240924	geckodriver	INFO	Listening on 127.0.0.1:57757
+1645631240935	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "38231" "-no-remote" "-profile" "/tmp/rust_mozprofilegWTI1h"
+1645631242048	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilegWTI1h/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:38231/devtools/browser/82b4ebfe-ab4e-4364-8507-835d571b6f31
+1645631244999	Marionette	INFO	Listening on port 38681
+1645631246048	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1645631246054	RemoteAgent	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:38287","sslProxy":"127.0.0.1:38287"}
+1645631255740	Marionette	INFO	Stopped listening on port 38681
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1645631300770	geckodriver	INFO	Listening on 127.0.0.1:51395
+1645631300778	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "33009" "-no-remote" "-profile" "/tmp/rust_mozprofileTANCPn"
+1645631302894	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileTANCPn/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:33009/devtools/browser/ceba5575-e66d-458d-82cb-f1edf45f97d2
+1645631305885	Marionette	INFO	Listening on port 33329
+1645631305933	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1645631305937	RemoteAgent	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:43559","sslProxy":"127.0.0.1:43559"}
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+1645631309661	Marionette	INFO	Stopped listening on port 33329
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1645631391629	geckodriver	INFO	Listening on 127.0.0.1:49085
+1645631391635	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "57953" "-no-remote" "-profile" "/tmp/rust_mozprofileSM5TGf"
+1645631393724	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileSM5TGf/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57953/devtools/browser/780d2c7b-8ce9-4f4f-a796-411ec503f315
+1645631396729	Marionette	INFO	Listening on port 42773
+1645631396787	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1645631396790	RemoteAgent	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:39511","sslProxy":"127.0.0.1:39511"}
+1645631415812	Marionette	INFO	Stopped listening on port 42773
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1645631418593	geckodriver::marionette	ERROR	Failed to close browser connection: Socket not connected (os error 107)
+1645631460927	geckodriver	INFO	Listening on 127.0.0.1:56267
+1645631460934	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "56413" "-no-remote" "-profile" "/tmp/rust_mozprofileJwHCyE"
+1645631463055	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileJwHCyE/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56413/devtools/browser/40ab3feb-71e1-4478-9e11-b4a2bc194d33
+1645631466154	Marionette	INFO	Listening on port 41981
+1645631467215	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1645631467220	RemoteAgent	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:42781","sslProxy":"127.0.0.1:42781"}
+1645631474542	Marionette	INFO	Stopped listening on port 41981
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1645631475211	geckodriver::marionette	ERROR	Failed to close browser connection: Socket not connected (os error 107)
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: uncaught exception: Object
+[2022-02-23T15:51:15Z ERROR glean] Can't persist ping lifetime data: Error { kind: Rkv(IoError(Os { code: 2, kind: NotFound, message: "No such file or directory" })) }
+1645631522430	geckodriver	INFO	Listening on 127.0.0.1:56707
+1645631522437	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "36407" "-no-remote" "-profile" "/tmp/rust_mozprofilecWMxvB"
+1645631524537	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilecWMxvB/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:36407/devtools/browser/93edabfa-ea10-43e1-8662-de6a04bf7d46
+1645631527538	Marionette	INFO	Listening on port 33433
+1645631527593	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://whatismyipaddress.com/ line 1 > injectedScript, line 1: SyntaxError: redeclaration of const taggarInterval
+1645631545078	Marionette	INFO	Stopped listening on port 33433
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1645631576715	geckodriver	INFO	Listening on 127.0.0.1:38943
+1645631576722	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "55289" "-no-remote" "-profile" "/tmp/rust_mozprofileqM7HQf"
+1645631578774	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileqM7HQf/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55289/devtools/browser/d580f199-795f-422c-a36e-d0545f324fb7
+1645631582139	Marionette	INFO	Listening on port 43817
+1645631582172	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 12: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 12: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://ssp.rambler.ru/capirs_async.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://ssp.rambler.ru/capirs_async.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1645631622706	Marionette	INFO	Stopped listening on port 43817
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.

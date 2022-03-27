@@ -1,0 +1,22 @@
+logoutlocation:
+  world: world
+  x: -146.2574433999094
+  y: 71.0
+  z: -173.80362667527646
+  yaw: -302.88013
+  pitch: 14.400166
+timestamps:
+  logout: 1636039351102
+  login: 1636038665968
+  lastteleport: 1636036851638
+lastAccountName: jongog
+ipAddress: 185.180.58.179
+money: '0'
+lastlocation:
+  world: world
+  x: -63.532639783128374
+  y: 66.0
+  z: -177.8959659876901
+  yaw: -109.23151
+  pitch: 8.400009
+godmode: false

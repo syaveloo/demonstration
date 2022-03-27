@@ -1,0 +1,11 @@
+{
+	"title" : "ugar_map1",
+	"type" : "map",
+	"tags" : [ "fun", "build" ],
+	"ignore" :
+	[
+		"*.psd",
+		"*.vcproj",
+		"*.svn"
+	]
+}

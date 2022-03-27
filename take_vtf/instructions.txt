@@ -1,0 +1,13 @@
+config.json:
+// ATTENTION!!! Slashes must be a "\\" or '/'. Only not '\'!!!
+{
+	// Your Garry`s Mod game path. By default: "C:\\Program Files (x86)\\Steam\\steamapps\\common\\GarrysMod"
+	"gmod_path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\GarrysMod",
+	// Your images folder. By default simple example.
+	"images_path": "C:\\Users\\user\\Desktop\\images"
+}
+
+Supported formats:
+-	Program supports all images formats, this images just converting while script is executing.
+-	But convert method isn`t universal, then we recommend to use JPG, JPEG, PNG, JFIF(lol, idk why in 2021 it`s so a lot of images in .jfif).
+-	Program will eat only raw images, do not put in his weakness code ready .tga files. In future, maybe, i will add flags to make program universaly.

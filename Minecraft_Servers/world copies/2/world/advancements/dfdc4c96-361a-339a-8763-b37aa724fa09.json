@@ -1,0 +1,38 @@
+{
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2021-08-28 10:36:58 +0700"
+    },
+    "done": true
+  },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2021-08-28 10:38:40 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2021-08-28 10:36:58 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/skull_banner_pattern": {
+    "criteria": {
+      "has_wither_skeleton_skull": "2021-08-28 10:38:40 +0700"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:forest": "2021-08-28 10:17:51 +0700",
+      "minecraft:taiga": "2021-08-28 12:16:23 +0700",
+      "minecraft:taiga_hills": "2021-08-28 12:37:35 +0700",
+      "minecraft:beach": "2021-08-28 10:18:45 +0700",
+      "minecraft:river": "2021-08-28 10:32:42 +0700",
+      "minecraft:plains": "2021-08-28 10:30:53 +0700"
+    },
+    "done": false
+  },
+  "DataVersion": 2586
+}

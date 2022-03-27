@@ -1,0 +1,38 @@
+/* Page background */
+body {
+	background-image: url("images/background.jpg");
+	background-size: 100%;
+}
+
+.reward1 {
+	width: 17%;
+	height: 10%;
+	border-style: solid;
+	border-width: 35px 5px 35px 5px;
+	border-color: #ff88ff;
+	margin-left: 40%;
+}
+
+.intro {
+	font-family: verdana;
+	color: #5555ff;
+	font-size: 100%;
+	text-align: center;
+}
+
+.intro2 {
+	color: #44aa44;
+	text-align: center;
+}
+
+.desc {
+	color: #ffffff;
+	font-family: arial;
+	text-align: center;
+}
+
+.refresh_button {
+	color: #00ff00;
+	text-align: right;
+	font-family: arial;
+}

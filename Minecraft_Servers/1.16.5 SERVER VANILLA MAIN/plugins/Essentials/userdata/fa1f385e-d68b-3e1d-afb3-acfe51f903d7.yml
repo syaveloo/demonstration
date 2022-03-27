@@ -1,0 +1,20 @@
+logoutlocation:
+  world: world
+  x: -649.855853366673
+  y: 67.1212968405392
+  z: -309.5578776275987
+  yaw: -295.14713
+  pitch: 13.847519
+timestamps:
+  logout: 1634295384583
+  login: 1634294299396
+  lastteleport: 1634293051991
+lastAccountName: CustomCriminal
+ipAddress: 185.82.199.117
+lastlocation:
+  world: world
+  x: -430.46125510271435
+  y: 78.60937736169376
+  z: -15.082603116826775
+  yaw: 213.77255
+  pitch: -32.725178

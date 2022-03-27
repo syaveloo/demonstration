@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+	<link rel="stylesheet" type="text/css" href="styles.css">
+	<script type="text/javascript" src="script.js"></script>
+</head>
+<body onload="Setup()">
+	<div class="Calculator">
+		<div class="Field">
+			<p id="textfield"></p>
+		</div>
+		<div class="Buttons">
+			<div class="Numbers">
+				<button id="1" onclick="Calc.field.changeText(1)">1</button>
+				<button id="2" onclick="Calc.field.changeText(2)">2</button>
+				<button id="3" onclick="Calc.field.changeText(3)">3</button>
+				<button id="4" onclick="Calc.field.changeText(4)">4</button>
+				<button id="5" onclick="Calc.field.changeText(5)">5</button>
+				<button id="6" onclick="Calc.field.changeText(6)">6</button>
+				<button id="7" onclick="Calc.field.changeText(7)">7</button>
+				<button id="8" onclick="Calc.field.changeText(8)">8</button>
+				<button id="9" onclick="Calc.field.changeText(9)">9</button>
+				<button id="0" onclick="Calc.field.changeText(0)">0</button>
+			</div>
+			<div class="Operators">
+				<button id="+" onclick="Calc.field.addOperator('+')">+</button>
+				<button id="-" onclick="Calc.field.addOperator('-')">-</button>
+				<button id="*" onclick="Calc.field.addOperator('*')">*</button>
+				<button id="/" onclick="Calc.field.addOperator('/')">/</button>
+			</div>
+			<div class="Result">
+				<button id="=" onclick="Calc.Calculate()">=</button>
+			</div>
+		</div>
+	</div>
+</body>
+</html>

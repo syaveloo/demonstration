@@ -1,0 +1,30 @@
+# This is the main alias of the the command, it will determine what you type in chat to execute the command.
+# in this example you type /CustomSimpleCommand to execute this custom command.
+CustomSimpleCommand:
+  Aliases:
+  - csimplecmd
+  - csc
+  Permission: commands.simplecommand
+  Description: Simple example command.
+  ExecuteCommands:
+  - eco give {player} 100
+  ReplyMessages:
+  - '&aThanks for executing this simple command!'
+  - '[BROADCAST]&b{player} has executed my simple command!'
+  dont_edit: 3
+CustomAdvancedCommand:
+  Aliases:
+  - cadvancedcmd
+  - cac
+  Permission: commands.customadvancedcommand
+  Description: My advanced command.
+  Cooldown: 10s
+  Uses: 2
+  UsesPerPermission:
+  - commands.customadvancedcommand.unlimiteduse:-1
+  RequiredArgs:
+  - example player:OnlinePlayer
+  OptionalArgs:
+  - example optional player:OnlinePlayer
+  WhoCanUseCommand: all
+  dont_edit: 4

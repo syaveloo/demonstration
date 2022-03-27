@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <link rel="stylesheet" href="chatbot/chatbot.css">
+    <script src="test.js"></script>
+    <title>bot</title>
+  </head>
+  <body>
+    <input type="text" name="msg" id="usr">
+    <button id="send" onclick="
+    bot.message_handler( document.getElementById('usr').value )
+    ">send</button>
+    <p id="bot">Text me smth...</p>
+  </body>
+</html>

@@ -1,0 +1,26 @@
+[
+  {
+    "uuid": "3c00b58d-a066-4f52-a2b7-615641dcbe00",
+    "name": "Server",
+    "created": "2021-10-15 17:16:43 +0700",
+    "source": "§4MilfPussiTaster§r",
+    "expires": "forever",
+    "reason": "The Ban Hammer has spoken!"
+  },
+  {
+    "uuid": "9ed2634b-86a5-3d77-8557-56d1c28946db",
+    "name": "cansole",
+    "created": "2021-10-15 17:15:38 +0700",
+    "source": "§4MilfPussiTaster§r",
+    "expires": "forever",
+    "reason": "add"
+  },
+  {
+    "uuid": "f78a4d8d-d51b-4b39-98a3-230f2de0c670",
+    "name": "CONSOLE",
+    "created": "2021-10-15 17:15:37 +0700",
+    "source": "Console",
+    "expires": "forever",
+    "reason": "The Ban Hammer has spoken!"
+  }
+]

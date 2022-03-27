@@ -1,0 +1,11 @@
+{
+	"title" : "Weapon Fov v1.0",
+	"type" : "tool",
+	"tags" : [ "scenic" ],
+	"ignore" :
+	[
+		"*.psd",
+		"*.vcproj",
+		"*.svn"
+	]
+}

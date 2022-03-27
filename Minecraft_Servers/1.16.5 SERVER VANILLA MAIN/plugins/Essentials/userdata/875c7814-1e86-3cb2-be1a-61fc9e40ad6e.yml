@@ -1,0 +1,20 @@
+lastAccountName: oslaarulit
+timestamps:
+  login: 1637507420609
+  logout: 1637509516468
+ipAddress: 127.0.0.1
+money: '440'
+logoutlocation:
+  world: world
+  x: -392.07505068064904
+  y: 64.41893740977052
+  z: -55.198579339431674
+  yaw: -136.6499
+  pitch: 7.8000474
+lastlocation:
+  world: world
+  x: -386.83477463824835
+  y: 67.0
+  z: -91.36753797908797
+  yaw: -62.335255
+  pitch: 25.791708

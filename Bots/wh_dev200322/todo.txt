@@ -1,0 +1,25 @@
+# ver. pre-dev200322
+# PDF Test + Preparing schedule
+1) Make pdf test
+2) Create project's schedule
+
+# ver. dev210322
+# Database + Testing permissions
+1) Create Database and configure that by following options in Tech Task
+1.2) Fill Database by 10 example-rows
+1.3) Save Database's info (host, password, port, login, dbname)
+3) Create Telegram bot called "wh_devXX0322"
+3.1) Create some dialog to test permissions
+
+# ver dev220322
+# Buttons redacting (admin only) + Password generation (admin only)
+# + Testing Database editing through bot
+1) Create a dialog: Button redacting
+1.2) Implement dialog into bot
+1.3) Create Table in Database with
+2) Select password generation method
+2.1) Make auto-send password to the admin
+3) Create edit database by commands without dialog and test it
+
+# ver dev230322
+#

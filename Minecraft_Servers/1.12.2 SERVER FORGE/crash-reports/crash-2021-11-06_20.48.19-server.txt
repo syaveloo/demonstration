@@ -1,0 +1,171 @@
+---- Minecraft Crash Report ----
+
+WARNING: coremods are present:
+  weaponlib (mw_2.0-0.4.6.2_mc1.12.2.jar)
+  NoCubesLoadingPlugin (NoCubes-1.12.2-0.4.0-pre3-c8145a96.jar)
+  SpongeCoremod (spongeforge-1.12.2-2838-7.3.1-RC4082.jar)
+Contact their authors BEFORE contacting forge
+
+// Hi. I'm Minecraft, and I'm a crashaholic.
+
+Time: 11/6/21 8:48 PM
+Description: Exception in server tick loop
+
+java.lang.NoClassDefFoundError: dlovin/inventoryhud/gui/InventoryGui
+	at java.lang.Class.getDeclaredMethods0(Native Method)
+	at java.lang.Class.privateGetDeclaredMethods(Unknown Source)
+	at java.lang.Class.getDeclaredMethods(Unknown Source)
+	at net.minecraftforge.fml.common.FMLModContainer.gatherAnnotations(FMLModContainer.java:400)
+	at net.minecraftforge.fml.common.FMLModContainer.constructMod(FMLModContainer.java:595)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at com.google.common.eventbus.Subscriber.invokeSubscriberMethod(Subscriber.java:91)
+	at com.google.common.eventbus.Subscriber$SynchronizedSubscriber.invokeSubscriberMethod(Subscriber.java:150)
+	at com.google.common.eventbus.Subscriber$1.run(Subscriber.java:76)
+	at com.google.common.util.concurrent.MoreExecutors$DirectExecutor.execute(MoreExecutors.java:399)
+	at com.google.common.eventbus.Subscriber.dispatchEvent(Subscriber.java:71)
+	at com.google.common.eventbus.Dispatcher$PerThreadQueuedDispatcher.dispatch(Dispatcher.java:116)
+	at com.google.common.eventbus.EventBus.post(EventBus.java:217)
+	at net.minecraftforge.fml.common.LoadController.sendEventToModContainer(LoadController.java:219)
+	at net.minecraftforge.fml.common.LoadController.propogateStateMessage(LoadController.java:197)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at com.google.common.eventbus.Subscriber.invokeSubscriberMethod(Subscriber.java:91)
+	at com.google.common.eventbus.Subscriber$SynchronizedSubscriber.invokeSubscriberMethod(Subscriber.java:150)
+	at com.google.common.eventbus.Subscriber$1.run(Subscriber.java:76)
+	at com.google.common.util.concurrent.MoreExecutors$DirectExecutor.execute(MoreExecutors.java:399)
+	at com.google.common.eventbus.Subscriber.dispatchEvent(Subscriber.java:71)
+	at com.google.common.eventbus.Dispatcher$PerThreadQueuedDispatcher.dispatch(Dispatcher.java:116)
+	at com.google.common.eventbus.EventBus.post(EventBus.java:217)
+	at net.minecraftforge.fml.common.LoadController.redirect$zza000$forgeImpl$PostEvent(LoadController.java:568)
+	at net.minecraftforge.fml.common.LoadController.distributeStateMessage(LoadController.java:136)
+	at net.minecraftforge.fml.common.Loader.loadMods(Loader.java:595)
+	at net.minecraftforge.fml.server.FMLServerHandler.beginServerLoading(FMLServerHandler.java:98)
+	at net.minecraftforge.fml.common.FMLCommonHandler.onServerStart(FMLCommonHandler.java:333)
+	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:125)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486)
+	at java.lang.Thread.run(Unknown Source)
+Caused by: java.lang.ClassNotFoundException: dlovin.inventoryhud.gui.InventoryGui
+	at net.minecraft.launchwrapper.LaunchClassLoader.findClass(LaunchClassLoader.java:191)
+	at java.lang.ClassLoader.loadClass(Unknown Source)
+	at java.lang.ClassLoader.loadClass(Unknown Source)
+	... 37 more
+Caused by: java.lang.NoClassDefFoundError: net/minecraft/client/gui/GuiIngame
+	at java.lang.ClassLoader.defineClass1(Native Method)
+	at java.lang.ClassLoader.defineClass(Unknown Source)
+	at java.security.SecureClassLoader.defineClass(Unknown Source)
+	at net.minecraft.launchwrapper.LaunchClassLoader.findClass(LaunchClassLoader.java:182)
+	... 39 more
+Caused by: java.lang.ClassNotFoundException: net.minecraft.client.gui.GuiIngame
+	at net.minecraft.launchwrapper.LaunchClassLoader.findClass(LaunchClassLoader.java:101)
+	at java.lang.ClassLoader.loadClass(Unknown Source)
+	at java.lang.ClassLoader.loadClass(Unknown Source)
+	... 43 more
+
+
+A detailed walkthrough of the error, its code path and all known details is as follows:
+---------------------------------------------------------------------------------------
+
+-- Head --
+Thread: Server thread
+Stacktrace:
+	at java.lang.Class.getDeclaredMethods0(Native Method)
+	at java.lang.Class.privateGetDeclaredMethods(Unknown Source)
+	at java.lang.Class.getDeclaredMethods(Unknown Source)
+	at net.minecraftforge.fml.common.FMLModContainer.gatherAnnotations(FMLModContainer.java:400)
+	at net.minecraftforge.fml.common.FMLModContainer.constructMod(FMLModContainer.java:595)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at com.google.common.eventbus.Subscriber.invokeSubscriberMethod(Subscriber.java:91)
+	at com.google.common.eventbus.Subscriber$SynchronizedSubscriber.invokeSubscriberMethod(Subscriber.java:150)
+	at com.google.common.eventbus.Subscriber$1.run(Subscriber.java:76)
+	at com.google.common.util.concurrent.MoreExecutors$DirectExecutor.execute(MoreExecutors.java:399)
+	at com.google.common.eventbus.Subscriber.dispatchEvent(Subscriber.java:71)
+	at com.google.common.eventbus.Dispatcher$PerThreadQueuedDispatcher.dispatch(Dispatcher.java:116)
+	at com.google.common.eventbus.EventBus.post(EventBus.java:217)
+	at net.minecraftforge.fml.common.LoadController.sendEventToModContainer(LoadController.java:219)
+	at net.minecraftforge.fml.common.LoadController.propogateStateMessage(LoadController.java:197)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at com.google.common.eventbus.Subscriber.invokeSubscriberMethod(Subscriber.java:91)
+	at com.google.common.eventbus.Subscriber$SynchronizedSubscriber.invokeSubscriberMethod(Subscriber.java:150)
+	at com.google.common.eventbus.Subscriber$1.run(Subscriber.java:76)
+	at com.google.common.util.concurrent.MoreExecutors$DirectExecutor.execute(MoreExecutors.java:399)
+	at com.google.common.eventbus.Subscriber.dispatchEvent(Subscriber.java:71)
+	at com.google.common.eventbus.Dispatcher$PerThreadQueuedDispatcher.dispatch(Dispatcher.java:116)
+	at com.google.common.eventbus.EventBus.post(EventBus.java:217)
+	at net.minecraftforge.fml.common.LoadController.redirect$zza000$forgeImpl$PostEvent(LoadController.java:568)
+	at net.minecraftforge.fml.common.LoadController.distributeStateMessage(LoadController.java:136)
+	at net.minecraftforge.fml.common.Loader.loadMods(Loader.java:595)
+
+-- Sponge PhaseTracker --
+Details:
+	Phase Stack: [Empty stack]
+Stacktrace:
+	at net.minecraft.server.MinecraftServer.handler$zjg000$onCrashReport(MinecraftServer.java:4687)
+	at net.minecraft.server.MinecraftServer.func_71230_b(MinecraftServer.java:889)
+	at net.minecraft.server.dedicated.DedicatedServer.func_71230_b(DedicatedServer.java:371)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:558)
+	at java.lang.Thread.run(Unknown Source)
+
+-- System Details --
+Details:
+	Minecraft Version: 1.12.2
+	Operating System: Windows 10 (amd64) version 10.0
+	Java Version: 1.8.0_301, Oracle Corporation
+	Java VM Version: Java HotSpot(TM) 64-Bit Server VM (mixed mode), Oracle Corporation
+	Memory: 3385079696 bytes (3228 MB) / 4065329152 bytes (3877 MB) up to 4065329152 bytes (3877 MB)
+	JVM Flags: 2 total; -Xmx4096M -Xms4096M
+	IntCache: cache: 0, tcache: 0, allocated: 0, tallocated: 0
+	FML: MCP 9.42 Powered by Forge 14.23.5.2855 20 mods loaded, 20 mods active
+	States: 'U' = Unloaded 'L' = Loaded 'C' = Constructed 'H' = Pre-initialized 'I' = Initialized 'J' = Post-initialized 'A' = Available 'D' = Disabled 'E' = Errored
+
+	Mods:
+
+	| State | ID                | Version                    | Source                                   | Signature                                |
+	|:----- |:----------------- |:-------------------------- |:---------------------------------------- |:---------------------------------------- |
+	| LC    | minecraft         | 1.12.2                     | minecraft.jar                            | None                                     |
+	| LC    | mcp               | 9.42                       | minecraft.jar                            | None                                     |
+	| LC    | FML               | 8.0.99.99                  | forge-1.12.2-14.23.5.2855.jar            | e3c3d50c7c986df74c645c0ac54639741c90a557 |
+	| LC    | forge             | 14.23.5.2855               | forge-1.12.2-14.23.5.2855.jar            | e3c3d50c7c986df74c645c0ac54639741c90a557 |
+	| LC    | spongeapi         | 7.3.0-13882aa47            | spongeforge-1.12.2-2838-7.3.1-RC4082.jar | None                                     |
+	| LC    | sponge            | 1.12.2-7.3.1-SNAPSHOT      | spongeforge-1.12.2-2838-7.3.1-RC4082.jar | None                                     |
+	| LC    | spongeforge       | 1.12.2-2838-7.3.1-RC4082   | spongeforge-1.12.2-2838-7.3.1-RC4082.jar | None                                     |
+	| LC    | eyesinthedarkness | 0.1.0                      | EyesInTheDarkness_1.12.2_0.1.0.jar       | None                                     |
+	| LC    | grapplemod        | 1.12.2-v12                 | grapplemod-v12-1.12.2.jar                | None                                     |
+	| LC    | gravekeeper       | 0.6.1.1                    | GraveKeeper-1.12.2-0.6.1.1.jar           | None                                     |
+	| L     | inventoryhud      | 3.4.0                      | InventoryHUD-1.12.2.forge-3.4.1.jar      | None                                     |
+	| L     | jei               | 4.16.1.301                 | jei_1.12.2-4.16.1.301.jar                | None                                     |
+	| L     | journeymap        | 1.12.2-5.7.1               | journeymap_1.12.2_5.7.1.jar              | None                                     |
+	| L     | moderncreater     | 1.4.0                      | modern_creator_1.12.2_1.4.0.jar          | None                                     |
+	| L     | mw                | 0.4.6.2                    | mw_2.0-0.4.6.2_mc1.12.2.jar              | None                                     |
+	| L     | nocubes           | 1.12.2-0.4.0-pre3-c8145a96 | NoCubes-1.12.2-0.4.0-pre3-c8145a96.jar   | None                                     |
+	| L     | steveswasteland2  | 1.0.0                      | StevesWasteland-forge-1.12.2-1.11.jar    | None                                     |
+	| L     | animestickers     | 1.0.0                      | Stickers.jar                             | None                                     |
+	| L     | uncharted         | v04                        | Uncharted_1.12_v04.jar                   | None                                     |
+
+
+	Plugins:
+
+	| State | ID        | Version         | Source                                             | Signature |
+	|:----- |:--------- |:--------------- |:-------------------------------------------------- |:--------- |
+	| L     | worldedit | 6.1.10-SNAPSHOT | worldedit-sponge-api7.1.0-6.1.10-SNAPSHOT-dist.jar | None      |
+
+	Loaded coremods (and transformers): 
+weaponlib (mw_2.0-0.4.6.2_mc1.12.2.jar)
+  com.vicmatskiv.weaponlib.core.WeaponlibClassTransformer
+NoCubesLoadingPlugin (NoCubes-1.12.2-0.4.0-pre3-c8145a96.jar)
+  io.github.cadiboo.nocubes.tempcore.NoCubesClassTransformer
+SpongeCoremod (spongeforge-1.12.2-2838-7.3.1-RC4082.jar)
+  org.spongepowered.common.launch.transformer.SpongeSuperclassTransformer
+	Profiler Position: N/A (disabled)
+	Is Modded: Definitely; Server brand changed to 'fml,forge,sponge'
+	Type: Dedicated Server (map_server.txt)

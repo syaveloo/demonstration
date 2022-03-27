@@ -1,0 +1,1423 @@
+[15:09:49] [main/DEBUG] [FML/]: Injecting tracing printstreams for STDOUT/STDERR.
+[15:09:49] [main/INFO] [FML/]: Forge Mod Loader version 7.99.40.1614 for Minecraft 1.7.10 loading
+[15:09:49] [main/INFO] [FML/]: Java is Java HotSpot(TM) 64-Bit Server VM, version 1.8.0_301, running on Windows 10:amd64:10.0, installed at C:\Program Files\Java\jre1.8.0_301
+[15:09:49] [main/DEBUG] [FML/]: Java classpath at launch is forge-1.7.10-10.13.4.1614-1.7.10-universal.jar
+[15:09:49] [main/DEBUG] [FML/]: Java library path at launch is C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Program Files\Eclipse Foundation\jdk-8.0.302.8-hotspot\bin;C:\Program Files\Eclipse Foundation\jdk-16.0.2.7-hotspot\bin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files\Java\jdk-17\bin;C:\Program Files\dotnet\;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\Program Files\Git\cmd;C:\Users\user\AppData\Local\Programs\Python\Python39\Scripts\;C:\Users\user\AppData\Local\Programs\Python\Python39\;C:\Users\user\AppData\Local\Microsoft\WindowsApps;C:\Users\user\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\user\.dotnet\tools;.
+[15:09:49] [main/DEBUG] [FML/]: Enabling runtime deobfuscation
+[15:09:49] [main/DEBUG] [FML/]: Instantiating coremod class FMLCorePlugin
+[15:09:49] [main/DEBUG] [FML/]: Added access transformer class cpw.mods.fml.common.asm.transformers.AccessTransformer to enqueued access transformers
+[15:09:49] [main/DEBUG] [FML/]: Enqueued coremod FMLCorePlugin
+[15:09:49] [main/DEBUG] [FML/]: Instantiating coremod class FMLForgePlugin
+[15:09:49] [main/DEBUG] [FML/]: Added access transformer class net.minecraftforge.transformers.ForgeAccessTransformer to enqueued access transformers
+[15:09:49] [main/DEBUG] [FML/]: Enqueued coremod FMLForgePlugin
+[15:09:49] [main/DEBUG] [FML/]: All fundamental core mods are successfully located
+[15:09:49] [main/DEBUG] [FML/]: Attempting to load commandline specified mods, relative to C:\Games\ForgeMinecraft\.
+[15:09:49] [main/DEBUG] [FML/]: Discovering coremods
+[15:09:49] [main/DEBUG] [FML/]: Examining for coremod candidacy mw_2.0_0.4.2.4HalloweenUpdate_mc1.7.10.jar
+[15:09:49] [main/TRACE] [FML/]: Found FMLCorePluginContainsFMLMod marker in mw_2.0_0.4.2.4HalloweenUpdate_mc1.7.10.jar, it will be examined later for regular @Mod instances
+[15:09:49] [main/DEBUG] [FML/]: Instantiating coremod class WeaponlibCorePlugin
+[15:09:49] [main/TRACE] [FML/]: coremod named weaponlib is loading
+[15:09:49] [main/DEBUG] [FML/]: The coremod com.vicmatskiv.weaponlib.core.WeaponlibCorePlugin requested minecraft version 1.7.10 and minecraft is 1.7.10. It will be loaded.
+[15:09:49] [main/DEBUG] [FML/]: Enqueued coremod weaponlib
+[15:09:49] [main/DEBUG] [FML/]: Examining for coremod candidacy OptiFine_1.7.10_HD_U_E7.jar
+[15:09:49] [main/INFO] [FML/]: Loading tweaker optifine.OptiFineForgeTweaker from OptiFine_1.7.10_HD_U_E7.jar
+[15:09:49] [main/INFO] [LaunchWrapper/]: Loading tweak class name cpw.mods.fml.common.launcher.FMLInjectionAndSortingTweaker
+[15:09:49] [main/INFO] [LaunchWrapper/]: Loading tweak class name optifine.OptiFineForgeTweaker
+[15:09:49] [main/INFO] [LaunchWrapper/]: Loading tweak class name cpw.mods.fml.common.launcher.FMLDeobfTweaker
+[15:09:49] [main/INFO] [LaunchWrapper/]: Calling tweak class cpw.mods.fml.common.launcher.FMLInjectionAndSortingTweaker
+[15:09:49] [main/INFO] [LaunchWrapper/]: Calling tweak class cpw.mods.fml.common.launcher.FMLInjectionAndSortingTweaker
+[15:09:49] [main/INFO] [LaunchWrapper/]: Calling tweak class optifine.OptiFineForgeTweaker
+[15:09:49] [main/INFO] [STDOUT/]: [optifine.OptiFineForgeTweaker:dbg:56]: OptiFineForgeTweaker: acceptOptions
+[15:09:49] [main/INFO] [STDOUT/]: [optifine.OptiFineForgeTweaker:dbg:56]: OptiFineForgeTweaker: Forge server detected, skipping class transformer
+[15:09:49] [main/INFO] [LaunchWrapper/]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[15:09:49] [main/DEBUG] [FML/]: Injecting coremod FMLCorePlugin {cpw.mods.fml.relauncher.FMLCorePlugin} class transformers
+[15:09:49] [main/TRACE] [FML/]: Registering transformer cpw.mods.fml.common.asm.transformers.MarkerTransformer
+[15:09:49] [main/TRACE] [FML/]: Registering transformer cpw.mods.fml.common.asm.transformers.SideTransformer
+[15:09:49] [main/TRACE] [FML/]: Registering transformer cpw.mods.fml.common.asm.transformers.EventSubscriptionTransformer
+[15:09:49] [main/DEBUG] [FML/]: Injection complete
+[15:09:49] [main/DEBUG] [FML/]: Running coremod plugin for FMLCorePlugin {cpw.mods.fml.relauncher.FMLCorePlugin}
+[15:09:49] [main/DEBUG] [FML/]: Running coremod plugin FMLCorePlugin
+[15:09:51] [main/DEBUG] [FML/]: Read 527 binary patches
+[15:09:52] [main/INFO] [FML/]: Found valid fingerprint for Minecraft Forge. Certificate fingerprint e3c3d50c7c986df74c645c0ac54639741c90a557
+[15:09:52] [main/DEBUG] [FML/]: Coremod plugin class FMLCorePlugin run successfully
+[15:09:52] [main/INFO] [LaunchWrapper/]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[15:09:52] [main/DEBUG] [FML/]: Injecting coremod FMLForgePlugin {net.minecraftforge.classloading.FMLForgePlugin} class transformers
+[15:09:52] [main/TRACE] [FML/]: Registering transformer net.minecraftforge.classloading.FluidIdTransformer
+[15:09:52] [main/DEBUG] [FML/]: Injection complete
+[15:09:52] [main/DEBUG] [FML/]: Running coremod plugin for FMLForgePlugin {net.minecraftforge.classloading.FMLForgePlugin}
+[15:09:52] [main/DEBUG] [FML/]: Running coremod plugin FMLForgePlugin
+[15:09:52] [main/DEBUG] [FML/]: Coremod plugin class FMLForgePlugin run successfully
+[15:09:52] [main/INFO] [LaunchWrapper/]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[15:09:52] [main/DEBUG] [FML/]: Injecting coremod weaponlib {com.vicmatskiv.weaponlib.core.WeaponlibCorePlugin} class transformers
+[15:09:52] [main/TRACE] [FML/]: Registering transformer com.vicmatskiv.weaponlib.core.WeaponlibClassTransformer
+[15:09:52] [main/DEBUG] [FML/]: Injection complete
+[15:09:52] [main/DEBUG] [FML/]: Running coremod plugin for weaponlib {com.vicmatskiv.weaponlib.core.WeaponlibCorePlugin}
+[15:09:52] [main/DEBUG] [FML/]: Running coremod plugin weaponlib
+[15:09:52] [main/DEBUG] [FML/]: Coremod plugin class WeaponlibCorePlugin run successfully
+[15:09:52] [main/INFO] [LaunchWrapper/]: Calling tweak class cpw.mods.fml.common.launcher.FMLDeobfTweaker
+[15:09:52] [main/DEBUG] [FML/]: Loaded 57 rules from AccessTransformer config file fml_at.cfg
+[15:09:52] [main/DEBUG] [FML/]: Loaded 89 rules from AccessTransformer config file forge_at.cfg
+[15:09:52] [main/DEBUG] [FML/]: Validating minecraft
+[15:09:54] [main/DEBUG] [FML/]: Minecraft validated, launching...
+[15:09:54] [main/INFO] [LaunchWrapper/]: Loading tweak class name cpw.mods.fml.common.launcher.TerminalTweaker
+[15:09:54] [main/INFO] [LaunchWrapper/]: Calling tweak class cpw.mods.fml.common.launcher.TerminalTweaker
+[15:09:54] [main/INFO] [STDOUT/]: [optifine.OptiFineForgeTweaker:dbg:56]: OptiFineForgeTweaker: getLaunchArguments
+[15:09:55] [main/INFO] [LaunchWrapper/]: Launching wrapped minecraft {net.minecraft.server.MinecraftServer}
+[15:10:00] [main/WARN] [FML/]: =============================================================
+[15:10:00] [main/WARN] [FML/]: MOD HAS DIRECT REFERENCE System.exit() THIS IS NOT ALLOWED REROUTING TO FML!
+[15:10:00] [main/WARN] [FML/]: Offendor: net/minecraft/server/gui/MinecraftServerGui$1.windowClosing(Ljava/awt/event/WindowEvent;)V
+[15:10:00] [main/WARN] [FML/]: Use FMLCommonHandler.exitJava instead
+[15:10:00] [main/WARN] [FML/]: =============================================================
+[15:10:01] [Server thread/INFO] [MinecraftForge/]: Attempting early MinecraftForge initialization
+[15:10:01] [Server thread/INFO] [FML/]: MinecraftForge v10.13.4.1614 Initialized
+[15:10:02] [Server thread/INFO] [FML/]: Replaced 183 ore recipies
+[15:10:02] [Server thread/INFO] [MinecraftForge/]: Completed early MinecraftForge initialization
+[15:10:02] [Server thread/DEBUG] [FML/]: File C:\Games\ForgeMinecraft\config\injectedDependencies.json not found. No dependencies injected
+[15:10:02] [Server thread/DEBUG] [FML/]: Building injected Mod Containers [cpw.mods.fml.common.FMLContainer, net.minecraftforge.common.ForgeModContainer]
+[15:10:02] [Server thread/DEBUG] [FML/]: Attempting to load mods contained in the minecraft jar file and associated classes
+[15:10:02] [Server thread/DEBUG] [FML/]: Found a minecraft related file at C:\Games\ForgeMinecraft\forge-1.7.10-10.13.4.1614-1.7.10-universal.jar, examining for mod candidates
+[15:10:02] [Server thread/TRACE] [FML/]: Skipping known library file C:\Games\ForgeMinecraft\mods\mw_2.0_0.4.2.4HalloweenUpdate_mc1.7.10.jar
+[15:10:03] [Server thread/TRACE] [FML/]: Skipping known library file C:\Games\ForgeMinecraft\mods\OptiFine_1.7.10_HD_U_E7.jar
+[15:10:03] [Server thread/DEBUG] [FML/]: Minecraft jar mods loaded successfully
+[15:10:03] [Server thread/INFO] [FML/]: Found 0 mods from the command line. Injecting into mod discoverer
+[15:10:03] [Server thread/INFO] [FML/]: Searching C:\Games\ForgeMinecraft\mods for mods
+[15:10:03] [Server thread/DEBUG] [FML/]: Found a candidate zip or jar file mw_2.0_0.4.2.4HalloweenUpdate_mc1.7.10.jar
+[15:10:03] [Server thread/TRACE] [FML/]: Skipping already parsed coremod or tweaker OptiFine_1.7.10_HD_U_E7.jar
+[15:10:03] [Server thread/DEBUG] [FML/]: Examining file forge-1.7.10-10.13.4.1614-1.7.10-universal.jar for potential mods
+[15:10:03] [Server thread/DEBUG] [FML/]: The mod container forge-1.7.10-10.13.4.1614-1.7.10-universal.jar appears to be missing an mcmod.info file
+[15:10:03] [Server thread/DEBUG] [FML/]: Examining file mw_2.0_0.4.2.4HalloweenUpdate_mc1.7.10.jar for potential mods
+[15:10:03] [Server thread/TRACE] [FML/]: Located mcmod.info file in file mw_2.0_0.4.2.4HalloweenUpdate_mc1.7.10.jar
+[15:10:04] [Server thread/DEBUG] [FML/]: Identified a mod of type Lcpw/mods/fml/common/Mod; (com.vicmatskiv.mw.ModernWarfareMod) - loading
+[15:10:04] [Server thread/TRACE] [mw/]: Parsed dependency info : [] [] []
+[15:10:05] [Server thread/INFO] [FML/]: Forge Mod Loader has identified 4 mods to load
+[15:10:05] [Server thread/TRACE] [FML/]: Received a system property request ''
+[15:10:05] [Server thread/TRACE] [FML/]: System property request managing the state of 0 mods
+[15:10:05] [Server thread/DEBUG] [FML/]: After merging, found state information for 0 mods
+[15:10:05] [Server thread/DEBUG] [FML/]: Found translations in forge-1.7.10-10.13.4.1614-1.7.10-universal.jar [en_US, en_US, es_ES, fr_FR, ru_RU, de_DE, af_ZA, ar_SA, br_FR, ca_ES, cs_CZ, da_DK, el_GR, fa_IR, fi_FI, he_IL, hu_HU, it_IT, ja_JP, ko_KR, lt_LT, nb_NO, nl_NL, nn_NO, no_NO, pl_PL, pt_BR, pt_PT, ro_RO, sl_SI, sr_SP, sv_SE, tr_TR, uk_UA, vi_VN, zh_CN, zh_TW]
+[15:10:05] [Server thread/DEBUG] [FML/]: Found translations in forge-1.7.10-10.13.4.1614-1.7.10-universal.jar [en_US, en_US, es_ES, fr_FR, ru_RU, de_DE, af_ZA, ar_SA, br_FR, ca_ES, cs_CZ, da_DK, el_GR, fa_IR, fi_FI, he_IL, hu_HU, it_IT, ja_JP, ko_KR, lt_LT, nb_NO, nl_NL, nn_NO, no_NO, pl_PL, pt_BR, pt_PT, ro_RO, sl_SI, sr_SP, sv_SE, tr_TR, uk_UA, vi_VN, zh_CN, zh_TW]
+[15:10:05] [Server thread/DEBUG] [mw/]: Enabling mod mw
+[15:10:05] [Server thread/DEBUG] [FML/]: Found translations in mw_2.0_0.4.2.4HalloweenUpdate_mc1.7.10.jar [en_US]
+[15:10:05] [Server thread/TRACE] [FML/]: Verifying mod requirements are satisfied
+[15:10:05] [Server thread/TRACE] [FML/]: All mod requirements are satisfied
+[15:10:05] [Server thread/TRACE] [FML/]: Sorting mods into an ordered list
+[15:10:05] [Server thread/TRACE] [FML/]: Mod sorting completed successfully
+[15:10:05] [Server thread/DEBUG] [FML/]: Mod sorting data
+[15:10:05] [Server thread/DEBUG] [FML/]: 	mw(Modern Warfare Contagion:0.4.2.4): mw_2.0_0.4.2.4HalloweenUpdate_mc1.7.10.jar ()
+[15:10:05] [Server thread/TRACE] [mcp/mcp]: Sending event FMLConstructionEvent to mod mcp
+[15:10:05] [Server thread/TRACE] [mcp/mcp]: Sent event FMLConstructionEvent to mod mcp
+[15:10:05] [Server thread/DEBUG] [FML/]: Bar Step: Construction - Minecraft Coder Pack took 0.003s
+[15:10:05] [Server thread/TRACE] [FML/FML]: Sending event FMLConstructionEvent to mod FML
+[15:10:05] [Server thread/TRACE] [FML/FML]: Mod FML is using network checker : Invoking method checkModLists
+[15:10:05] [Server thread/TRACE] [FML/FML]: Testing mod FML to verify it accepts its own version in a remote connection
+[15:10:05] [Server thread/TRACE] [FML/FML]: The mod FML accepts its own version (7.10.99.99)
+[15:10:05] [Server thread/INFO] [FML/FML]: Attempting connection with missing mods [mcp, FML, Forge, mw] at CLIENT
+[15:10:05] [Server thread/INFO] [FML/FML]: Attempting connection with missing mods [mcp, FML, Forge, mw] at SERVER
+[15:10:06] [Server thread/TRACE] [FML/FML]: Sent event FMLConstructionEvent to mod FML
+[15:10:06] [Server thread/DEBUG] [FML/]: Bar Step: Construction - Forge Mod Loader took 0.495s
+[15:10:06] [Server thread/TRACE] [Forge/Forge]: Sending event FMLConstructionEvent to mod Forge
+[15:10:06] [Server thread/TRACE] [FML/Forge]: Mod Forge is using network checker : No network checking performed
+[15:10:06] [Server thread/TRACE] [FML/Forge]: Testing mod Forge to verify it accepts its own version in a remote connection
+[15:10:06] [Server thread/TRACE] [FML/Forge]: The mod Forge accepts its own version (10.13.4.1614)
+[15:10:06] [Server thread/TRACE] [Forge/Forge]: Sent event FMLConstructionEvent to mod Forge
+[15:10:06] [Server thread/DEBUG] [FML/]: Bar Step: Construction - Minecraft Forge took 0.017s
+[15:10:06] [Server thread/TRACE] [mw/mw]: Sending event FMLConstructionEvent to mod mw
+[15:10:06] [Server thread/TRACE] [FML/mw]: Mod mw is using network checker : Accepting version 0.4.2.4
+[15:10:06] [Server thread/TRACE] [FML/mw]: Testing mod mw to verify it accepts its own version in a remote connection
+[15:10:06] [Server thread/TRACE] [FML/mw]: The mod mw accepts its own version (0.4.2.4)
+[15:10:06] [Server thread/DEBUG] [FML/mw]: Attempting to inject @SidedProxy classes into mw
+[15:10:06] [Server thread/TRACE] [mw/mw]: Sent event FMLConstructionEvent to mod mw
+[15:10:06] [Server thread/DEBUG] [FML/]: Bar Step: Construction - Modern Warfare Contagion took 0.478s
+[15:10:06] [Server thread/DEBUG] [FML/]: Bar Finished: Construction took 0.993s
+[15:10:06] [Server thread/DEBUG] [FML/]: Mod signature data
+[15:10:06] [Server thread/DEBUG] [FML/]:  	Valid Signatures:
+[15:10:06] [Server thread/DEBUG] [FML/]: 		(e3c3d50c7c986df74c645c0ac54639741c90a557) FML	(Forge Mod Loader	7.10.99.99)	forge-1.7.10-10.13.4.1614-1.7.10-universal.jar
+[15:10:06] [Server thread/DEBUG] [FML/]: 		(e3c3d50c7c986df74c645c0ac54639741c90a557) Forge	(Minecraft Forge	10.13.4.1614)	forge-1.7.10-10.13.4.1614-1.7.10-universal.jar
+[15:10:06] [Server thread/DEBUG] [FML/]:  	Missing Signatures:
+[15:10:06] [Server thread/DEBUG] [FML/]: 		mcp	(Minecraft Coder Pack	9.05)	minecraft.jar
+[15:10:06] [Server thread/DEBUG] [FML/]: 		mw	(Modern Warfare Contagion	0.4.2.4)	mw_2.0_0.4.2.4HalloweenUpdate_mc1.7.10.jar
+[15:10:06] [Server thread/INFO] [FML/]: Processing ObjectHolder annotations
+[15:10:06] [Server thread/INFO] [FML/]: Found 341 ObjectHolder annotations
+[15:10:06] [Server thread/INFO] [FML/]: Identifying ItemStackHolder annotations
+[15:10:06] [Server thread/INFO] [FML/]: Found 0 ItemStackHolder annotations
+[15:10:06] [Server thread/TRACE] [mcp/mcp]: Sending event FMLPreInitializationEvent to mod mcp
+[15:10:06] [Server thread/TRACE] [mcp/mcp]: Sent event FMLPreInitializationEvent to mod mcp
+[15:10:06] [Server thread/DEBUG] [FML/]: Bar Step: PreInitialization - Minecraft Coder Pack took 0.001s
+[15:10:06] [Server thread/TRACE] [FML/FML]: Sending event FMLPreInitializationEvent to mod FML
+[15:10:06] [Server thread/TRACE] [FML/FML]: Sent event FMLPreInitializationEvent to mod FML
+[15:10:06] [Server thread/DEBUG] [FML/]: Bar Step: PreInitialization - Forge Mod Loader took 0.002s
+[15:10:06] [Server thread/TRACE] [Forge/Forge]: Sending event FMLPreInitializationEvent to mod Forge
+[15:10:06] [Server thread/INFO] [FML/Forge]: Configured a dormant chunk cache size of 0
+[15:10:06] [Server thread/TRACE] [Forge/Forge]: Sent event FMLPreInitializationEvent to mod Forge
+[15:10:06] [Server thread/DEBUG] [FML/]: Bar Step: PreInitialization - Minecraft Forge took 0.131s
+[15:10:06] [Server thread/TRACE] [mw/mw]: Sending event FMLPreInitializationEvent to mod mw
+[15:10:07] [Forge Version Check/INFO] [STDERR/Forge]: [java.lang.Throwable$WrappedPrintStream:println:-1]: com.google.gson.JsonSyntaxException: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING at line 1 column 1
+[15:10:07] [Forge Version Check/INFO] [STDERR/Forge]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at com.google.gson.Gson.fromJson(Gson.java:815)
+[15:10:07] [Forge Version Check/INFO] [STDERR/Forge]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at com.google.gson.Gson.fromJson(Gson.java:768)
+[15:10:07] [Forge Version Check/INFO] [STDERR/Forge]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at com.google.gson.Gson.fromJson(Gson.java:717)
+[15:10:07] [Forge Version Check/INFO] [STDERR/Forge]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at com.google.gson.Gson.fromJson(Gson.java:689)
+[15:10:07] [Forge Version Check/INFO] [STDERR/Forge]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at net.minecraftforge.common.ForgeVersion$1.run(ForgeVersion.java:94)
+[15:10:07] [Server thread/ERROR] [com.vicmatskiv.weaponlib.config.ConfigurationManager/mw]: Failed to parse configuration: javax.xml.bind.UnmarshalException
+ - with linked exception:
+[java.io.FileNotFoundException: C:\Games\ForgeMinecraft\config\ModernWarfare.cfg (The system cannot find the file specified)]
+javax.xml.bind.UnmarshalException
+	at com.sun.xml.internal.bind.v2.runtime.unmarshaller.UnmarshallerImpl.unmarshal0(Unknown Source) ~[?:1.8.0_301]
+	at com.sun.xml.internal.bind.v2.runtime.unmarshaller.UnmarshallerImpl.unmarshal(Unknown Source) ~[?:1.8.0_301]
+	at com.sun.xml.internal.bind.v2.runtime.unmarshaller.UnmarshallerImpl.unmarshal(Unknown Source) ~[?:1.8.0_301]
+	at com.vicmatskiv.weaponlib.config.ConfigurationManager$Builder.createConfiguration(ConfigurationManager.java:103) [ConfigurationManager$Builder.class:?]
+	at com.vicmatskiv.weaponlib.config.ConfigurationManager$Builder.build(ConfigurationManager.java:95) [ConfigurationManager$Builder.class:?]
+	at com.vicmatskiv.mw.ModernWarfareMod.initConfigurationManager(ModernWarfareMod.java:98) [ModernWarfareMod.class:?]
+	at com.vicmatskiv.mw.ModernWarfareMod.preInit(ModernWarfareMod.java:73) [ModernWarfareMod.class:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_301]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_301]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_301]
+	at java.lang.reflect.Method.invoke(Unknown Source) ~[?:1.8.0_301]
+	at cpw.mods.fml.common.FMLModContainer.handleModStateEvent(FMLModContainer.java:532) [FMLModContainer.class:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_301]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_301]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_301]
+	at java.lang.reflect.Method.invoke(Unknown Source) ~[?:1.8.0_301]
+	at com.google.common.eventbus.EventSubscriber.handleEvent(EventSubscriber.java:74) [guava-17.0.jar:?]
+	at com.google.common.eventbus.SynchronizedEventSubscriber.handleEvent(SynchronizedEventSubscriber.java:47) [guava-17.0.jar:?]
+	at com.google.common.eventbus.EventBus.dispatch(EventBus.java:322) [guava-17.0.jar:?]
+	at com.google.common.eventbus.EventBus.dispatchQueuedEvents(EventBus.java:304) [guava-17.0.jar:?]
+	at com.google.common.eventbus.EventBus.post(EventBus.java:275) [guava-17.0.jar:?]
+	at cpw.mods.fml.common.LoadController.sendEventToModContainer(LoadController.java:212) [LoadController.class:?]
+	at cpw.mods.fml.common.LoadController.propogateStateMessage(LoadController.java:190) [LoadController.class:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_301]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_301]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_301]
+	at java.lang.reflect.Method.invoke(Unknown Source) ~[?:1.8.0_301]
+	at com.google.common.eventbus.EventSubscriber.handleEvent(EventSubscriber.java:74) [guava-17.0.jar:?]
+	at com.google.common.eventbus.SynchronizedEventSubscriber.handleEvent(SynchronizedEventSubscriber.java:47) [guava-17.0.jar:?]
+	at com.google.common.eventbus.EventBus.dispatch(EventBus.java:322) [guava-17.0.jar:?]
+	at com.google.common.eventbus.EventBus.dispatchQueuedEvents(EventBus.java:304) [guava-17.0.jar:?]
+	at com.google.common.eventbus.EventBus.post(EventBus.java:275) [guava-17.0.jar:?]
+	at cpw.mods.fml.common.LoadController.distributeStateMessage(LoadController.java:119) [LoadController.class:?]
+	at cpw.mods.fml.common.Loader.preinitializeMods(Loader.java:556) [Loader.class:?]
+	at cpw.mods.fml.server.FMLServerHandler.beginServerLoading(FMLServerHandler.java:88) [FMLServerHandler.class:?]
+	at cpw.mods.fml.common.FMLCommonHandler.onServerStart(FMLCommonHandler.java:314) [FMLCommonHandler.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:117) [lt.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:387) [MinecraftServer.class:?]
+	at net.minecraft.server.MinecraftServer$2.run(MinecraftServer.java:685) [li.class:?]
+Caused by: java.io.FileNotFoundException: C:\Games\ForgeMinecraft\config\ModernWarfare.cfg (The system cannot find the file specified)
+	at java.io.FileInputStream.open0(Native Method) ~[?:1.8.0_301]
+	at java.io.FileInputStream.open(Unknown Source) ~[?:1.8.0_301]
+	at java.io.FileInputStream.<init>(Unknown Source) ~[?:1.8.0_301]
+	at java.io.FileInputStream.<init>(Unknown Source) ~[?:1.8.0_301]
+	at sun.net.www.protocol.file.FileURLConnection.connect(Unknown Source) ~[?:1.8.0_301]
+	at sun.net.www.protocol.file.FileURLConnection.getInputStream(Unknown Source) ~[?:1.8.0_301]
+	at com.sun.org.apache.xerces.internal.impl.XMLEntityManager.setupCurrentEntity(Unknown Source) ~[?:1.8.0_301]
+	at com.sun.org.apache.xerces.internal.impl.XMLVersionDetector.determineDocVersion(Unknown Source) ~[?:1.8.0_301]
+	at com.sun.org.apache.xerces.internal.parsers.XML11Configuration.parse(Unknown Source) ~[?:1.8.0_301]
+	at com.sun.org.apache.xerces.internal.parsers.XML11Configuration.parse(Unknown Source) ~[?:1.8.0_301]
+	at com.sun.org.apache.xerces.internal.parsers.XMLParser.parse(Unknown Source) ~[?:1.8.0_301]
+	at com.sun.org.apache.xerces.internal.parsers.AbstractSAXParser.parse(Unknown Source) ~[?:1.8.0_301]
+	at com.sun.org.apache.xerces.internal.jaxp.SAXParserImpl$JAXPSAXParser.parse(Unknown Source) ~[?:1.8.0_301]
+	... 39 more
+[15:10:07] [Forge Version Check/INFO] [STDERR/Forge]: [java.lang.Throwable$WrappedPrintStream:println:-1]: Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING at line 1 column 1
+[15:10:07] [Forge Version Check/INFO] [STDERR/Forge]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at com.google.gson.stream.JsonReader.beginObject(JsonReader.java:374)
+[15:10:07] [Forge Version Check/INFO] [STDERR/Forge]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:183)
+[15:10:07] [Forge Version Check/INFO] [STDERR/Forge]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:145)
+[15:10:07] [Forge Version Check/INFO] [STDERR/Forge]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at com.google.gson.Gson.fromJson(Gson.java:803)
+[15:10:07] [Forge Version Check/INFO] [STDERR/Forge]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	... 4 more
+[15:10:09] [Server thread/TRACE] [FML/mw]: Automatically registered mod mw entity Ammo256 as mw.Ammo256
+[15:10:09] [Server thread/TRACE] [FML/mw]: Automatically registered mod mw entity wcam257 as mw.wcam257
+[15:10:09] [Server thread/TRACE] [FML/mw]: Automatically registered mod mw entity ShellCasing258 as mw.ShellCasing258
+[15:10:09] [Server thread/TRACE] [FML/mw]: Automatically registered mod mw entity Grenade259 as mw.Grenade259
+[15:10:09] [Server thread/TRACE] [FML/mw]: Automatically registered mod mw entity SmokeGrenade260 as mw.SmokeGrenade260
+[15:10:09] [Server thread/TRACE] [FML/mw]: Automatically registered mod mw entity GasGrenade261 as mw.GasGrenade261
+[15:10:09] [Server thread/TRACE] [FML/mw]: Automatically registered mod mw entity EntitySpreadable262 as mw.EntitySpreadable262
+[15:10:13] [Server thread/INFO] [STDERR/mw]: [com.vicmatskiv.weaponlib.AttachmentBuilder:build:310]: !!!No recipe defined for attachment PSO1
+[15:10:13] [Server thread/INFO] [STDERR/mw]: [com.vicmatskiv.weaponlib.AttachmentBuilder:build:310]: !!!No recipe defined for attachment okp7
+[15:10:13] [Server thread/INFO] [STDERR/mw]: [com.vicmatskiv.weaponlib.AttachmentBuilder:build:310]: !!!No recipe defined for attachment Reflex
+[15:10:13] [Server thread/INFO] [STDERR/mw]: [com.vicmatskiv.weaponlib.AttachmentBuilder:build:310]: !!!No recipe defined for attachment BijiaReflex
+[15:10:13] [Server thread/INFO] [STDERR/mw]: [com.vicmatskiv.weaponlib.AttachmentBuilder:build:310]: !!!No recipe defined for attachment Acog
+[15:10:13] [Server thread/INFO] [STDERR/mw]: [com.vicmatskiv.weaponlib.AttachmentBuilder:build:310]: !!!No recipe defined for attachment Specter
+[15:10:13] [Server thread/INFO] [STDERR/mw]: [com.vicmatskiv.weaponlib.AttachmentBuilder:build:310]: !!!No recipe defined for attachment Holographic2
+[15:10:13] [Server thread/INFO] [STDERR/mw]: [com.vicmatskiv.weaponlib.AttachmentBuilder:build:310]: !!!No recipe defined for attachment HolographicAlt
+[15:10:13] [Server thread/INFO] [STDERR/mw]: [com.vicmatskiv.weaponlib.AttachmentBuilder:build:310]: !!!No recipe defined for attachment EotechHybrid2
+[15:10:13] [Server thread/INFO] [STDERR/mw]: [com.vicmatskiv.weaponlib.AttachmentBuilder:build:310]: !!!No recipe defined for attachment Vortex_sight
+[15:10:14] [Server thread/INFO] [STDERR/mw]: [com.vicmatskiv.weaponlib.AttachmentBuilder:build:310]: !!!No recipe defined for attachment MicroT1
+[15:10:14] [Server thread/INFO] [STDERR/mw]: [com.vicmatskiv.weaponlib.AttachmentBuilder:build:310]: !!!No recipe defined for attachment AimpointCompM5
+[15:10:14] [Server thread/INFO] [STDERR/mw]: [com.vicmatskiv.weaponlib.AttachmentBuilder:build:310]: !!!No recipe defined for attachment RMRsight
+[15:10:14] [Server thread/INFO] [STDERR/mw]: [com.vicmatskiv.weaponlib.AttachmentBuilder:build:310]: !!!No recipe defined for attachment Kobra
+[15:10:14] [Server thread/INFO] [STDERR/mw]: [com.vicmatskiv.weaponlib.AttachmentBuilder:build:310]: !!!No recipe defined for attachment HPScope
+[15:10:14] [Server thread/INFO] [STDERR/mw]: [com.vicmatskiv.weaponlib.AttachmentBuilder:build:310]: !!!No recipe defined for attachment NightRaiderScope
+[15:10:14] [Server thread/INFO] [STDERR/mw]: [com.vicmatskiv.weaponlib.AttachmentBuilder:build:310]: !!!No recipe defined for attachment m2a1_sight
+[15:10:14] [Server thread/INFO] [STDERR/mw]: [com.vicmatskiv.weaponlib.AttachmentBuilder:build:310]: !!!No recipe defined for attachment F2000Scope
+[15:10:14] [Server thread/INFO] [STDERR/mw]: [com.vicmatskiv.weaponlib.AttachmentBuilder:build:310]: !!!No recipe defined for attachment M202scope
+[15:10:14] [Server thread/INFO] [STDERR/mw]: [com.vicmatskiv.weaponlib.AttachmentBuilder:build:310]: !!!No recipe defined for attachment MA5Dcover
+[15:10:14] [Server thread/INFO] [STDERR/mw]: [com.vicmatskiv.weaponlib.AttachmentBuilder:build:310]: !!!No recipe defined for attachment BR55scope
+[15:10:15] [Server thread/INFO] [STDERR/mw]: [com.vicmatskiv.weaponlib.AttachmentBuilder:build:310]: !!!No recipe defined for attachment DMRscope
+[15:10:15] [Server thread/INFO] [STDERR/mw]: [com.vicmatskiv.weaponlib.AttachmentBuilder:build:310]: !!!No recipe defined for attachment SRS99Scope
+[15:10:15] [Server thread/INFO] [STDERR/mw]: [com.vicmatskiv.weaponlib.AttachmentBuilder:build:310]: !!!No recipe defined for attachment Silencer556x45
+[15:10:15] [Server thread/INFO] [STDERR/mw]: [com.vicmatskiv.weaponlib.AttachmentBuilder:build:310]: !!!No recipe defined for attachment Silencer762x39
+[15:10:15] [Server thread/INFO] [STDERR/mw]: [com.vicmatskiv.weaponlib.AttachmentBuilder:build:310]: !!!No recipe defined for attachment Silencer9mm
+[15:10:15] [Server thread/INFO] [STDERR/mw]: [com.vicmatskiv.weaponlib.AttachmentBuilder:build:310]: !!!No recipe defined for attachment SilencerMP5
+[15:10:15] [Server thread/INFO] [STDERR/mw]: [com.vicmatskiv.weaponlib.AttachmentBuilder:build:310]: !!!No recipe defined for attachment Silencer9x39mm
+[15:10:15] [Server thread/INFO] [STDERR/mw]: [com.vicmatskiv.weaponlib.AttachmentBuilder:build:310]: !!!No recipe defined for attachment Silencer45ACP
+[15:10:15] [Server thread/INFO] [STDERR/mw]: [com.vicmatskiv.weaponlib.AttachmentBuilder:build:310]: !!!No recipe defined for attachment silencer_eabh
+[15:10:15] [Server thread/INFO] [STDERR/mw]: [com.vicmatskiv.weaponlib.AttachmentBuilder:build:310]: !!!No recipe defined for attachment Silencer762x54
+[15:10:15] [Server thread/INFO] [STDERR/mw]: [com.vicmatskiv.weaponlib.AttachmentBuilder:build:310]: !!!No recipe defined for attachment Silencer762x51
+[15:10:15] [Server thread/INFO] [STDERR/mw]: [com.vicmatskiv.weaponlib.AttachmentBuilder:build:310]: !!!No recipe defined for attachment Silencer50BMG
+[15:10:15] [Server thread/INFO] [STDERR/mw]: [com.vicmatskiv.weaponlib.AttachmentBuilder:build:310]: !!!No recipe defined for attachment Silencer556x39
+[15:10:15] [Server thread/INFO] [STDERR/mw]: [com.vicmatskiv.weaponlib.AttachmentBuilder:build:310]: !!!No recipe defined for attachment AKMIron
+[15:10:15] [Server thread/INFO] [STDERR/mw]: [com.vicmatskiv.weaponlib.AttachmentBuilder:build:310]: !!!No recipe defined for attachment AK15ironsight
+[15:10:15] [Server thread/INFO] [STDERR/mw]: [com.vicmatskiv.weaponlib.AttachmentBuilder:build:310]: !!!No recipe defined for attachment SilencerMP7
+[15:10:15] [Server thread/INFO] [STDERR/mw]: [com.vicmatskiv.weaponlib.AttachmentBuilder:build:310]: !!!No recipe defined for attachment Silencer357
+[15:10:15] [Server thread/INFO] [STDERR/mw]: [com.vicmatskiv.weaponlib.AttachmentBuilder:build:310]: !!!No recipe defined for attachment Silencer57x38
+[15:10:15] [Server thread/INFO] [STDERR/mw]: [com.vicmatskiv.weaponlib.AttachmentBuilder:build:310]: !!!No recipe defined for attachment Silencer12Gauge
+[15:10:15] [Server thread/INFO] [STDERR/mw]: [com.vicmatskiv.weaponlib.AttachmentBuilder:build:310]: !!!No recipe defined for attachment Silencer300AACBlackout
+[15:10:15] [Server thread/INFO] [STDERR/mw]: [com.vicmatskiv.weaponlib.AttachmentBuilder:build:310]: !!!No recipe defined for attachment Silencer65x39
+[15:10:15] [Server thread/INFO] [STDERR/mw]: [com.vicmatskiv.weaponlib.AttachmentBuilder:build:310]: !!!No recipe defined for attachment Laser
+[15:10:15] [Server thread/INFO] [STDERR/mw]: [com.vicmatskiv.weaponlib.AttachmentBuilder:build:310]: !!!No recipe defined for attachment Laser2
+[15:10:15] [Server thread/INFO] [STDERR/mw]: [com.vicmatskiv.weaponlib.AttachmentBuilder:build:310]: !!!No recipe defined for attachment DanWessonLaser
+[15:10:15] [Server thread/INFO] [STDERR/mw]: [com.vicmatskiv.weaponlib.AttachmentBuilder:build:310]: !!!No recipe defined for attachment Grip2
+[15:10:15] [Server thread/INFO] [STDERR/mw]: [com.vicmatskiv.weaponlib.AttachmentBuilder:build:310]: !!!No recipe defined for attachment JunoGrip
+[15:10:15] [Server thread/INFO] [STDERR/mw]: [com.vicmatskiv.weaponlib.AttachmentBuilder:build:310]: !!!No recipe defined for attachment AngledGrip
+[15:10:15] [Server thread/INFO] [STDERR/mw]: [com.vicmatskiv.weaponlib.AttachmentBuilder:build:310]: !!!No recipe defined for attachment StubbyGrip
+[15:10:15] [Server thread/INFO] [STDERR/mw]: [com.vicmatskiv.weaponlib.AttachmentBuilder:build:310]: !!!No recipe defined for attachment VGrip
+[15:10:15] [Server thread/INFO] [STDERR/mw]: [com.vicmatskiv.weaponlib.AttachmentBuilder:build:310]: !!!No recipe defined for attachment Bipod
+[15:10:20] [Server thread/INFO] [STDERR/mw]: [com.vicmatskiv.weaponlib.AttachmentBuilder:build:310]: !!!No recipe defined for attachment AR15Iron
+[15:10:20] [Server thread/INFO] [STDERR/mw]: [com.vicmatskiv.weaponlib.AttachmentBuilder:build:310]: !!!No recipe defined for attachment PlasmaCapsule
+[15:10:20] [Server thread/INFO] [STDERR/mw]: [com.vicmatskiv.weaponlib.AttachmentBuilder:build:310]: !!!No recipe defined for attachment BFGammo
+[15:10:22] [Server thread/INFO] [STDERR/mw]: [com.vicmatskiv.weaponlib.AttachmentBuilder:build:310]: !!!No recipe defined for attachment FuelCell
+[15:10:38] [Server thread/INFO] [STDERR/mw]: [com.vicmatskiv.weaponlib.Weapon$Builder:build:861]: !!!No recipe defined for weapon bfg_9000
+[15:10:38] [Server thread/INFO] [STDERR/mw]: [com.vicmatskiv.weaponlib.Weapon$Builder:build:861]: !!!No recipe defined for weapon chainsaw
+[15:10:38] [Server thread/INFO] [STDERR/mw]: [com.vicmatskiv.weaponlib.AttachmentBuilder:build:310]: !!!No recipe defined for attachment tablet
+[15:10:38] [Server thread/INFO] [STDERR/mw]: [com.vicmatskiv.weaponlib.AttachmentBuilder:build:310]: !!!No recipe defined for attachment gas-detector
+[15:10:38] [Server thread/INFO] [STDERR/mw]: [com.vicmatskiv.weaponlib.grenade.ItemGrenade$Builder:build:387]: !!!No recipe defined for grenade M67Frag
+[15:10:38] [Server thread/INFO] [STDERR/mw]: [com.vicmatskiv.weaponlib.grenade.ItemGrenade$Builder:build:387]: !!!No recipe defined for grenade ImpactGrenade
+[15:10:38] [Server thread/INFO] [STDERR/mw]: [com.vicmatskiv.weaponlib.grenade.ItemGrenade$Builder:build:387]: !!!No recipe defined for grenade M18White
+[15:10:38] [Server thread/INFO] [STDERR/mw]: [com.vicmatskiv.weaponlib.grenade.ItemGrenade$Builder:build:387]: !!!No recipe defined for grenade GasGrenade
+[15:10:38] [Server thread/INFO] [STDERR/mw]: [com.vicmatskiv.weaponlib.melee.ItemMelee$Builder:build:270]: !!!No recipe defined for melee weapon tactical_tomahawk
+[15:10:38] [Server thread/INFO] [STDERR/mw]: [com.vicmatskiv.weaponlib.melee.ItemMelee$Builder:build:270]: !!!No recipe defined for melee weapon baseball_bat
+[15:10:38] [Server thread/INFO] [STDERR/mw]: [com.vicmatskiv.weaponlib.melee.ItemMelee$Builder:build:270]: !!!No recipe defined for melee weapon baseball_bat_nails
+[15:10:39] [Server thread/INFO] [STDERR/mw]: [com.vicmatskiv.weaponlib.melee.ItemMelee$Builder:build:270]: !!!No recipe defined for melee weapon night_stick
+[15:10:39] [Server thread/INFO] [STDERR/mw]: [com.vicmatskiv.weaponlib.melee.ItemMelee$Builder:build:270]: !!!No recipe defined for melee weapon gas_can
+[15:10:39] [Server thread/TRACE] [mw/mw]: Sent event FMLPreInitializationEvent to mod mw
+[15:10:39] [Server thread/DEBUG] [FML/]: Bar Step: PreInitialization - Modern Warfare Contagion took 32.199s
+[15:10:39] [Server thread/DEBUG] [FML/]: Bar Finished: PreInitialization took 32.333s
+[15:10:39] [Server thread/INFO] [FML/]: Applying holder lookups
+[15:10:39] [Server thread/INFO] [FML/]: Holder lookups applied
+[15:10:39] [Server thread/INFO] [FML/]: Injecting itemstacks
+[15:10:39] [Server thread/INFO] [FML/]: Itemstack injection complete
+[15:10:40] [Server thread/TRACE] [mcp/mcp]: Sending event FMLInitializationEvent to mod mcp
+[15:10:40] [Server thread/TRACE] [mcp/mcp]: Sent event FMLInitializationEvent to mod mcp
+[15:10:40] [Server thread/DEBUG] [FML/]: Bar Step: Initialization - Minecraft Coder Pack took 0.001s
+[15:10:40] [Server thread/TRACE] [FML/FML]: Sending event FMLInitializationEvent to mod FML
+[15:10:40] [Server thread/TRACE] [FML/FML]: Sent event FMLInitializationEvent to mod FML
+[15:10:40] [Server thread/DEBUG] [FML/]: Bar Step: Initialization - Forge Mod Loader took 0.001s
+[15:10:40] [Server thread/TRACE] [Forge/Forge]: Sending event FMLInitializationEvent to mod Forge
+[15:10:40] [Server thread/TRACE] [Forge/Forge]: Sent event FMLInitializationEvent to mod Forge
+[15:10:40] [Server thread/DEBUG] [FML/]: Bar Step: Initialization - Minecraft Forge took 0.001s
+[15:10:40] [Server thread/TRACE] [mw/mw]: Sending event FMLInitializationEvent to mod mw
+[15:10:40] [Server thread/TRACE] [mw/mw]: Sent event FMLInitializationEvent to mod mw
+[15:10:40] [Server thread/DEBUG] [FML/]: Bar Step: Initialization - Modern Warfare Contagion took 0.003s
+[15:10:40] [Server thread/DEBUG] [FML/]: Bar Finished: Initialization took 0.005s
+[15:10:40] [Server thread/TRACE] [FML/]: Attempting to deliver 0 IMC messages to mod mcp
+[15:10:40] [Server thread/TRACE] [mcp/mcp]: Sending event IMCEvent to mod mcp
+[15:10:40] [Server thread/TRACE] [mcp/mcp]: Sent event IMCEvent to mod mcp
+[15:10:40] [Server thread/DEBUG] [FML/]: Bar Step: InterModComms$IMC - Minecraft Coder Pack took 0.008s
+[15:10:40] [Server thread/TRACE] [FML/]: Attempting to deliver 0 IMC messages to mod FML
+[15:10:40] [Server thread/TRACE] [FML/FML]: Sending event IMCEvent to mod FML
+[15:10:40] [Server thread/TRACE] [FML/FML]: Sent event IMCEvent to mod FML
+[15:10:40] [Server thread/DEBUG] [FML/]: Bar Step: InterModComms$IMC - Forge Mod Loader took 0.000s
+[15:10:40] [Server thread/TRACE] [FML/]: Attempting to deliver 0 IMC messages to mod Forge
+[15:10:40] [Server thread/TRACE] [Forge/Forge]: Sending event IMCEvent to mod Forge
+[15:10:40] [Server thread/TRACE] [Forge/Forge]: Sent event IMCEvent to mod Forge
+[15:10:40] [Server thread/DEBUG] [FML/]: Bar Step: InterModComms$IMC - Minecraft Forge took 0.000s
+[15:10:40] [Server thread/TRACE] [FML/]: Attempting to deliver 0 IMC messages to mod mw
+[15:10:40] [Server thread/TRACE] [mw/mw]: Sending event IMCEvent to mod mw
+[15:10:40] [Server thread/TRACE] [mw/mw]: Sent event IMCEvent to mod mw
+[15:10:40] [Server thread/DEBUG] [FML/]: Bar Step: InterModComms$IMC - Modern Warfare Contagion took 0.000s
+[15:10:40] [Server thread/DEBUG] [FML/]: Bar Finished: InterModComms$IMC took 0.009s
+[15:10:40] [Server thread/INFO] [FML/]: Injecting itemstacks
+[15:10:40] [Server thread/INFO] [FML/]: Itemstack injection complete
+[15:10:40] [Server thread/TRACE] [mcp/mcp]: Sending event FMLPostInitializationEvent to mod mcp
+[15:10:40] [Server thread/TRACE] [mcp/mcp]: Sent event FMLPostInitializationEvent to mod mcp
+[15:10:40] [Server thread/DEBUG] [FML/]: Bar Step: PostInitialization - Minecraft Coder Pack took 0.003s
+[15:10:40] [Server thread/TRACE] [FML/FML]: Sending event FMLPostInitializationEvent to mod FML
+[15:10:40] [Server thread/TRACE] [FML/FML]: Sent event FMLPostInitializationEvent to mod FML
+[15:10:40] [Server thread/DEBUG] [FML/]: Bar Step: PostInitialization - Forge Mod Loader took 0.000s
+[15:10:40] [Server thread/TRACE] [Forge/Forge]: Sending event FMLPostInitializationEvent to mod Forge
+[15:10:40] [Server thread/TRACE] [Forge/Forge]: Sent event FMLPostInitializationEvent to mod Forge
+[15:10:40] [Server thread/DEBUG] [FML/]: Bar Step: PostInitialization - Minecraft Forge took 0.148s
+[15:10:40] [Server thread/TRACE] [mw/mw]: Sending event FMLPostInitializationEvent to mod mw
+[15:10:40] [Server thread/TRACE] [FML/mw]: Automatically registered mod mw entity bandit1 as mw.bandit1
+[15:10:40] [Server thread/TRACE] [FML/mw]: Automatically registered mod mw entity zombieBlistered as mw.zombieBlistered
+[15:10:40] [Server thread/TRACE] [FML/mw]: Automatically registered mod mw entity zombieRipper as mw.zombieRipper
+[15:10:40] [Server thread/TRACE] [FML/mw]: Automatically registered mod mw entity tornzombie as mw.tornzombie
+[15:10:40] [Server thread/TRACE] [FML/mw]: Automatically registered mod mw entity necromorph as mw.necromorph
+[15:10:40] [Server thread/TRACE] [FML/mw]: Automatically registered mod mw entity licker as mw.licker
+[15:10:40] [Server thread/TRACE] [FML/mw]: Automatically registered mod mw entity zombie as mw.zombie
+[15:10:40] [Server thread/TRACE] [FML/mw]: Automatically registered mod mw entity hazmat_zombie as mw.hazmat_zombie
+[15:10:40] [Server thread/TRACE] [FML/mw]: Automatically registered mod mw entity Defiled Zombie as mw.Defiled Zombie
+[15:10:40] [Server thread/TRACE] [FML/mw]: Automatically registered mod mw entity deathclaw as mw.deathclaw
+[15:10:41] [Server thread/TRACE] [mw/mw]: Sent event FMLPostInitializationEvent to mod mw
+[15:10:41] [Server thread/DEBUG] [FML/]: Bar Step: PostInitialization - Modern Warfare Contagion took 1.023s
+[15:10:41] [Server thread/DEBUG] [FML/]: Bar Finished: PostInitialization took 1.174s
+[15:10:41] [Server thread/TRACE] [mcp/mcp]: Sending event FMLLoadCompleteEvent to mod mcp
+[15:10:41] [Server thread/TRACE] [mcp/mcp]: Sent event FMLLoadCompleteEvent to mod mcp
+[15:10:41] [Server thread/DEBUG] [FML/]: Bar Step: LoadComplete - Minecraft Coder Pack took 0.000s
+[15:10:41] [Server thread/TRACE] [FML/FML]: Sending event FMLLoadCompleteEvent to mod FML
+[15:10:41] [Server thread/TRACE] [FML/FML]: Sent event FMLLoadCompleteEvent to mod FML
+[15:10:41] [Server thread/DEBUG] [FML/]: Bar Step: LoadComplete - Forge Mod Loader took 0.000s
+[15:10:41] [Server thread/TRACE] [Forge/Forge]: Sending event FMLLoadCompleteEvent to mod Forge
+[15:10:41] [Server thread/DEBUG] [FML/Forge]: Forge RecipeSorter Baking:
+[15:10:41] [Server thread/DEBUG] [FML/Forge]:   11: RecipeEntry("Before", UNKNOWN, )
+[15:10:41] [Server thread/DEBUG] [FML/Forge]:   10: RecipeEntry("minecraft:shaped", SHAPED, net.minecraft.item.crafting.ShapedRecipes) Before: minecraft:shapeless
+[15:10:41] [Server thread/DEBUG] [FML/Forge]:   9: RecipeEntry("forge:shapedore", SHAPED, net.minecraftforge.oredict.ShapedOreRecipe) Before: minecraft:shapeless After: minecraft:shaped
+[15:10:41] [Server thread/DEBUG] [FML/Forge]:   8: RecipeEntry("minecraft:mapextending", SHAPED, net.minecraft.item.crafting.RecipesMapExtending) Before: minecraft:shapeless After: minecraft:shaped
+[15:10:41] [Server thread/DEBUG] [FML/Forge]:   7: RecipeEntry("minecraft:shapeless", SHAPELESS, net.minecraft.item.crafting.ShapelessRecipes) After: minecraft:shaped
+[15:10:41] [Server thread/DEBUG] [FML/Forge]:   6: RecipeEntry("forge:shapelessore", SHAPELESS, net.minecraftforge.oredict.ShapelessOreRecipe) After: minecraft:shapeless
+[15:10:41] [Server thread/DEBUG] [FML/Forge]:   5: RecipeEntry("minecraft:armordyes", SHAPELESS, net.minecraft.item.crafting.RecipesArmorDyes) After: minecraft:shapeless
+[15:10:41] [Server thread/DEBUG] [FML/Forge]:   4: RecipeEntry("minecraft:fireworks", SHAPELESS, net.minecraft.item.crafting.RecipeFireworks) After: minecraft:shapeless
+[15:10:41] [Server thread/DEBUG] [FML/Forge]:   3: RecipeEntry("minecraft:bookcloning", SHAPELESS, net.minecraft.item.crafting.RecipeBookCloning) After: minecraft:shapeless
+[15:10:41] [Server thread/DEBUG] [FML/Forge]:   2: RecipeEntry("minecraft:mapcloning", SHAPELESS, net.minecraft.item.crafting.RecipesMapCloning) After: minecraft:shapeless
+[15:10:41] [Server thread/DEBUG] [FML/Forge]:   1: RecipeEntry("After", UNKNOWN, )
+[15:10:41] [Server thread/DEBUG] [FML/Forge]: Sorting recipies
+[15:10:41] [Server thread/TRACE] [Forge/Forge]: Sent event FMLLoadCompleteEvent to mod Forge
+[15:10:41] [Server thread/DEBUG] [FML/]: Bar Step: LoadComplete - Minecraft Forge took 0.012s
+[15:10:41] [Server thread/TRACE] [mw/mw]: Sending event FMLLoadCompleteEvent to mod mw
+[15:10:41] [Server thread/TRACE] [mw/mw]: Sent event FMLLoadCompleteEvent to mod mw
+[15:10:41] [Server thread/DEBUG] [FML/]: Bar Step: LoadComplete - Modern Warfare Contagion took 0.000s
+[15:10:41] [Server thread/DEBUG] [FML/]: Bar Finished: LoadComplete took 0.013s
+[15:10:41] [Server thread/DEBUG] [FML/]: Freezing block and item id maps
+[15:10:41] [Server thread/DEBUG] [FML/]: Registry consistency check successful
+[15:10:41] [Server thread/DEBUG] [FML/]: Registry consistency check successful
+[15:10:41] [Server thread/INFO] [FML/]: Forge Mod Loader has successfully loaded 4 mods
+[15:10:41] [Server thread/TRACE] [mcp/mcp]: Sending event FMLServerAboutToStartEvent to mod mcp
+[15:10:41] [Server thread/TRACE] [mcp/mcp]: Sent event FMLServerAboutToStartEvent to mod mcp
+[15:10:41] [Server thread/DEBUG] [FML/]: Bar Step: ServerAboutToStart - Minecraft Coder Pack took 0.000s
+[15:10:41] [Server thread/TRACE] [FML/FML]: Sending event FMLServerAboutToStartEvent to mod FML
+[15:10:41] [Server thread/TRACE] [FML/FML]: Sent event FMLServerAboutToStartEvent to mod FML
+[15:10:41] [Server thread/DEBUG] [FML/]: Bar Step: ServerAboutToStart - Forge Mod Loader took 0.000s
+[15:10:41] [Server thread/TRACE] [Forge/Forge]: Sending event FMLServerAboutToStartEvent to mod Forge
+[15:10:41] [Server thread/TRACE] [Forge/Forge]: Sent event FMLServerAboutToStartEvent to mod Forge
+[15:10:41] [Server thread/DEBUG] [FML/]: Bar Step: ServerAboutToStart - Minecraft Forge took 0.000s
+[15:10:41] [Server thread/TRACE] [mw/mw]: Sending event FMLServerAboutToStartEvent to mod mw
+[15:10:41] [Server thread/TRACE] [mw/mw]: Sent event FMLServerAboutToStartEvent to mod mw
+[15:10:41] [Server thread/DEBUG] [FML/]: Bar Step: ServerAboutToStart - Modern Warfare Contagion took 0.000s
+[15:10:41] [Server thread/DEBUG] [FML/]: Bar Finished: ServerAboutToStart took 0.001s
+[15:10:41] [Server thread/INFO] [FML/]: Injecting existing block and item data into this server instance
+[15:10:41] [Server thread/DEBUG] [FML/]: Registry consistency check successful
+[15:10:41] [Server thread/INFO] [FML/]: Injecting new block and item data into this server instance.
+[15:10:41] [Server thread/INFO] [FML/]: Injected new block/item mw:shelf_right: 195 (init) -> 195 (map).
+[15:10:41] [Server thread/INFO] [FML/]: Injected new block/item mw:electric_box_opened: 244 (init) -> 244 (map).
+[15:10:41] [Server thread/INFO] [FML/]: Injected new block/item mw:dumpster: 221 (init) -> 221 (map).
+[15:10:41] [Server thread/INFO] [FML/]: Injected new block/item mw:ServerRackTopLeft: 411 (init) -> 411 (map).
+[15:10:41] [Server thread/INFO] [FML/]: Injected new block/item mw:desk_corner_alt1: 204 (init) -> 204 (map).
+[15:10:41] [Server thread/INFO] [FML/]: Injected new block/item mw:desk_middle: 207 (init) -> 207 (map).
+[15:10:41] [Server thread/INFO] [FML/]: Injected new block/item mw:filingcabinet: 193 (init) -> 193 (map).
+[15:10:41] [Server thread/INFO] [FML/]: Injected new block/item mw:filingcabinet_opened: 194 (init) -> 194 (map).
+[15:10:41] [Server thread/INFO] [FML/]: Injected new block/item mw:Radio: 416 (init) -> 416 (map).
+[15:10:41] [Server thread/INFO] [FML/]: Injected new block/item mw:desk_left: 205 (init) -> 205 (map).
+[15:10:41] [Server thread/INFO] [FML/]: Injected new block/item mw:vent: 231 (init) -> 231 (map).
+[15:10:41] [Server thread/INFO] [FML/]: Injected new block/item mw:vent_intersection: 236 (init) -> 236 (map).
+[15:10:41] [Server thread/INFO] [FML/]: Injected new block/item mw:ServerRackEmptyLeft: 251 (init) -> 251 (map).
+[15:10:41] [Server thread/INFO] [FML/]: Injected new block/item mw:office_chair: 201 (init) -> 201 (map).
+[15:10:41] [Server thread/INFO] [FML/]: Injected new block/item mw:ServerRackEmptyRight: 255 (init) -> 255 (map).
+[15:10:41] [Server thread/INFO] [FML/]: Injected new block/item mw:ammo_box: 179 (init) -> 179 (map).
+[15:10:41] [Server thread/INFO] [FML/]: Injected new block/item mw:trash_bin: 241 (init) -> 241 (map).
+[15:10:41] [Server thread/INFO] [FML/]: Injected new block/item mw:desk_right_alt1: 210 (init) -> 210 (map).
+[15:10:41] [Server thread/INFO] [FML/]: Injected new block/item mw:home_chair: 245 (init) -> 245 (map).
+[15:10:41] [Server thread/INFO] [FML/]: Injected new block/item mw:desk_right: 209 (init) -> 209 (map).
+[15:10:41] [Server thread/INFO] [FML/]: Injected new block/item mw:outdoor_chair_rotated: 248 (init) -> 248 (map).
+[15:10:41] [Server thread/INFO] [FML/]: Injected new block/item mw:artillery_PROP: 183 (init) -> 183 (map).
+[15:10:41] [Server thread/INFO] [FML/]: Injected new block/item mw:weapons_case: 176 (init) -> 176 (map).
+[15:10:41] [Server thread/INFO] [FML/]: Injected new block/item mw:desk_left_alt1: 206 (init) -> 206 (map).
+[15:10:41] [Server thread/INFO] [FML/]: Injected new block/item mw:caution_sign: 242 (init) -> 242 (map).
+[15:10:41] [Server thread/INFO] [FML/]: Injected new block/item mw:medical_crate: 185 (init) -> 185 (map).
+[15:10:41] [Server thread/INFO] [FML/]: Injected new block/item mw:explosive_barrel: 189 (init) -> 189 (map).
+[15:10:41] [Server thread/INFO] [FML/]: Injected new block/item mw:desk_corner: 203 (init) -> 203 (map).
+[15:10:41] [Server thread/INFO] [FML/]: Injected new block/item mw:fridge_closed: 182 (init) -> 182 (map).
+[15:10:41] [Server thread/INFO] [FML/]: Injected new block/item mw:white_desk_middle: 239 (init) -> 239 (map).
+[15:10:41] [Server thread/INFO] [FML/]: Injected new block/item mw:ServerRackLeftAlt2: 253 (init) -> 253 (map).
+[15:10:41] [Server thread/INFO] [FML/]: Injected new block/item mw:ServerRackLeftAlt3: 254 (init) -> 254 (map).
+[15:10:41] [Server thread/INFO] [FML/]: Injected new block/item mw:shelf_left: 196 (init) -> 196 (map).
+[15:10:41] [Server thread/INFO] [FML/]: Injected new block/item mw:wooden_crate: 222 (init) -> 222 (map).
+[15:10:41] [Server thread/INFO] [FML/]: Injected new block/item mw:white_desk_right: 240 (init) -> 240 (map).
+[15:10:41] [Server thread/INFO] [FML/]: Injected new block/item mw:LeadOre: 165 (init) -> 165 (map).
+[15:10:41] [Server thread/INFO] [FML/]: Injected new block/item mw:CopperOre: 166 (init) -> 166 (map).
+[15:10:41] [Server thread/INFO] [FML/]: Injected new block/item mw:operating_table: 224 (init) -> 224 (map).
+[15:10:41] [Server thread/INFO] [FML/]: Injected new block/item mw:wooden_crate_opened: 223 (init) -> 223 (map).
+[15:10:41] [Server thread/INFO] [FML/]: Injected new block/item mw:ServerRackLeftAlt: 252 (init) -> 252 (map).
+[15:10:41] [Server thread/INFO] [FML/]: Injected new block/item mw:fridge_open: 181 (init) -> 181 (map).
+[15:10:41] [Server thread/INFO] [FML/]: Injected new block/item mw:operating_table_alt: 225 (init) -> 225 (map).
+[15:10:41] [Server thread/INFO] [FML/]: Injected new block/item mw:hanging_body: 218 (init) -> 218 (map).
+[15:10:41] [Server thread/INFO] [FML/]: Injected new block/item mw:forklift: 226 (init) -> 226 (map).
+[15:10:41] [Server thread/INFO] [FML/]: Injected new block/item mw:outdoor_chair: 246 (init) -> 246 (map).
+[15:10:41] [Server thread/INFO] [FML/]: Injected new block/item mw:TinOre: 168 (init) -> 168 (map).
+[15:10:41] [Server thread/INFO] [FML/]: Injected new block/item mw:supply_drop: 184 (init) -> 184 (map).
+[15:10:41] [Server thread/INFO] [FML/]: Injected new block/item mw:FloodLight: 414 (init) -> 414 (map).
+[15:10:41] [Server thread/INFO] [FML/]: Injected new block/item mw:desk_shelf: 211 (init) -> 211 (map).
+[15:10:41] [Server thread/INFO] [FML/]: Injected new block/item mw:GraphiteOre: 167 (init) -> 167 (map).
+[15:10:41] [Server thread/INFO] [FML/]: Injected new block/item mw:desk_shelf_alt1: 212 (init) -> 212 (map).
+[15:10:41] [Server thread/INFO] [FML/]: Injected new block/item mw:weapons_locker: 180 (init) -> 180 (map).
+[15:10:41] [Server thread/INFO] [FML/]: Injected new block/item mw:desk_shelf_alt3: 214 (init) -> 214 (map).
+[15:10:41] [Server thread/INFO] [FML/]: Injected new block/item mw:SulfurOre: 169 (init) -> 169 (map).
+[15:10:41] [Server thread/INFO] [FML/]: Injected new block/item mw:desk_shelf_alt2: 213 (init) -> 213 (map).
+[15:10:41] [Server thread/INFO] [FML/]: Injected new block/item mw:body_bag: 217 (init) -> 217 (map).
+[15:10:41] [Server thread/INFO] [FML/]: Injected new block/item mw:vent_corner_rotated: 234 (init) -> 234 (map).
+[15:10:41] [Server thread/INFO] [FML/]: Injected new block/item mw:ServerRackRightAlt: 410 (init) -> 410 (map).
+[15:10:41] [Server thread/INFO] [FML/]: Injected new block/item mw:ServerRackTopRight: 412 (init) -> 412 (map).
+[15:10:41] [Server thread/INFO] [FML/]: Injected new block/item mw:monitor: 192 (init) -> 192 (map).
+[15:10:41] [Server thread/INFO] [FML/]: Injected new block/item mw:vent_end: 237 (init) -> 237 (map).
+[15:10:41] [Server thread/INFO] [FML/]: Injected new block/item mw:barrel: 188 (init) -> 188 (map).
+[15:10:41] [Server thread/INFO] [FML/]: Injected new block/item mw:shelf_top: 197 (init) -> 197 (map).
+[15:10:41] [Server thread/INFO] [FML/]: Injected new block/item mw:scp_locker: 187 (init) -> 187 (map).
+[15:10:41] [Server thread/INFO] [FML/]: Injected new block/item mw:camera_rotated: 423 (init) -> 423 (map).
+[15:10:41] [Server thread/INFO] [FML/]: Injected new block/item mw:office_chair_2: 202 (init) -> 202 (map).
+[15:10:41] [Server thread/INFO] [FML/]: Injected new block/item mw:vending_machine: 249 (init) -> 249 (map).
+[15:10:41] [Server thread/INFO] [FML/]: Injected new block/item mw:vent_corner_rotated_alt: 235 (init) -> 235 (map).
+[15:10:41] [Server thread/INFO] [FML/]: Injected new block/item mw:vent_corner: 233 (init) -> 233 (map).
+[15:10:41] [Server thread/INFO] [FML/]: Injected new block/item mw:weapons_case_small: 177 (init) -> 177 (map).
+[15:10:41] [Server thread/INFO] [FML/]: Injected new block/item mw:impaled_body: 219 (init) -> 219 (map).
+[15:10:41] [Server thread/INFO] [FML/]: Injected new block/item mw:barrier: 215 (init) -> 215 (map).
+[15:10:41] [Server thread/INFO] [FML/]: Injected new block/item mw:vent_rotated: 232 (init) -> 232 (map).
+[15:10:41] [Server thread/INFO] [FML/]: Injected new block/item mw:home_chair_rotated: 247 (init) -> 247 (map).
+[15:10:41] [Server thread/INFO] [FML/]: Injected new block/item mw:ceiling_lamp_alt: 230 (init) -> 230 (map).
+[15:10:41] [Server thread/INFO] [FML/]: Injected new block/item mw:DuelFloodLight: 413 (init) -> 413 (map).
+[15:10:41] [Server thread/INFO] [FML/]: Injected new block/item mw:laptop: 191 (init) -> 191 (map).
+[15:10:41] [Server thread/INFO] [FML/]: Injected new block/item mw:tv: 198 (init) -> 198 (map).
+[15:10:41] [Server thread/INFO] [FML/]: Injected new block/item mw:locker: 186 (init) -> 186 (map).
+[15:10:41] [Server thread/INFO] [FML/]: Injected new block/item mw:Radio_rotated: 415 (init) -> 415 (map).
+[15:10:41] [Server thread/INFO] [FML/]: Injected new block/item mw:ceiling_tv: 199 (init) -> 199 (map).
+[15:10:41] [Server thread/INFO] [FML/]: Injected new block/item mw:electric_box: 243 (init) -> 243 (map).
+[15:10:41] [Server thread/INFO] [FML/]: Injected new block/item mw:ServerRackRight: 409 (init) -> 409 (map).
+[15:10:41] [Server thread/INFO] [FML/]: Injected new block/item mw:ServerRackLeft: 250 (init) -> 250 (map).
+[15:10:41] [Server thread/INFO] [FML/]: Injected new block/item mw:trusses: 228 (init) -> 228 (map).
+[15:10:41] [Server thread/INFO] [FML/]: Injected new block/item mw:blank: 220 (init) -> 220 (map).
+[15:10:41] [Server thread/INFO] [FML/]: Injected new block/item mw:ceiling_lamp: 229 (init) -> 229 (map).
+[15:10:41] [Server thread/INFO] [FML/]: Injected new block/item mw:pc: 190 (init) -> 190 (map).
+[15:10:41] [Server thread/INFO] [FML/]: Injected new block/item mw:desk_middle_alt1: 208 (init) -> 208 (map).
+[15:10:41] [Server thread/INFO] [FML/]: Injected new block/item mw:white_desk_left: 238 (init) -> 238 (map).
+[15:10:41] [Server thread/INFO] [FML/]: Injected new block/item mw:ceiling_tv_rotated: 200 (init) -> 200 (map).
+[15:10:41] [Server thread/INFO] [FML/]: Injected new block/item mw:russian_weapons_case: 178 (init) -> 178 (map).
+[15:10:41] [Server thread/INFO] [FML/]: Injected new block/item mw:forklift_alt: 227 (init) -> 227 (map).
+[15:10:41] [Server thread/INFO] [FML/]: Injected new block/item mw:barrier_rotated: 216 (init) -> 216 (map).
+[15:10:41] [Server thread/INFO] [FML/]: Injected new block/item mw:electric_box_opened: 244 (init) -> 244 (map).
+[15:10:41] [Server thread/INFO] [FML/]: Injected new block/item mw:P10frontsight: 4471 (init) -> 4471 (map).
+[15:10:41] [Server thread/INFO] [FML/]: Injected new block/item mw:vent: 231 (init) -> 231 (map).
+[15:10:41] [Server thread/INFO] [FML/]: Injected new block/item mw:mkviblue_chest: 4213 (init) -> 4213 (map).
+[15:10:41] [Server thread/INFO] [FML/]: Injected new block/item mw:MLOKExtendedHandguard: 4307 (init) -> 4307 (map).
+[15:10:41] [Server thread/INFO] [FML/]: Injected new block/item mw:umbrella_corp_vest: 4134 (init) -> 4134 (map).
+[15:10:41] [Server thread/INFO] [FML/]: Injected new block/item mw:office_chair: 201 (init) -> 201 (map).
+[15:10:41] [Server thread/INFO] [FML/]: Injected new block/item mw:M4CarbineHandGuard: 4282 (init) -> 4282 (map).
+[15:10:41] [Server thread/INFO] [FML/]: Injected new block/item mw:mininuke: 4525 (init) -> 4525 (map).
+[15:10:41] [Server thread/INFO] [FML/]: Injected new block/item mw:ShotgunRail: 4259 (init) -> 4259 (map).
+[15:10:41] [Server thread/INFO] [FML/]: Injected new block/item mw:kbp_9a91: 4625 (init) -> 4625 (map).
+[15:10:41] [Server thread/INFO] [FML/]: Injected new block/item mw:okp7: 4317 (init) -> 4317 (map).
+[15:10:41] [Server thread/INFO] [FML/]: Injected new block/item mw:vss_vintorez: 4628 (init) -> 4628 (map).
+[15:10:41] [Server thread/INFO] [FML/]: Injected new block/item mw:g36c: 4653 (init) -> 4653 (map).
+[15:10:41] [Server thread/INFO] [FML/]: Injected new block/item mw:he_standard_combat_shotgun: 4671 (init) -> 4671 (map).
+[15:10:41] [Server thread/INFO] [FML/]: Injected new block/item mw:g2_gunslinger2_backpack: 4123 (init) -> 4123 (map).
+[15:10:41] [Server thread/INFO] [FML/]: Injected new block/item mw:AKMIron: 4351 (init) -> 4351 (map).
+[15:10:41] [Server thread/INFO] [FML/]: Injected new block/item mw:M45pump: 4423 (init) -> 4423 (map).
+[15:10:41] [Server thread/INFO] [FML/]: Injected new block/item mw:albert_01r: 4642 (init) -> 4642 (map).
+[15:10:41] [Server thread/INFO] [FML/]: Injected new block/item mw:artillery_PROP: 183 (init) -> 183 (map).
+[15:10:41] [Server thread/INFO] [FML/]: Injected new block/item mw:M4Grip: 4284 (init) -> 4284 (map).
+[15:10:41] [Server thread/INFO] [FML/]: Injected new block/item mw:desk_left_alt1: 206 (init) -> 206 (map).
+[15:10:41] [Server thread/INFO] [FML/]: Injected new block/item mw:BR55Mag: 4494 (init) -> 4494 (map).
+[15:10:41] [Server thread/INFO] [FML/]: Injected new block/item mw:p10: 4665 (init) -> 4665 (map).
+[15:10:41] [Server thread/INFO] [FML/]: Injected new block/item mw:AK15HandleGuard: 4308 (init) -> 4308 (map).
+[15:10:41] [Server thread/INFO] [FML/]: Injected new block/item mw:SRS99Action: 4412 (init) -> 4412 (map).
+[15:10:41] [Server thread/INFO] [FML/]: Injected new block/item mw:Kar98Ksight: 4352 (init) -> 4352 (map).
+[15:10:41] [Server thread/INFO] [FML/]: Injected new block/item mw:Glock19slide: 4449 (init) -> 4449 (map).
+[15:10:41] [Server thread/INFO] [FML/]: Injected new block/item mw:Shotgun4Gauge: 4486 (init) -> 4486 (map).
+[15:10:41] [Server thread/INFO] [FML/]: Injected new block/item mw:juggernaut_helmet: 4173 (init) -> 4173 (map).
+[15:10:41] [Server thread/INFO] [FML/]: Injected new block/item mw:MicroT1: 4326 (init) -> 4326 (map).
+[15:10:41] [Server thread/INFO] [FML/]: Injected new block/item mw:AK47stock: 4290 (init) -> 4290 (map).
+[15:10:41] [Server thread/INFO] [FML/]: Injected new block/item mw:Bullet792x33Kurz: 4533 (init) -> 4533 (map).
+[15:10:41] [Server thread/INFO] [FML/]: Injected new block/item mw:Bullet45ACP: 4545 (init) -> 4545 (map).
+[15:10:41] [Server thread/INFO] [FML/]: Injected new block/item mw:wooden_crate: 222 (init) -> 222 (map).
+[15:10:41] [Server thread/INFO] [FML/]: Injected new block/item mw:mkv_green_odst_chest: 4234 (init) -> 4234 (map).
+[15:10:41] [Server thread/INFO] [FML/]: Injected new block/item mw:colt_m45a1: 4620 (init) -> 4620 (map).
+[15:10:41] [Server thread/INFO] [FML/]: Injected new block/item mw:stars_chest: 4179 (init) -> 4179 (map).
+[15:10:41] [Server thread/INFO] [FML/]: Injected new block/item mw:Placeholder: 4276 (init) -> 4276 (map).
+[15:10:41] [Server thread/INFO] [FML/]: Injected new block/item mw:Springfield: 4661 (init) -> 4661 (map).
+[15:10:41] [Server thread/INFO] [FML/]: Injected new block/item mw:F2000Scope: 4333 (init) -> 4333 (map).
+[15:10:41] [Server thread/INFO] [FML/]: Injected new block/item mw:Saiga12action: 4457 (init) -> 4457 (map).
+[15:10:41] [Server thread/INFO] [FML/]: Injected new block/item mw:supply_drop: 184 (init) -> 184 (map).
+[15:10:41] [Server thread/INFO] [FML/]: Injected new block/item mw:FloodLight: 414 (init) -> 414 (map).
+[15:10:41] [Server thread/INFO] [FML/]: Injected new block/item mw:KragChamber: 4484 (init) -> 4484 (map).
+[15:10:41] [Server thread/INFO] [FML/]: Injected new block/item mw:Reflex: 4318 (init) -> 4318 (map).
+[15:10:41] [Server thread/INFO] [FML/]: Injected new block/item mw:uzi: 4669 (init) -> 4669 (map).
+[15:10:41] [Server thread/INFO] [FML/]: Injected new block/item mw:spetznaz_helmet: 4190 (init) -> 4190 (map).
+[15:10:41] [Server thread/INFO] [FML/]: Injected new block/item mw:SilencerMP7: 4354 (init) -> 4354 (map).
+[15:10:42] [Server thread/INFO] [FML/]: Injected new block/item mw:mg42belt: 4428 (init) -> 4428 (map).
+[15:10:42] [Server thread/INFO] [FML/]: Injected new block/item mw:SilencerMP5: 4343 (init) -> 4343 (map).
+[15:10:42] [Server thread/INFO] [FML/]: Injected new block/item mw:MIMP5TRRail: 4257 (init) -> 4257 (map).
+[15:10:42] [Server thread/INFO] [FML/]: Injected new block/item mw:mkv_default_odst_chest: 4231 (init) -> 4231 (map).
+[15:10:42] [Server thread/INFO] [FML/]: Injected new block/item mw:Spas12Stock: 4253 (init) -> 4253 (map).
+[15:10:42] [Server thread/INFO] [FML/]: Injected new block/item mw:desert_tru_spec_cordura_backpack: 4107 (init) -> 4107 (map).
+[15:10:42] [Server thread/INFO] [FML/]: Injected new block/item mw:forest_bergen_backpack: 4119 (init) -> 4119 (map).
+[15:10:42] [Server thread/INFO] [FML/]: Injected new block/item mw:swat_chest: 4194 (init) -> 4194 (map).
+[15:10:43] [Server thread/INFO] [FML/]: Injected new block/item mw:Bullet44: 4547 (init) -> 4547 (map).
+[15:10:43] [Server thread/INFO] [FML/]: Injected new block/item mw:hammer_down_vest: 4135 (init) -> 4135 (map).
+[15:10:43] [Server thread/INFO] [FML/]: Injected new block/item mw:M45A1Mag14: 4581 (init) -> 4581 (map).
+[15:10:43] [Server thread/INFO] [FML/]: Injected new block/item mw:vent_corner_rotated_alt: 235 (init) -> 235 (map).
+[15:10:43] [Server thread/INFO] [FML/]: Injected new block/item mw:swat_helmet: 4193 (init) -> 4193 (map).
+[15:10:43] [Server thread/INFO] [FML/]: Injected new block/item mw:M38Mag_2: 4560 (init) -> 4560 (map).
+[15:10:43] [Server thread/INFO] [FML/]: Injected new block/item mw:vent_corner: 233 (init) -> 233 (map).
+[15:10:43] [Server thread/INFO] [FML/]: Injected new block/item mw:Silencer12Gauge: 4357 (init) -> 4357 (map).
+[15:10:43] [Server thread/INFO] [FML/]: Injected new block/item mw:weapons_case_small: 177 (init) -> 177 (map).
+[15:10:43] [Server thread/INFO] [FML/]: Injected new block/item mw:t60_boots: 4189 (init) -> 4189 (map).
+[15:10:43] [Server thread/INFO] [FML/]: Injected new block/item mw:PythonChamber: 4381 (init) -> 4381 (map).
+[15:10:43] [Server thread/INFO] [FML/]: Injected new block/item mw:tablet: 4710 (init) -> 4710 (map).
+[15:10:43] [Server thread/INFO] [FML/]: Injected new block/item mw:spec_ops_helmet: 4167 (init) -> 4167 (map).
+[15:10:43] [Server thread/INFO] [FML/]: Injected new block/item mw:MP443Mag_2: 4579 (init) -> 4579 (map).
+[15:10:43] [Server thread/INFO] [FML/]: Injected new block/item mw:AKMagpulHandleGuard: 4304 (init) -> 4304 (map).
+[15:10:43] [Server thread/INFO] [FML/]: Injected new block/item mw:DMRscope: 4337 (init) -> 4337 (map).
+[15:10:43] [Server thread/INFO] [FML/]: Injected new block/item mw:mkviblue_helmet: 4212 (init) -> 4212 (map).
+[15:10:43] [Server thread/INFO] [FML/]: Injected new block/item mw:ShotgunShell: 4485 (init) -> 4485 (map).
+[15:10:43] [Server thread/INFO] [FML/]: Injected new block/item mw:MagpulCTRStockTan: 4294 (init) -> 4294 (map).
+[15:10:43] [Server thread/INFO] [FML/]: Injected new block/item mw:tv: 198 (init) -> 198 (map).
+[15:10:43] [Server thread/INFO] [FML/]: Injected new block/item mw:spawnEggtornzombie: 4726 (init) -> 4726 (map).
+[15:10:43] [Server thread/INFO] [FML/]: Injected new block/item mw:mkv_default_boots: 4220 (init) -> 4220 (map).
+[15:10:43] [Server thread/INFO] [FML/]: Injected new block/item mw:RPG7rocket: 4389 (init) -> 4389 (map).
+[15:10:43] [Server thread/INFO] [FML/]: Injected new block/item mw:m40gasmask_helmet: 4197 (init) -> 4197 (map).
+[15:10:43] [Server thread/INFO] [FML/]: Injected new block/item mw:M249Stock: 4254 (init) -> 4254 (map).
+[15:10:43] [Server thread/INFO] [FML/]: Injected new block/item mw:M16Stock: 4299 (init) -> 4299 (map).
+[15:10:43] [Server thread/INFO] [FML/]: Injected new block/item mw:AR15Action: 4502 (init) -> 4502 (map).
+[15:10:43] [Server thread/INFO] [FML/]: Injected new block/item mw:Chain: 4375 (init) -> 4375 (map).
+[15:10:43] [Server thread/INFO] [FML/]: Injected new block/item mw:ACRRails: 4388 (init) -> 4388 (map).
+[15:10:43] [Server thread/INFO] [FML/]: Injected new block/item mw:M249Belt: 4432 (init) -> 4432 (map).
+[15:10:43] [Server thread/INFO] [FML/]: Injected new block/item mw:AK75Mag: 4571 (init) -> 4571 (map).
+[15:10:43] [Server thread/INFO] [FML/]: Injected new block/item mw:tri_zip_backpack: 4113 (init) -> 4113 (map).
+[15:10:43] [Server thread/INFO] [FML/]: Injected new block/item mw:P10Slide: 4470 (init) -> 4470 (map).
+[15:10:43] [Server thread/INFO] [FML/]: Injected new block/item mw:M20Action: 4410 (init) -> 4410 (map).
+[15:10:43] [Server thread/INFO] [FML/]: Injected new block/item mw:M8A7Mag: 4495 (init) -> 4495 (map).
+[15:10:43] [Server thread/INFO] [FML/]: Injected new block/item mw:FatmanGrip: 4370 (init) -> 4370 (map).
+[15:10:43] [Server thread/INFO] [FML/]: Injected new block/item mw:tactical_tomahawk: 4718 (init) -> 4718 (map).
+[15:10:43] [Server thread/INFO] [FML/]: Injected new block/item mw:VP70slide: 4445 (init) -> 4445 (map).
+[15:10:43] [Server thread/INFO] [FML/]: Injected new block/item mw:HK50Drum: 4601 (init) -> 4601 (map).
+[15:10:43] [Server thread/INFO] [FML/]: Injected new block/item mw:SSG42Barrels: 4391 (init) -> 4391 (map).
+[15:10:43] [Server thread/INFO] [FML/]: Injected new block/item mw:forklift_alt: 227 (init) -> 227 (map).
+[15:10:43] [Server thread/INFO] [FML/]: Injected new block/item mw:ACRStock: 4250 (init) -> 4250 (map).
+[15:10:43] [Server thread/INFO] [FML/]: Injected new block/item mw:mg42action: 4435 (init) -> 4435 (map).
+[15:10:43] [Server thread/INFO] [FML/]: Injected new block/item mw:M392Mag: 4491 (init) -> 4491 (map).
+[15:10:43] [Server thread/INFO] [FML/]: Injected new block/item mw:csa16: 4690 (init) -> 4690 (map).
+[15:10:43] [Server thread/INFO] [FML/]: Injected new block/item mw:Laser2: 4361 (init) -> 4361 (map).
+[15:10:43] [Server thread/INFO] [FML/]: Injected new block/item mw:desk_corner_alt1: 204 (init) -> 204 (map).
+[15:10:43] [Server thread/INFO] [FML/]: Injected new block/item mw:force_recon_vest: 4130 (init) -> 4130 (map).
+[15:10:43] [Server thread/INFO] [FML/]: Injected new block/item mw:m82_barrett: 4683 (init) -> 4683 (map).
+[15:10:43] [Server thread/INFO] [FML/]: Injected new block/item mw:har_27: 4692 (init) -> 4692 (map).
+[15:10:43] [Server thread/INFO] [FML/]: Injected new block/item mw:nazisanta_helmet: 4164 (init) -> 4164 (map).
+[15:10:43] [Server thread/INFO] [FML/]: Injected new block/item mw:SpringfieldRearSight: 4440 (init) -> 4440 (map).
+[15:10:43] [Server thread/INFO] [FML/]: Injected new block/item mw:kcpd_chest: 4204 (init) -> 4204 (map).
+[15:10:43] [Server thread/INFO] [FML/]: Injected new block/item mw:AK47HandleGuard: 4302 (init) -> 4302 (map).
+[15:10:43] [Server thread/INFO] [FML/]: Injected new block/item mw:weapons_case: 176 (init) -> 176 (map).
+[15:10:43] [Server thread/INFO] [FML/]: Injected new block/item mw:medical_crate: 185 (init) -> 185 (map).
+[15:10:43] [Server thread/INFO] [FML/]: Injected new block/item mw:black_tru_spec_cordura_backpack: 4108 (init) -> 4108 (map).
+[15:10:43] [Server thread/INFO] [FML/]: Injected new block/item mw:AK101DustCover: 4310 (init) -> 4310 (map).
+[15:10:43] [Server thread/INFO] [FML/]: Injected new block/item mw:M110Rail: 4515 (init) -> 4515 (map).
+[15:10:43] [Server thread/INFO] [FML/]: Injected new block/item mw:mkvidefault_chest: 4210 (init) -> 4210 (map).
+[15:10:43] [Server thread/INFO] [FML/]: Injected new block/item mw:Glock18Cstock: 4365 (init) -> 4365 (map).
+[15:10:43] [Server thread/INFO] [FML/]: Injected new block/item mw:MP5HOGUEGrip: 4264 (init) -> 4264 (map).
+[15:10:43] [Server thread/INFO] [FML/]: Injected new block/item mw:m712: 4668 (init) -> 4668 (map).
+[15:10:43] [Server thread/INFO] [FML/]: Injected new block/item mw:kcpd_boots: 4205 (init) -> 4205 (map).
+[15:10:43] [Server thread/INFO] [FML/]: Injected new block/item mw:SRS99Scope: 4338 (init) -> 4338 (map).
+[15:10:43] [Server thread/INFO] [FML/]: Injected new block/item mw:ma37_icws: 4697 (init) -> 4697 (map).
+[15:10:43] [Server thread/INFO] [FML/]: Injected new block/item mw:scar_chest: 4202 (init) -> 4202 (map).
+[15:10:43] [Server thread/INFO] [FML/]: Injected new block/item mw:t60_helmet: 4187 (init) -> 4187 (map).
+[15:10:43] [Server thread/INFO] [FML/]: Injected new block/item mw:mil_spec_alice_backpack: 4109 (init) -> 4109 (map).
+[15:10:43] [Server thread/INFO] [FML/]: Injected new block/item mw:LP115Bolt2: 4475 (init) -> 4475 (map).
+[15:10:43] [Server thread/INFO] [FML/]: Injected new block/item mw:ServerRackLeftAlt: 252 (init) -> 252 (map).
+[15:10:43] [Server thread/INFO] [FML/]: Injected new block/item mw:nazisanta_boots: 4166 (init) -> 4166 (map).
+[15:10:43] [Server thread/INFO] [FML/]: Injected new block/item mw:ScarHStock: 4249 (init) -> 4249 (map).
+[15:10:43] [Server thread/INFO] [FML/]: Injected new block/item mw:fridge_open: 181 (init) -> 181 (map).
+[15:10:43] [Server thread/INFO] [FML/]: Injected new block/item mw:operating_table_alt: 225 (init) -> 225 (map).
+[15:10:43] [Server thread/INFO] [FML/]: Injected new block/item mw:outdoor_chair: 246 (init) -> 246 (map).
+[15:10:43] [Server thread/INFO] [FML/]: Injected new block/item mw:M4Receiver: 4274 (init) -> 4274 (map).
+[15:10:43] [Server thread/INFO] [FML/]: Injected new block/item mw:GraphiteOre: 167 (init) -> 167 (map).
+[15:10:43] [Server thread/INFO] [FML/]: Injected new block/item mw:desk_shelf_alt1: 212 (init) -> 212 (map).
+[15:10:43] [Server thread/INFO] [FML/]: Injected new block/item mw:M60FrontSight: 4314 (init) -> 4314 (map).
+[15:10:43] [Server thread/INFO] [FML/]: Injected new block/item mw:desk_shelf_alt3: 214 (init) -> 214 (map).
+[15:10:43] [Server thread/INFO] [FML/]: Injected new block/item mw:swat_boots: 4195 (init) -> 4195 (map).
+[15:10:43] [Server thread/INFO] [FML/]: Injected new block/item mw:SulfurOre: 169 (init) -> 169 (map).
+[15:10:43] [Server thread/INFO] [FML/]: Injected new block/item mw:desk_shelf_alt2: 213 (init) -> 213 (map).
+[15:10:43] [Server thread/INFO] [FML/]: Injected new block/item mw:M110Action: 4507 (init) -> 4507 (map).
+[15:10:43] [Server thread/INFO] [FML/]: Injected new block/item mw:flyye_molle_rrv: 4127 (init) -> 4127 (map).
+[15:10:43] [Server thread/INFO] [FML/]: Injected new block/item mw:Scar60Mag: 4604 (init) -> 4604 (map).
+[15:10:43] [Server thread/INFO] [FML/]: Injected new block/item mw:barrel: 188 (init) -> 188 (map).
+[15:10:43] [Server thread/INFO] [FML/]: Injected new block/item mw:Silencer300AACBlackout: 4358 (init) -> 4358 (map).
+[15:10:43] [Server thread/INFO] [FML/]: Injected new block/item mw:scp_locker: 187 (init) -> 187 (map).
+[15:10:43] [Server thread/INFO] [FML/]: Injected new block/item mw:hecu_vest: 4136 (init) -> 4136 (map).
+[15:10:43] [Server thread/INFO] [FML/]: Injected new block/item mw:flyye_field_compact_plate_carrier: 4124 (init) -> 4124 (map).
+[15:10:43] [Server thread/INFO] [FML/]: Injected new block/item mw:m500a2: 4616 (init) -> 4616 (map).
+[15:10:43] [Server thread/INFO] [FML/]: Injected new block/item mw:M60Hatch: 4431 (init) -> 4431 (map).
+[15:10:43] [Server thread/INFO] [FML/]: Injected new block/item mw:AKpart: 4516 (init) -> 4516 (map).
+[15:10:43] [Server thread/INFO] [FML/]: Injected new block/item mw:MA5DAction: 4413 (init) -> 4413 (map).
+[15:10:43] [Server thread/INFO] [FML/]: Injected new block/item mw:mkviblue_boots: 4214 (init) -> 4214 (map).
+[15:10:43] [Server thread/INFO] [FML/]: Injected new block/item mw:DesertEagleMag: 4576 (init) -> 4576 (map).
+[15:10:43] [Server thread/INFO] [FML/]: Injected new block/item mw:bergen_backpack: 4118 (init) -> 4118 (map).
+[15:10:43] [Server thread/INFO] [FML/]: Injected new block/item mw:viper_sf: 4141 (init) -> 4141 (map).
+[15:10:43] [Server thread/INFO] [FML/]: Injected new block/item mw:gas-detector: 4712 (init) -> 4712 (map).
+[15:10:43] [Server thread/INFO] [FML/]: Injected new block/item mw:Mk18HandGuard: 4271 (init) -> 4271 (map).
+[15:10:43] [Server thread/INFO] [FML/]: Injected new block/item mw:Type51Action: 4407 (init) -> 4407 (map).
+[15:10:43] [Server thread/INFO] [FML/]: Injected new block/item mw:G36CMag_2: 4564 (init) -> 4564 (map).
+[15:10:43] [Server thread/INFO] [FML/]: Injected new block/item mw:spawnEggzombieBlistered: 4724 (init) -> 4724 (map).
+[15:10:43] [Server thread/INFO] [FML/]: Injected new block/item mw:GunmetalIngot: 4153 (init) -> 4153 (map).
+[15:10:43] [Server thread/INFO] [FML/]: Injected new block/item mw:black_force_recon_vest: 4133 (init) -> 4133 (map).
+[15:10:43] [Server thread/INFO] [FML/]: Injected new block/item mw:HK416StockTan: 4300 (init) -> 4300 (map).
+[15:10:43] [Server thread/INFO] [FML/]: Injected new block/item mw:Radio_rotated: 415 (init) -> 415 (map).
+[15:10:43] [Server thread/INFO] [FML/]: Injected new block/item mw:JunoGrip: 4364 (init) -> 4364 (map).
+[15:10:43] [Server thread/INFO] [FML/]: Injected new block/item mw:M4Rail: 4510 (init) -> 4510 (map).
+[15:10:43] [Server thread/INFO] [FML/]: Injected new block/item mw:sccy_cpx_2_mag: 4575 (init) -> 4575 (map).
+[15:10:43] [Server thread/INFO] [FML/]: Injected new block/item mw:sso_attack_2: 4121 (init) -> 4121 (map).
+[15:10:43] [Server thread/INFO] [FML/]: Injected new block/item mw:quad_barrel_shotgun: 4676 (init) -> 4676 (map).
+[15:10:43] [Server thread/INFO] [FML/]: Injected new block/item mw:M20Mag: 4490 (init) -> 4490 (map).
+[15:10:43] [Server thread/INFO] [FML/]: Injected new block/item mw:sv98: 4630 (init) -> 4630 (map).
+[15:10:43] [Server thread/INFO] [FML/]: Injected new block/item mw:UTGTriRailHandGuard: 4255 (init) -> 4255 (map).
+[15:10:43] [Server thread/INFO] [FML/]: Injected new block/item mw:type51: 4703 (init) -> 4703 (map).
+[15:10:43] [Server thread/INFO] [FML/]: Injected new block/item mw:mkv_default_odst_boots: 4232 (init) -> 4232 (map).
+[15:10:43] [Server thread/INFO] [FML/]: Injected new block/item mw:FatmanRack: 4371 (init) -> 4371 (map).
+[15:10:43] [Server thread/INFO] [FML/]: Injected new block/item mw:desk_middle_alt1: 208 (init) -> 208 (map).
+[15:10:43] [Server thread/INFO] [FML/]: Injected new block/item mw:santa_boots: 4163 (init) -> 4163 (map).
+[15:10:43] [Server thread/INFO] [FML/]: Injected new block/item mw:Holographic2: 4322 (init) -> 4322 (map).
+[15:10:43] [Server thread/INFO] [FML/]: Injected new block/item mw:Silencer45ACP: 4345 (init) -> 4345 (map).
+[15:10:43] [Server thread/INFO] [FML/]: Injected new block/item mw:aps: 4667 (init) -> 4667 (map).
+[15:10:43] [Server thread/INFO] [FML/]: Injected new block/item mw:VSSVintorezAction: 4453 (init) -> 4453 (map).
+[15:10:43] [Server thread/INFO] [FML/]: Injected new block/item mw:Bullet762x54: 4537 (init) -> 4537 (map).
+[15:10:43] [Server thread/INFO] [FML/]: Injected new block/item mw:CarbonComposite: 4156 (init) -> 4156 (map).
+[15:10:43] [Server thread/INFO] [FML/]: Injected new block/item mw:Acog: 4320 (init) -> 4320 (map).
+[15:10:43] [Server thread/INFO] [FML/]: Injected new block/item mw:ks23: 4629 (init) -> 4629 (map).
+[15:10:43] [Server thread/INFO] [FML/]: Injected new block/item mw:gl06: 4684 (init) -> 4684 (map).
+[15:10:43] [Server thread/INFO] [FML/]: Injected new block/item mw:SteelIngot: 4152 (init) -> 4152 (map).
+[15:10:43] [Server thread/INFO] [FML/]: Injected new block/item mw:Bullet762x51: 4538 (init) -> 4538 (map).
+[15:10:43] [Server thread/INFO] [FML/]: Injected new block/item mw:mkv_blue_odst_helmet: 4236 (init) -> 4236 (map).
+[15:10:43] [Server thread/INFO] [FML/]: Injected new block/item mw:urban_f4m_terminator_backpack: 4116 (init) -> 4116 (map).
+[15:10:43] [Server thread/INFO] [FML/]: Injected new block/item mw:ammo_box: 179 (init) -> 179 (map).
+[15:10:43] [Server thread/INFO] [FML/]: Injected new block/item mw:Kobra: 4329 (init) -> 4329 (map).
+[15:10:43] [Server thread/INFO] [FML/]: Injected new block/item mw:P226Slide: 4380 (init) -> 4380 (map).
+[15:10:43] [Server thread/INFO] [FML/]: Injected new block/item mw:Bullet763x25: 4550 (init) -> 4550 (map).
+[15:10:43] [Server thread/INFO] [FML/]: Injected new block/item mw:home_chair: 245 (init) -> 245 (map).
+[15:10:43] [Server thread/INFO] [FML/]: Injected new block/item mw:mkv_red_chest: 4228 (init) -> 4228 (map).
+[15:10:43] [Server thread/INFO] [FML/]: Injected new block/item mw:type2: 4657 (init) -> 4657 (map).
+[15:10:43] [Server thread/INFO] [FML/]: Injected new block/item mw:mg42: 4679 (init) -> 4679 (map).
+[15:10:43] [Server thread/INFO] [FML/]: Injected new block/item mw:spawnEggzombieRipper: 4725 (init) -> 4725 (map).
+[15:10:43] [Server thread/INFO] [FML/]: Injected new block/item mw:GraphiteChunk: 4148 (init) -> 4148 (map).
+[15:10:43] [Server thread/INFO] [FML/]: Injected new block/item mw:mkv_blue_helmet: 4224 (init) -> 4224 (map).
+[15:10:43] [Server thread/INFO] [FML/]: Injected new block/item mw:PlasmaCapsule: 4529 (init) -> 4529 (map).
+[15:10:43] [Server thread/INFO] [FML/]: Injected new block/item mw:m32_mgl: 4686 (init) -> 4686 (map).
+[15:10:43] [Server thread/INFO] [FML/]: Injected new block/item mw:ServerRackLeftAlt2: 253 (init) -> 253 (map).
+[15:10:43] [Server thread/INFO] [FML/]: Injected new block/item mw:ServerRackLeftAlt3: 254 (init) -> 254 (map).
+[15:10:43] [Server thread/INFO] [FML/]: Injected new block/item mw:AK101HandGuard: 4303 (init) -> 4303 (map).
+[15:10:43] [Server thread/INFO] [FML/]: Injected new block/item mw:mkv_default_helmet: 4218 (init) -> 4218 (map).
+[15:10:43] [Server thread/INFO] [FML/]: Injected new block/item mw:spawnEggzombie: 4729 (init) -> 4729 (map).
+[15:10:43] [Server thread/INFO] [FML/]: Injected new block/item mw:white_desk_right: 240 (init) -> 240 (map).
+[15:10:43] [Server thread/INFO] [FML/]: Injected new block/item mw:Bullet380ACP: 4549 (init) -> 4549 (map).
+[15:10:43] [Server thread/INFO] [FML/]: Injected new block/item mw:scar_l: 4632 (init) -> 4632 (map).
+[15:10:43] [Server thread/INFO] [FML/]: Injected new block/item mw:santa_chest: 4162 (init) -> 4162 (map).
+[15:10:43] [Server thread/INFO] [FML/]: Injected new block/item mw:srs99: 4702 (init) -> 4702 (map).
+[15:10:43] [Server thread/INFO] [FML/]: Injected new block/item mw:M9A1slide: 4460 (init) -> 4460 (map).
+[15:10:43] [Server thread/INFO] [FML/]: Injected new block/item mw:hecu_helmet: 4170 (init) -> 4170 (map).
+[15:10:43] [Server thread/INFO] [FML/]: Injected new block/item mw:UziRelease: 4468 (init) -> 4468 (map).
+[15:10:43] [Server thread/INFO] [FML/]: Injected new block/item mw:m20: 4696 (init) -> 4696 (map).
+[15:10:43] [Server thread/INFO] [FML/]: Injected new block/item mw:Shotgun12Gauge: 4539 (init) -> 4539 (map).
+[15:10:43] [Server thread/INFO] [FML/]: Injected new block/item mw:remington870: 4660 (init) -> 4660 (map).
+[15:10:43] [Server thread/INFO] [FML/]: Injected new block/item mw:nv4: 4656 (init) -> 4656 (map).
+[15:10:43] [Server thread/INFO] [FML/]: Injected new block/item mw:Mk14EBRsight: 4438 (init) -> 4438 (map).
+[15:10:43] [Server thread/INFO] [FML/]: Injected new block/item mw:HESCSpump: 4480 (init) -> 4480 (map).
+[15:10:43] [Server thread/INFO] [FML/]: Injected new block/item mw:Type2Sight: 4506 (init) -> 4506 (map).
+[15:10:43] [Server thread/INFO] [FML/]: Injected new block/item mw:mkv_default_chest: 4219 (init) -> 4219 (map).
+[15:10:43] [Server thread/INFO] [FML/]: Injected new block/item mw:SulfureDust: 4150 (init) -> 4150 (map).
+[15:10:43] [Server thread/INFO] [FML/]: Injected new block/item mw:DesertEagleSlide: 4462 (init) -> 4462 (map).
+[15:10:43] [Server thread/INFO] [FML/]: Injected new block/item mw:GlockMag50: 4586 (init) -> 4586 (map).
+[15:10:43] [Server thread/INFO] [FML/]: Injected new block/item mw:Evangelion: 4523 (init) -> 4523 (map).
+[15:10:43] [Server thread/INFO] [FML/]: Injected new block/item mw:ScarStock: 4248 (init) -> 4248 (map).
+[15:10:43] [Server thread/INFO] [FML/]: Injected new block/item mw:APSMag_2: 4583 (init) -> 4583 (map).
+[15:10:43] [Server thread/INFO] [FML/]: Injected new block/item mw:Glock18Cslide: 4443 (init) -> 4443 (map).
+[15:10:43] [Server thread/INFO] [FML/]: Injected new block/item mw:volk: 4658 (init) -> 4658 (map).
+[15:10:43] [Server thread/INFO] [FML/]: Injected new block/item mw:taurus_raging_hunter: 4638 (init) -> 4638 (map).
+[15:10:43] [Server thread/INFO] [FML/]: Injected new block/item mw:Bullet762x39: 4542 (init) -> 4542 (map).
+[15:10:43] [Server thread/INFO] [FML/]: Injected new block/item mw:mkv_green_boots: 4223 (init) -> 4223 (map).
+[15:10:43] [Server thread/INFO] [FML/]: Injected new block/item mw:spawnEggnecromorph: 4727 (init) -> 4727 (map).
+[15:10:43] [Server thread/INFO] [FML/]: Injected new block/item mw:vending_machine: 249 (init) -> 249 (map).
+[15:10:43] [Server thread/INFO] [FML/]: Injected new block/item mw:Bullet762x35: 4541 (init) -> 4541 (map).
+[15:10:43] [Server thread/INFO] [FML/]: Injected new block/item mw:bfg_9000: 4708 (init) -> 4708 (map).
+[15:10:43] [Server thread/INFO] [FML/]: Injected new block/item mw:urban_mil_spec_alice_backpack: 4111 (init) -> 4111 (map).
+[15:10:43] [Server thread/INFO] [FML/]: Injected new block/item mw:mg42latch: 4429 (init) -> 4429 (map).
+[15:10:43] [Server thread/INFO] [FML/]: Injected new block/item mw:black_flyye_molle_rrv: 4128 (init) -> 4128 (map).
+[15:10:43] [Server thread/INFO] [FML/]: Injected new block/item mw:mkvidefault_boots: 4211 (init) -> 4211 (map).
+[15:10:43] [Server thread/INFO] [FML/]: Injected new block/item mw:Chrome: 4520 (init) -> 4520 (map).
+[15:10:43] [Server thread/INFO] [FML/]: Injected new block/item mw:m56: 4705 (init) -> 4705 (map).
+[15:10:43] [Server thread/INFO] [FML/]: Injected new block/item mw:vent_rotated: 232 (init) -> 232 (map).
+[15:10:43] [Server thread/INFO] [FML/]: Injected new block/item mw:home_chair_rotated: 247 (init) -> 247 (map).
+[15:10:43] [Server thread/INFO] [FML/]: Injected new block/item mw:Bullet3006Springfield: 4531 (init) -> 4531 (map).
+[15:10:43] [Server thread/INFO] [FML/]: Injected new block/item mw:VSSVintorezMag_2: 4605 (init) -> 4605 (map).
+[15:10:43] [Server thread/INFO] [FML/]: Injected new block/item mw:MP5A4Stock: 4268 (init) -> 4268 (map).
+[15:10:43] [Server thread/INFO] [FML/]: Injected new block/item mw:SV98barrelpiece: 4477 (init) -> 4477 (map).
+[15:10:43] [Server thread/INFO] [FML/]: Injected new block/item mw:DuelFloodLight: 413 (init) -> 413 (map).
+[15:10:43] [Server thread/INFO] [FML/]: Injected new block/item mw:FrommerStopAction: 4446 (init) -> 4446 (map).
+[15:10:43] [Server thread/INFO] [FML/]: Injected new block/item mw:Stanag50: 4561 (init) -> 4561 (map).
+[15:10:43] [Server thread/INFO] [FML/]: Injected new block/item mw:laptop: 191 (init) -> 191 (map).
+[15:10:43] [Server thread/INFO] [FML/]: Injected new block/item mw:DanWessonLaser: 4362 (init) -> 4362 (map).
+[15:10:43] [Server thread/INFO] [FML/]: Injected new block/item mw:m38_dmr: 4617 (init) -> 4617 (map).
+[15:10:43] [Server thread/INFO] [FML/]: Injected new block/item mw:M79Cartridge: 4397 (init) -> 4397 (map).
+[15:10:43] [Server thread/INFO] [FML/]: Injected new block/item mw:desert_eagle: 4641 (init) -> 4641 (map).
+[15:10:43] [Server thread/INFO] [FML/]: Injected new block/item mw:silencer_eabh: 4346 (init) -> 4346 (map).
+[15:10:43] [Server thread/INFO] [FML/]: Injected new block/item mw:spec_ops_chest: 4168 (init) -> 4168 (map).
+[15:10:43] [Server thread/INFO] [FML/]: Injected new block/item mw:forest_assault_backpack: 4105 (init) -> 4105 (map).
+[15:10:43] [Server thread/INFO] [FML/]: Injected new block/item mw:white_desk_left: 238 (init) -> 238 (map).
+[15:10:43] [Server thread/INFO] [FML/]: Injected new block/item mw:AK50Mag: 4570 (init) -> 4570 (map).
+[15:10:43] [Server thread/INFO] [FML/]: Injected new block/item mw:m45: 4701 (init) -> 4701 (map).
+[15:10:43] [Server thread/INFO] [FML/]: Injected new block/item mw:AKErgoGrip: 4289 (init) -> 4289 (map).
+[15:10:43] [Server thread/INFO] [FML/]: Injected new block/item mw:mkv_green_helmet: 4221 (init) -> 4221 (map).
+[15:10:43] [Server thread/INFO] [FML/]: Injected new block/item mw:m40a6: 4611 (init) -> 4611 (map).
+[15:10:43] [Server thread/INFO] [FML/]: Injected new block/item mw:ak103_bullpup: 4647 (init) -> 4647 (map).
+[15:10:43] [Server thread/INFO] [FML/]: Injected new block/item mw:chainsaw: 4709 (init) -> 4709 (map).
+[15:10:43] [Server thread/INFO] [FML/]: Injected new block/item mw:GodWillsIt: 4521 (init) -> 4521 (map).
+[15:10:43] [Server thread/INFO] [FML/]: Injected new block/item mw:Murasaki: 4522 (init) -> 4522 (map).
+[15:10:43] [Server thread/INFO] [FML/]: Injected new block/item mw:spawnEggbandit1: 4723 (init) -> 4723 (map).
+[15:10:43] [Server thread/INFO] [FML/]: Injected new block/item mw:M134Mag: 4556 (init) -> 4556 (map).
+[15:10:43] [Server thread/INFO] [FML/]: Injected new block/item mw:vent_intersection: 236 (init) -> 236 (map).
+[15:10:43] [Server thread/INFO] [FML/]: Injected new block/item mw:Stanag60: 4562 (init) -> 4562 (map).
+[15:10:43] [Server thread/INFO] [FML/]: Injected new block/item mw:mkv_default_odst_helmet: 4230 (init) -> 4230 (map).
+[15:10:43] [Server thread/INFO] [FML/]: Injected new block/item mw:SV98BoltAction: 4473 (init) -> 4473 (map).
+[15:10:43] [Server thread/INFO] [FML/]: Injected new block/item mw:swat_vest: 4139 (init) -> 4139 (map).
+[15:10:43] [Server thread/INFO] [FML/]: Injected new block/item mw:glock_19: 4635 (init) -> 4635 (map).
+[15:10:43] [Server thread/INFO] [FML/]: Injected new block/item mw:RhinoChamber: 4383 (init) -> 4383 (map).
+[15:10:43] [Server thread/INFO] [FML/]: Injected new block/item mw:m202: 4688 (init) -> 4688 (map).
+[15:10:43] [Server thread/INFO] [FML/]: Injected new block/item mw:trash_bin: 241 (init) -> 241 (map).
+[15:10:44] [Server thread/INFO] [FML/]: Injected new block/item mw:BrenAction: 4504 (init) -> 4504 (map).
+[15:10:44] [Server thread/INFO] [FML/]: Injected new block/item mw:m1928_thompson: 4645 (init) -> 4645 (map).
+[15:10:44] [Server thread/INFO] [FML/]: Injected new block/item mw:M392Action: 4411 (init) -> 4411 (map).
+[15:10:44] [Server thread/INFO] [FML/]: Injected new block/item mw:M249Hatch: 4433 (init) -> 4433 (map).
+[15:10:44] [Server thread/INFO] [FML/]: Injected new block/item mw:AKmuzzle: 4518 (init) -> 4518 (map).
+[15:10:44] [Server thread/INFO] [FML/]: Injected new block/item mw:KedrMag_2: 4590 (init) -> 4590 (map).
+[15:10:44] [Server thread/INFO] [FML/]: Injected new block/item mw:AK101Grip: 4288 (init) -> 4288 (map).
+[15:10:44] [Server thread/INFO] [FML/]: Injected new block/item mw:AK47Mag: 4569 (init) -> 4569 (map).
+[15:10:44] [Server thread/INFO] [FML/]: Injected new block/item mw:M82Mag_2: 4588 (init) -> 4588 (map).
+[15:10:44] [Server thread/INFO] [FML/]: Injected new block/item mw:GripPlaceholder: 4278 (init) -> 4278 (map).
+[15:10:44] [Server thread/INFO] [FML/]: Injected new block/item mw:desk_corner: 203 (init) -> 203 (map).
+[15:10:44] [Server thread/INFO] [FML/]: Injected new block/item mw:Vortex_sight: 4325 (init) -> 4325 (map).
+[15:10:44] [Server thread/INFO] [FML/]: Injected new block/item mw:supernova: 4615 (init) -> 4615 (map).
+[15:10:44] [Server thread/INFO] [FML/]: Injected new block/item mw:M6CSOCOMSlide: 4465 (init) -> 4465 (map).
+[15:10:44] [Server thread/INFO] [FML/]: Injected new block/item mw:MG42Mag_2: 4596 (init) -> 4596 (map).
+[15:10:44] [Server thread/INFO] [FML/]: Injected new block/item mw:NV4Action: 4503 (init) -> 4503 (map).
+[15:10:44] [Server thread/INFO] [FML/]: Injected new block/item mw:spetznaz_boots: 4192 (init) -> 4192 (map).
+[15:10:44] [Server thread/INFO] [FML/]: Injected new block/item mw:AK47PMAGTan: 4568 (init) -> 4568 (map).
+[15:10:44] [Server thread/INFO] [FML/]: Injected new block/item mw:Silencer50BMG: 4349 (init) -> 4349 (map).
+[15:10:44] [Server thread/INFO] [FML/]: Injected new block/item mw:M1873action: 4406 (init) -> 4406 (map).
+[15:10:44] [Server thread/INFO] [FML/]: Injected new block/item mw:Type51Mag: 4404 (init) -> 4404 (map).
+[15:10:44] [Server thread/INFO] [FML/]: Injected new block/item mw:Silencer357: 4355 (init) -> 4355 (map).
+[15:10:44] [Server thread/INFO] [FML/]: Injected new block/item mw:Bullet10mm: 4553 (init) -> 4553 (map).
+[15:10:44] [Server thread/INFO] [FML/]: Injected new block/item mw:LeadOre: 165 (init) -> 165 (map).
+[15:10:44] [Server thread/INFO] [FML/]: Injected new block/item mw:FABDefenseMount: 4242 (init) -> 4242 (map).
+[15:10:44] [Server thread/INFO] [FML/]: Injected new block/item mw:BijiaReflex: 4319 (init) -> 4319 (map).
+[15:10:44] [Server thread/INFO] [FML/]: Injected new block/item mw:hanging_body: 218 (init) -> 218 (map).
+[15:10:44] [Server thread/INFO] [FML/]: Injected new block/item mw:forklift: 226 (init) -> 226 (map).
+[15:10:44] [Server thread/INFO] [FML/]: Injected new block/item mw:HeraArmsGrip: 4283 (init) -> 4283 (map).
+[15:10:44] [Server thread/INFO] [FML/]: Injected new block/item mw:M67Frag: 4714 (init) -> 4714 (map).
+[15:10:44] [Server thread/INFO] [FML/]: Injected new block/item mw:baseball_bat_nails: 4720 (init) -> 4720 (map).
+[15:10:44] [Server thread/INFO] [FML/]: Injected new block/item mw:ChiappaTripleCrownBarrels: 4392 (init) -> 4392 (map).
+[15:10:44] [Server thread/INFO] [FML/]: Injected new block/item mw:M202scope: 4334 (init) -> 4334 (map).
+[15:10:44] [Server thread/INFO] [FML/]: Injected new block/item mw:m41a: 4704 (init) -> 4704 (map).
+[15:10:44] [Server thread/INFO] [FML/]: Injected new block/item mw:spawnEggDefiled Zombie: 4731 (init) -> 4731 (map).
+[15:10:44] [Server thread/INFO] [FML/]: Injected new block/item mw:ServerRackTopRight: 412 (init) -> 412 (map).
+[15:10:44] [Server thread/INFO] [FML/]: Injected new block/item mw:ncr_boots: 4186 (init) -> 4186 (map).
+[15:10:44] [Server thread/INFO] [FML/]: Injected new block/item mw:Shotgun4G: 4540 (init) -> 4540 (map).
+[15:10:44] [Server thread/INFO] [FML/]: Injected new block/item mw:mkvi_main_chest: 4207 (init) -> 4207 (map).
+[15:10:44] [Server thread/INFO] [FML/]: Injected new block/item mw:AACRail: 4514 (init) -> 4514 (map).
+[15:10:44] [Server thread/INFO] [FML/]: Injected new block/item mw:Grip2: 4363 (init) -> 4363 (map).
+[15:10:44] [Server thread/INFO] [FML/]: Injected new block/item mw:desert_mil_spec_alice_backpack: 4110 (init) -> 4110 (map).
+[15:10:44] [Server thread/INFO] [FML/]: Injected new block/item mw:ACRAction: 4384 (init) -> 4384 (map).
+[15:10:44] [Server thread/INFO] [FML/]: Injected new block/item mw:HoneyBadgerMag_2: 4559 (init) -> 4559 (map).
+[15:10:44] [Server thread/INFO] [FML/]: Injected new block/item mw:AS50Action: 4459 (init) -> 4459 (map).
+[15:10:44] [Server thread/INFO] [FML/]: Injected new block/item mw:MagnumChamber: 4382 (init) -> 4382 (map).
+[15:10:44] [Server thread/INFO] [FML/]: Injected new block/item mw:MLOKHandguard: 4306 (init) -> 4306 (map).
+[15:10:44] [Server thread/INFO] [FML/]: Injected new block/item mw:ImpactGrenade: 4715 (init) -> 4715 (map).
+[15:10:44] [Server thread/INFO] [FML/]: Injected new block/item mw:aac_honey_badger: 4670 (init) -> 4670 (map).
+[15:10:44] [Server thread/INFO] [FML/]: Injected new block/item mw:barrier: 215 (init) -> 215 (map).
+[15:10:44] [Server thread/INFO] [FML/]: Injected new block/item mw:Silencer762x51: 4348 (init) -> 4348 (map).
+[15:10:44] [Server thread/INFO] [FML/]: Injected new block/item mw:Silencer762x54: 4347 (init) -> 4347 (map).
+[15:10:44] [Server thread/INFO] [FML/]: Injected new block/item mw:forest_blackhawk_stealth_backpack: 4102 (init) -> 4102 (map).
+[15:10:44] [Server thread/INFO] [FML/]: Injected new block/item mw:mkv_red_boots: 4229 (init) -> 4229 (map).
+[15:10:44] [Server thread/INFO] [FML/]: Injected new block/item mw:M4GripTan: 4285 (init) -> 4285 (map).
+[15:10:44] [Server thread/INFO] [FML/]: Injected new block/item mw:ak101: 4646 (init) -> 4646 (map).
+[15:10:44] [Server thread/INFO] [FML/]: Injected new block/item mw:Kar98K: 4662 (init) -> 4662 (map).
+[15:10:44] [Server thread/INFO] [FML/]: Injected new block/item mw:Laser: 4360 (init) -> 4360 (map).
+[15:10:44] [Server thread/INFO] [FML/]: Injected new block/item mw:HAR27Belt: 4401 (init) -> 4401 (map).
+[15:10:44] [Server thread/INFO] [FML/]: Injected new block/item mw:scar_vest: 4145 (init) -> 4145 (map).
+[15:10:44] [Server thread/INFO] [FML/]: Injected new block/item mw:M500A2pump: 4478 (init) -> 4478 (map).
+[15:10:44] [Server thread/INFO] [FML/]: Injected new block/item mw:GasGrenade: 4717 (init) -> 4717 (map).
+[15:10:44] [Server thread/INFO] [FML/]: Injected new block/item mw:HeraArmsStock: 4297 (init) -> 4297 (map).
+[15:10:44] [Server thread/INFO] [FML/]: Injected new block/item mw:fatman: 4707 (init) -> 4707 (map).
+[15:10:44] [Server thread/INFO] [FML/]: Injected new block/item mw:FrommerSight: 4447 (init) -> 4447 (map).
+[15:10:44] [Server thread/INFO] [FML/]: Injected new block/item mw:AK60Mag: 4566 (init) -> 4566 (map).
+[15:10:44] [Server thread/INFO] [FML/]: Injected new block/item mw:marine_helmet: 4181 (init) -> 4181 (map).
+[15:10:44] [Server thread/INFO] [FML/]: Injected new block/item mw:LVOAVHandGuard: 4269 (init) -> 4269 (map).
+[15:10:44] [Server thread/INFO] [FML/]: Injected new block/item mw:ServerRackRight: 409 (init) -> 409 (map).
+[15:10:44] [Server thread/INFO] [FML/]: Injected new block/item mw:NightRaiderScope: 4331 (init) -> 4331 (map).
+[15:10:44] [Server thread/INFO] [FML/]: Injected new block/item mw:blank: 220 (init) -> 220 (map).
+[15:10:44] [Server thread/INFO] [FML/]: Injected new block/item mw:SpringfieldAction: 4441 (init) -> 4441 (map).
+[15:10:44] [Server thread/INFO] [FML/]: Injected new block/item mw:M9Mag30: 4577 (init) -> 4577 (map).
+[15:10:44] [Server thread/INFO] [FML/]: Injected new block/item mw:KragAction2: 4483 (init) -> 4483 (map).
+[15:10:44] [Server thread/INFO] [FML/]: Injected new block/item mw:KragAction1: 4482 (init) -> 4482 (map).
+[15:10:44] [Server thread/INFO] [FML/]: Injected new block/item mw:Scar40Mag: 4603 (init) -> 4603 (map).
+[15:10:44] [Server thread/INFO] [FML/]: Injected new block/item mw:russian_weapons_case: 178 (init) -> 178 (map).
+[15:10:44] [Server thread/INFO] [FML/]: Injected new block/item mw:AKiron: 4517 (init) -> 4517 (map).
+[15:10:44] [Server thread/INFO] [FML/]: Injected new block/item mw:CollapsableMOEStock: 4292 (init) -> 4292 (map).
+[15:10:44] [Server thread/INFO] [FML/]: Injected new block/item mw:M1014Stock: 4251 (init) -> 4251 (map).
+[15:10:44] [Server thread/INFO] [FML/]: Injected new block/item mw:HAR27Action: 4402 (init) -> 4402 (map).
+[15:10:44] [Server thread/INFO] [FML/]: Injected new block/item mw:M249Mag: 4558 (init) -> 4558 (map).
+[15:10:44] [Server thread/INFO] [FML/]: Injected new block/item mw:forest_flyye_field_compact_plate_carrier: 4125 (init) -> 4125 (map).
+[15:10:44] [Server thread/INFO] [FML/]: Injected new block/item mw:m16a4: 4618 (init) -> 4618 (map).
+[15:10:44] [Server thread/INFO] [FML/]: Injected new block/item mw:dumpster: 221 (init) -> 221 (map).
+[15:10:44] [Server thread/INFO] [FML/]: Injected new block/item mw:forest_f4m_terminator_backpack: 4117 (init) -> 4117 (map).
+[15:10:44] [Server thread/INFO] [FML/]: Injected new block/item mw:L96Action: 4474 (init) -> 4474 (map).
+[15:10:44] [Server thread/INFO] [FML/]: Injected new block/item mw:m249: 4610 (init) -> 4610 (map).
+[15:10:44] [Server thread/INFO] [FML/]: Injected new block/item mw:desk_middle: 207 (init) -> 207 (map).
+[15:10:44] [Server thread/INFO] [FML/]: Injected new block/item mw:mkv_green_chest: 4222 (init) -> 4222 (map).
+[15:10:44] [Server thread/INFO] [FML/]: Injected new block/item mw:saiga12: 4672 (init) -> 4672 (map).
+[15:10:44] [Server thread/INFO] [FML/]: Injected new block/item mw:GrenadeSafetyPin: 4713 (init) -> 4713 (map).
+[15:10:44] [Server thread/INFO] [FML/]: Injected new block/item mw:AKMagpulHandleGuardTan: 4305 (init) -> 4305 (map).
+[15:10:44] [Server thread/INFO] [FML/]: Injected new block/item mw:pp91_kedr: 4627 (init) -> 4627 (map).
+[15:10:44] [Server thread/INFO] [FML/]: Injected new block/item mw:QuadBarrelShotgunBarrels: 4393 (init) -> 4393 (map).
+[15:10:44] [Server thread/INFO] [FML/]: Injected new block/item mw:m8a7: 4659 (init) -> 4659 (map).
+[15:10:44] [Server thread/INFO] [FML/]: Injected new block/item mw:GunmetalPlate: 4154 (init) -> 4154 (map).
+[15:10:44] [Server thread/INFO] [FML/]: Injected new block/item mw:M4BenelliStock: 4252 (init) -> 4252 (map).
+[15:10:44] [Server thread/INFO] [FML/]: Injected new block/item mw:MA5DMag: 4493 (init) -> 4493 (map).
+[15:10:44] [Server thread/INFO] [FML/]: Injected new block/item mw:FuelCell: 4554 (init) -> 4554 (map).
+[15:10:44] [Server thread/INFO] [FML/]: Injected new block/item mw:MP43E: 4674 (init) -> 4674 (map).
+[15:10:44] [Server thread/INFO] [FML/]: Injected new block/item mw:Silencer762x39: 4340 (init) -> 4340 (map).
+[15:10:44] [Server thread/INFO] [FML/]: Injected new block/item mw:Mk14EBRmag_2: 4597 (init) -> 4597 (map).
+[15:10:44] [Server thread/INFO] [FML/]: Injected new block/item mw:m2a1_sight: 4332 (init) -> 4332 (map).
+[15:10:44] [Server thread/INFO] [FML/]: Injected new block/item mw:mkv_blue_odst_boots: 4238 (init) -> 4238 (map).
+[15:10:44] [Server thread/INFO] [FML/]: Injected new block/item mw:white_desk_middle: 239 (init) -> 239 (map).
+[15:10:44] [Server thread/INFO] [FML/]: Injected new block/item mw:CrimsonBlood: 4519 (init) -> 4519 (map).
+[15:10:44] [Server thread/INFO] [FML/]: Injected new block/item mw:Bipod: 4369 (init) -> 4369 (map).
+[15:10:44] [Server thread/INFO] [FML/]: Injected new block/item mw:M1014Action: 4385 (init) -> 4385 (map).
+[15:10:44] [Server thread/INFO] [FML/]: Injected new block/item mw:KBP9A91Mag_2: 4589 (init) -> 4589 (map).
+[15:10:44] [Server thread/INFO] [FML/]: Injected new block/item mw:SteelDust: 4151 (init) -> 4151 (map).
+[15:10:44] [Server thread/INFO] [FML/]: Injected new block/item mw:M6CSOCOMsight: 4464 (init) -> 4464 (map).
+[15:10:44] [Server thread/INFO] [FML/]: Injected new block/item mw:sw_500_magnum: 4640 (init) -> 4640 (map).
+[15:10:44] [Server thread/INFO] [FML/]: Injected new block/item mw:Glock18Cmag_2: 4585 (init) -> 4585 (map).
+[15:10:44] [Server thread/INFO] [FML/]: Injected new block/item mw:Bullet308Winchester: 4535 (init) -> 4535 (map).
+[15:10:44] [Server thread/INFO] [FML/]: Injected new block/item mw:UziMag_2: 4608 (init) -> 4608 (map).
+[15:10:44] [Server thread/INFO] [FML/]: Injected new block/item mw:mkvi_main_helmet: 4206 (init) -> 4206 (map).
+[15:10:44] [Server thread/INFO] [FML/]: Injected new block/item mw:AimpointCompM5: 4327 (init) -> 4327 (map).
+[15:10:44] [Server thread/INFO] [FML/]: Injected new block/item mw:Silencer556x39: 4350 (init) -> 4350 (map).
+[15:10:44] [Server thread/INFO] [FML/]: Injected new block/item mw:mkvired_helmet: 4215 (init) -> 4215 (map).
+[15:10:44] [Server thread/INFO] [FML/]: Injected new block/item mw:urban_assault_backpack: 4104 (init) -> 4104 (map).
+[15:10:44] [Server thread/INFO] [FML/]: Injected new block/item mw:viper_sf_desert: 4143 (init) -> 4143 (map).
+[15:10:44] [Server thread/INFO] [FML/]: Injected new block/item mw:G36CMag: 4496 (init) -> 4496 (map).
+[15:10:44] [Server thread/INFO] [FML/]: Injected new block/item mw:weapons_locker: 180 (init) -> 180 (map).
+[15:10:44] [Server thread/INFO] [FML/]: Injected new block/item mw:chiappa_rhino: 4639 (init) -> 4639 (map).
+[15:10:44] [Server thread/INFO] [FML/]: Injected new block/item mw:m60e4: 4680 (init) -> 4680 (map).
+[15:10:44] [Server thread/INFO] [FML/]: Injected new block/item mw:stg44: 4651 (init) -> 4651 (map).
+[15:10:44] [Server thread/INFO] [FML/]: Injected new block/item mw:viper_sf_green: 4142 (init) -> 4142 (map).
+[15:10:44] [Server thread/INFO] [FML/]: Injected new block/item mw:M4FrontSight: 4313 (init) -> 4313 (map).
+[15:10:44] [Server thread/INFO] [FML/]: Injected new block/item mw:HPScope: 4330 (init) -> 4330 (map).
+[15:10:44] [Server thread/INFO] [FML/]: Injected new block/item mw:monitor: 192 (init) -> 192 (map).
+[15:10:44] [Server thread/INFO] [FML/]: Injected new block/item mw:AK101Mag_2: 4565 (init) -> 4565 (map).
+[15:10:44] [Server thread/INFO] [FML/]: Injected new block/item mw:sr3_vikhr: 4626 (init) -> 4626 (map).
+[15:10:44] [Server thread/INFO] [FML/]: Injected new block/item mw:ACRHandGuard: 4244 (init) -> 4244 (map).
+[15:10:44] [Server thread/INFO] [FML/]: Injected new block/item mw:Silencer556x45: 4339 (init) -> 4339 (map).
+[15:10:44] [Server thread/INFO] [FML/]: Injected new block/item mw:M79grenade: 4395 (init) -> 4395 (map).
+[15:10:44] [Server thread/INFO] [FML/]: Injected new block/item mw:MA37Mag: 4489 (init) -> 4489 (map).
+[15:10:44] [Server thread/INFO] [FML/]: Injected new block/item mw:spawnEgghazmat_zombie: 4730 (init) -> 4730 (map).
+[15:10:44] [Server thread/INFO] [FML/]: Injected new block/item mw:mkv_blue_boots: 4226 (init) -> 4226 (map).
+[15:10:44] [Server thread/INFO] [FML/]: Injected new block/item mw:MP5A3Stock: 4267 (init) -> 4267 (map).
+[15:10:44] [Server thread/INFO] [FML/]: Injected new block/item mw:r870pump: 4479 (init) -> 4479 (map).
+[15:10:44] [Server thread/INFO] [FML/]: Injected new block/item mw:office_chair_2: 202 (init) -> 202 (map).
+[15:10:44] [Server thread/INFO] [FML/]: Injected new block/item mw:LaserPlaceholder: 4279 (init) -> 4279 (map).
+[15:10:44] [Server thread/INFO] [FML/]: Injected new block/item mw:M4HandGuard: 4280 (init) -> 4280 (map).
+[15:10:44] [Server thread/INFO] [FML/]: Injected new block/item mw:HAR27Mag: 4400 (init) -> 4400 (map).
+[15:10:44] [Server thread/INFO] [FML/]: Injected new block/item mw:urban_flyye_molle_rrv: 4129 (init) -> 4129 (map).
+[15:10:44] [Server thread/INFO] [FML/]: Injected new block/item mw:juggernaut_body_armor: 4137 (init) -> 4137 (map).
+[15:10:44] [Server thread/INFO] [FML/]: Injected new block/item mw:spawnEggdeathclaw: 4732 (init) -> 4732 (map).
+[15:10:44] [Server thread/INFO] [FML/]: Injected new block/item mw:m9a1: 4622 (init) -> 4622 (map).
+[15:10:44] [Server thread/INFO] [FML/]: Injected new block/item mw:merc_chest: 4177 (init) -> 4177 (map).
+[15:10:44] [Server thread/INFO] [FML/]: Injected new block/item mw:LaserProjectile: 4488 (init) -> 4488 (map).
+[15:10:44] [Server thread/INFO] [FML/]: Injected new block/item mw:MP43Edoublebarrel: 4405 (init) -> 4405 (map).
+[15:10:44] [Server thread/INFO] [FML/]: Injected new block/item mw:m202rocket: 4526 (init) -> 4526 (map).
+[15:10:44] [Server thread/INFO] [FML/]: Injected new block/item mw:M60Rail: 4261 (init) -> 4261 (map).
+[15:10:44] [Server thread/INFO] [FML/]: Injected new block/item mw:STG44Mag_2: 4606 (init) -> 4606 (map).
+[15:10:44] [Server thread/INFO] [FML/]: Injected new block/item mw:VLTORReceiver: 4275 (init) -> 4275 (map).
+[15:10:44] [Server thread/INFO] [FML/]: Injected new block/item mw:ceiling_lamp_alt: 230 (init) -> 230 (map).
+[15:10:44] [Server thread/INFO] [FML/]: Injected new block/item mw:vp70: 4634 (init) -> 4634 (map).
+[15:10:44] [Server thread/INFO] [FML/]: Injected new block/item mw:AK47Grip: 4287 (init) -> 4287 (map).
+[15:10:44] [Server thread/INFO] [FML/]: Injected new block/item mw:acr: 4648 (init) -> 4648 (map).
+[15:10:44] [Server thread/INFO] [FML/]: Injected new block/item mw:m1014: 4613 (init) -> 4613 (map).
+[15:10:44] [Server thread/INFO] [FML/]: Injected new block/item mw:as50: 4682 (init) -> 4682 (map).
+[15:10:44] [Server thread/INFO] [FML/]: Injected new block/item mw:Kar98Kaction: 4442 (init) -> 4442 (map).
+[15:10:44] [Server thread/INFO] [FML/]: Injected new block/item mw:BR55scope: 4336 (init) -> 4336 (map).
+[15:10:45] [Server thread/INFO] [FML/]: Injected new block/item mw:Silencer65x39: 4359 (init) -> 4359 (map).
+[15:10:45] [Server thread/INFO] [FML/]: Injected new block/item mw:ServerRackLeft: 250 (init) -> 250 (map).
+[15:10:45] [Server thread/INFO] [FML/]: Injected new block/item mw:P10Mag: 4500 (init) -> 4500 (map).
+[15:10:45] [Server thread/INFO] [FML/]: Injected new block/item mw:M38HandGuard: 4270 (init) -> 4270 (map).
+[15:10:45] [Server thread/INFO] [FML/]: Injected new block/item mw:M1873: 4655 (init) -> 4655 (map).
+[15:10:45] [Server thread/INFO] [FML/]: Injected new block/item mw:EotechHybrid2: 4324 (init) -> 4324 (map).
+[15:10:45] [Server thread/INFO] [FML/]: Injected new block/item mw:urban_bergen_backpack: 4120 (init) -> 4120 (map).
+[15:10:45] [Server thread/INFO] [FML/]: Injected new block/item mw:StubbyGrip: 4367 (init) -> 4367 (map).
+[15:10:45] [Server thread/INFO] [FML/]: Injected new block/item mw:ceiling_tv_rotated: 200 (init) -> 200 (map).
+[15:10:45] [Server thread/INFO] [FML/]: Injected new block/item mw:tru_spec_cordura_backpack: 4106 (init) -> 4106 (map).
+[15:10:45] [Server thread/INFO] [FML/]: Injected new block/item mw:umbrella_boots: 4200 (init) -> 4200 (map).
+[15:10:45] [Server thread/INFO] [FML/]: Injected new block/item mw:urban_force_recon_vest: 4132 (init) -> 4132 (map).
+[15:10:45] [Server thread/INFO] [FML/]: Injected new block/item mw:PistolPlaceholder: 4277 (init) -> 4277 (map).
+[15:10:45] [Server thread/INFO] [FML/]: Injected new block/item mw:G36CAction: 4415 (init) -> 4415 (map).
+[15:10:45] [Server thread/INFO] [FML/]: Injected new block/item mw:SV98Mag_2: 4607 (init) -> 4607 (map).
+[15:10:45] [Server thread/INFO] [FML/]: Injected new block/item mw:shelf_right: 195 (init) -> 195 (map).
+[15:10:45] [Server thread/INFO] [FML/]: Injected new block/item mw:mk14_ebr: 4678 (init) -> 4678 (map).
+[15:10:45] [Server thread/INFO] [FML/]: Injected new block/item mw:Silencer9x39mm: 4344 (init) -> 4344 (map).
+[15:10:45] [Server thread/INFO] [FML/]: Injected new block/item mw:EnergyCase: 4528 (init) -> 4528 (map).
+[15:10:45] [Server thread/INFO] [FML/]: Injected new block/item mw:l96a1: 4681 (init) -> 4681 (map).
+[15:10:45] [Server thread/INFO] [FML/]: Injected new block/item mw:PlasticPlate: 4160 (init) -> 4160 (map).
+[15:10:45] [Server thread/INFO] [FML/]: Injected new block/item mw:gpca1: 4693 (init) -> 4693 (map).
+[15:10:45] [Server thread/INFO] [FML/]: Injected new block/item mw:ServerRackEmptyLeft: 251 (init) -> 251 (map).
+[15:10:45] [Server thread/INFO] [FML/]: Injected new block/item mw:hecu_boots: 4172 (init) -> 4172 (map).
+[15:10:45] [Server thread/INFO] [FML/]: Injected new block/item mw:mkvi_main_boots: 4208 (init) -> 4208 (map).
+[15:10:45] [Server thread/INFO] [FML/]: Injected new block/item mw:scar_helmet: 4201 (init) -> 4201 (map).
+[15:10:45] [Server thread/INFO] [FML/]: Injected new block/item mw:scar_h_cqc: 4633 (init) -> 4633 (map).
+[15:10:45] [Server thread/INFO] [FML/]: Injected new block/item mw:RMRsight: 4328 (init) -> 4328 (map).
+[15:10:45] [Server thread/INFO] [FML/]: Injected new block/item mw:Bullet500: 4548 (init) -> 4548 (map).
+[15:10:45] [Server thread/INFO] [FML/]: Injected new block/item mw:m79: 4685 (init) -> 4685 (map).
+[15:10:45] [Server thread/INFO] [FML/]: Injected new block/item mw:m6c_socom: 4695 (init) -> 4695 (map).
+[15:10:45] [Server thread/INFO] [FML/]: Injected new block/item mw:caution_sign: 242 (init) -> 242 (map).
+[15:10:45] [Server thread/INFO] [FML/]: Injected new block/item mw:ncr_chest: 4185 (init) -> 4185 (map).
+[15:10:45] [Server thread/INFO] [FML/]: Injected new block/item mw:Python: 4637 (init) -> 4637 (map).
+[15:10:45] [Server thread/INFO] [FML/]: Injected new block/item mw:MP40action: 4426 (init) -> 4426 (map).
+[15:10:45] [Server thread/INFO] [FML/]: Injected new block/item mw:shelf_left: 196 (init) -> 196 (map).
+[15:10:45] [Server thread/INFO] [FML/]: Injected new block/item mw:forest_sso_attack_2: 4122 (init) -> 4122 (map).
+[15:10:45] [Server thread/INFO] [FML/]: Injected new block/item mw:L115Mag: 4476 (init) -> 4476 (map).
+[15:10:45] [Server thread/INFO] [FML/]: Injected new block/item mw:ChainA: 4374 (init) -> 4374 (map).
+[15:10:45] [Server thread/INFO] [FML/]: Injected new block/item mw:GlockMag13: 4584 (init) -> 4584 (map).
+[15:10:45] [Server thread/INFO] [FML/]: Injected new block/item mw:ChainB: 4373 (init) -> 4373 (map).
+[15:10:45] [Server thread/INFO] [FML/]: Injected new block/item mw:spec_ops_boots: 4169 (init) -> 4169 (map).
+[15:10:45] [Server thread/INFO] [FML/]: Injected new block/item mw:CopperOre: 166 (init) -> 166 (map).
+[15:10:45] [Server thread/INFO] [FML/]: Injected new block/item mw:GL06Cartridge: 4396 (init) -> 4396 (map).
+[15:10:45] [Server thread/INFO] [FML/]: Injected new block/item mw:chiappa_triple_crown: 4675 (init) -> 4675 (map).
+[15:10:45] [Server thread/INFO] [FML/]: Injected new block/item mw:SyntheticPlastic: 4159 (init) -> 4159 (map).
+[15:10:45] [Server thread/INFO] [FML/]: Injected new block/item mw:MP5A5HandGuard: 4262 (init) -> 4262 (map).
+[15:10:45] [Server thread/INFO] [FML/]: Injected new block/item mw:GLgrenade: 4394 (init) -> 4394 (map).
+[15:10:45] [Server thread/INFO] [FML/]: Injected new block/item mw:APSslide: 4448 (init) -> 4448 (map).
+[15:10:45] [Server thread/INFO] [FML/]: Injected new block/item mw:M1897: 4677 (init) -> 4677 (map).
+[15:10:45] [Server thread/INFO] [FML/]: Injected new block/item mw:SyntheticPolymerComposite: 4158 (init) -> 4158 (map).
+[15:10:45] [Server thread/INFO] [FML/]: Injected new block/item mw:M60Mag: 4557 (init) -> 4557 (map).
+[15:10:45] [Server thread/INFO] [FML/]: Injected new block/item mw:mkv_green_odst_helmet: 4233 (init) -> 4233 (map).
+[15:10:45] [Server thread/INFO] [FML/]: Injected new block/item mw:m392: 4700 (init) -> 4700 (map).
+[15:10:45] [Server thread/INFO] [FML/]: Injected new block/item mw:VolkMag: 4501 (init) -> 4501 (map).
+[15:10:45] [Server thread/INFO] [FML/]: Injected new block/item mw:forest_combat_sustainment_backpack: 4099 (init) -> 4099 (map).
+[15:10:45] [Server thread/INFO] [FML/]: Injected new block/item mw:Bullet4440: 4544 (init) -> 4544 (map).
+[15:10:45] [Server thread/INFO] [FML/]: Injected new block/item mw:black_flyye_field_compact_plate_carrier: 4126 (init) -> 4126 (map).
+[15:10:45] [Server thread/INFO] [FML/]: Injected new block/item mw:br55: 4699 (init) -> 4699 (map).
+[15:10:45] [Server thread/INFO] [FML/]: Injected new block/item mw:M4A1Mag_2: 4555 (init) -> 4555 (map).
+[15:10:45] [Server thread/INFO] [FML/]: Injected new block/item mw:PSO1: 4316 (init) -> 4316 (map).
+[15:10:45] [Server thread/INFO] [FML/]: Injected new block/item mw:umbrella_chest: 4199 (init) -> 4199 (map).
+[15:10:45] [Server thread/INFO] [FML/]: Injected new block/item mw:vent_corner_rotated: 234 (init) -> 234 (map).
+[15:10:45] [Server thread/INFO] [FML/]: Injected new block/item mw:mkvired_chest: 4216 (init) -> 4216 (map).
+[15:10:45] [Server thread/INFO] [FML/]: Injected new block/item mw:ServerRackRightAlt: 410 (init) -> 410 (map).
+[15:10:45] [Server thread/INFO] [FML/]: Injected new block/item mw:UziIronSight: 4469 (init) -> 4469 (map).
+[15:10:45] [Server thread/INFO] [FML/]: Injected new block/item mw:Extra: 4509 (init) -> 4509 (map).
+[15:10:45] [Server thread/INFO] [FML/]: Injected new block/item mw:fort_armor: 4140 (init) -> 4140 (map).
+[15:10:45] [Server thread/INFO] [FML/]: Injected new block/item mw:MP443Slide: 4452 (init) -> 4452 (map).
+[15:10:45] [Server thread/INFO] [FML/]: Injected new block/item mw:f2000: 4652 (init) -> 4652 (map).
+[15:10:45] [Server thread/INFO] [FML/]: Injected new block/item mw:M712action: 4450 (init) -> 4450 (map).
+[15:10:45] [Server thread/INFO] [FML/]: Injected new block/item mw:Bullet: 4487 (init) -> 4487 (map).
+[15:10:45] [Server thread/INFO] [FML/]: Injected new block/item mw:AK47Dustcover: 4309 (init) -> 4309 (map).
+[15:10:45] [Server thread/INFO] [FML/]: Injected new block/item mw:SupernovaPump: 4387 (init) -> 4387 (map).
+[15:10:45] [Server thread/INFO] [FML/]: Injected new block/item mw:Stanag100: 4563 (init) -> 4563 (map).
+[15:10:45] [Server thread/INFO] [FML/]: Injected new block/item mw:M6Cslide: 4463 (init) -> 4463 (map).
+[15:10:45] [Server thread/INFO] [FML/]: Injected new block/item mw:camera_rotated: 423 (init) -> 423 (map).
+[15:10:45] [Server thread/INFO] [FML/]: Injected new block/item mw:M40A6BoltAction: 4472 (init) -> 4472 (map).
+[15:10:45] [Server thread/INFO] [FML/]: Injected new block/item mw:blackhawk_ballistic_vest: 4144 (init) -> 4144 (map).
+[15:10:45] [Server thread/INFO] [FML/]: Injected new block/item mw:umbrella_helmet: 4198 (init) -> 4198 (map).
+[15:10:45] [Server thread/INFO] [FML/]: Injected new block/item mw:MIMP5MHandGuard: 4256 (init) -> 4256 (map).
+[15:10:45] [Server thread/INFO] [FML/]: Injected new block/item mw:M60HandGuard: 4245 (init) -> 4245 (map).
+[15:10:45] [Server thread/INFO] [FML/]: Injected new block/item mw:AK15DustCover: 4312 (init) -> 4312 (map).
+[15:10:45] [Server thread/INFO] [FML/]: Injected new block/item mw:AS50Mag_2: 4587 (init) -> 4587 (map).
+[15:10:45] [Server thread/INFO] [FML/]: Injected new block/item mw:urban_blackhawk_stealth_backpack: 4101 (init) -> 4101 (map).
+[15:10:45] [Server thread/INFO] [FML/]: Injected new block/item mw:mkv_blue_odst_chest: 4237 (init) -> 4237 (map).
+[15:10:45] [Server thread/INFO] [FML/]: Injected new block/item mw:AK100Mag: 4572 (init) -> 4572 (map).
+[15:10:45] [Server thread/INFO] [FML/]: Injected new block/item mw:GlockHogueGripTan: 4266 (init) -> 4266 (map).
+[15:10:45] [Server thread/INFO] [FML/]: Injected new block/item mw:t60_chest: 4188 (init) -> 4188 (map).
+[15:10:45] [Server thread/INFO] [FML/]: Injected new block/item mw:m6c: 4694 (init) -> 4694 (map).
+[15:10:45] [Server thread/INFO] [FML/]: Injected new block/item mw:ScarAction: 4436 (init) -> 4436 (map).
+[15:10:45] [Server thread/INFO] [FML/]: Injected new block/item mw:M41AMag: 4403 (init) -> 4403 (map).
+[15:10:45] [Server thread/INFO] [FML/]: Injected new block/item mw:m134: 4689 (init) -> 4689 (map).
+[15:10:45] [Server thread/INFO] [FML/]: Injected new block/item mw:trusses: 228 (init) -> 228 (map).
+[15:10:45] [Server thread/INFO] [FML/]: Injected new block/item mw:NV4Mag: 4497 (init) -> 4497 (map).
+[15:10:45] [Server thread/INFO] [FML/]: Injected new block/item mw:MagnumRail: 4511 (init) -> 4511 (map).
+[15:10:45] [Server thread/INFO] [FML/]: Injected new block/item mw:BR55Action: 4414 (init) -> 4414 (map).
+[15:10:45] [Server thread/INFO] [FML/]: Injected new block/item mw:sccy_cpx_2: 4636 (init) -> 4636 (map).
+[15:10:45] [Server thread/INFO] [FML/]: Injected new block/item mw:M32Cartridge: 4398 (init) -> 4398 (map).
+[15:10:45] [Server thread/INFO] [FML/]: Injected new block/item mw:SupernovaAction: 4386 (init) -> 4386 (map).
+[15:10:45] [Server thread/INFO] [FML/]: Injected new block/item mw:m202rockets: 4390 (init) -> 4390 (map).
+[15:10:45] [Server thread/INFO] [FML/]: Injected new block/item mw:barrier_rotated: 216 (init) -> 216 (map).
+[15:10:45] [Server thread/INFO] [FML/]: Injected new block/item mw:duffle_bag: 4112 (init) -> 4112 (map).
+[15:10:45] [Server thread/INFO] [FML/]: Injected new block/item mw:BFGammo: 4530 (init) -> 4530 (map).
+[15:10:45] [Server thread/INFO] [FML/]: Injected new block/item mw:spetznaz_chest: 4191 (init) -> 4191 (map).
+[15:10:45] [Server thread/INFO] [FML/]: Injected new block/item mw:MagpulCTRStock: 4293 (init) -> 4293 (map).
+[15:10:45] [Server thread/INFO] [FML/]: Injected new block/item mw:filingcabinet: 193 (init) -> 193 (map).
+[15:10:45] [Server thread/INFO] [FML/]: Injected new block/item mw:filingcabinet_opened: 194 (init) -> 194 (map).
+[15:10:45] [Server thread/INFO] [FML/]: Injected new block/item mw:CarbonFiber: 4157 (init) -> 4157 (map).
+[15:10:45] [Server thread/INFO] [FML/]: Injected new block/item mw:ServerRackEmptyRight: 255 (init) -> 255 (map).
+[15:10:45] [Server thread/INFO] [FML/]: Injected new block/item mw:spawnEgglicker: 4728 (init) -> 4728 (map).
+[15:10:45] [Server thread/INFO] [FML/]: Injected new block/item mw:blackhawk_stealth_backpack: 4100 (init) -> 4100 (map).
+[15:10:45] [Server thread/INFO] [FML/]: Injected new block/item mw:Specter: 4321 (init) -> 4321 (map).
+[15:10:45] [Server thread/INFO] [FML/]: Injected new block/item mw:desk_right_alt1: 210 (init) -> 210 (map).
+[15:10:45] [Server thread/INFO] [FML/]: Injected new block/item mw:desk_right: 209 (init) -> 209 (map).
+[15:10:45] [Server thread/INFO] [FML/]: Injected new block/item mw:ESA23Slide: 4444 (init) -> 4444 (map).
+[15:10:45] [Server thread/INFO] [FML/]: Injected new block/item mw:Bullet556x45: 4543 (init) -> 4543 (map).
+[15:10:45] [Server thread/INFO] [FML/]: Injected new block/item mw:explosive_barrel: 189 (init) -> 189 (map).
+[15:10:45] [Server thread/INFO] [FML/]: Injected new block/item mw:M1928Mag: 4594 (init) -> 4594 (map).
+[15:10:45] [Server thread/INFO] [FML/]: Injected new block/item mw:fridge_closed: 182 (init) -> 182 (map).
+[15:10:45] [Server thread/INFO] [FML/]: Injected new block/item mw:ScarHMag_2: 4602 (init) -> 4602 (map).
+[15:10:45] [Server thread/INFO] [FML/]: Injected new block/item mw:m4a1: 4619 (init) -> 4619 (map).
+[15:10:45] [Server thread/INFO] [FML/]: Injected new block/item mw:M16HandGuard: 4281 (init) -> 4281 (map).
+[15:10:45] [Server thread/INFO] [FML/]: Injected new block/item mw:AngledGrip: 4366 (init) -> 4366 (map).
+[15:10:45] [Server thread/INFO] [FML/]: Injected new block/item mw:ScarHandGuard: 4243 (init) -> 4243 (map).
+[15:10:45] [Server thread/INFO] [FML/]: Injected new block/item mw:forest_force_recon_vest: 4131 (init) -> 4131 (map).
+[15:10:45] [Server thread/INFO] [FML/]: Injected new block/item mw:juggernaut_boots: 4175 (init) -> 4175 (map).
+[15:10:45] [Server thread/INFO] [FML/]: Injected new block/item mw:Type2Part: 4505 (init) -> 4505 (map).
+[15:10:45] [Server thread/INFO] [FML/]: Injected new block/item mw:Silencer9mm: 4342 (init) -> 4342 (map).
+[15:10:45] [Server thread/INFO] [FML/]: Injected new block/item mw:SRS99Mag: 4492 (init) -> 4492 (map).
+[15:10:45] [Server thread/INFO] [FML/]: Injected new block/item mw:p226: 4621 (init) -> 4621 (map).
+[15:10:45] [Server thread/INFO] [FML/]: Injected new block/item mw:SCCYCPX2Slide: 4461 (init) -> 4461 (map).
+[15:10:45] [Server thread/INFO] [FML/]: Injected new block/item mw:night_stick: 4721 (init) -> 4721 (map).
+[15:10:45] [Server thread/INFO] [FML/]: Injected new block/item mw:M40A6Mag_2: 4592 (init) -> 4592 (map).
+[15:10:45] [Server thread/INFO] [FML/]: Injected new block/item mw:TinOre: 168 (init) -> 168 (map).
+[15:10:45] [Server thread/INFO] [FML/]: Injected new block/item mw:M134Barrels: 4377 (init) -> 4377 (map).
+[15:10:45] [Server thread/INFO] [FML/]: Injected new block/item mw:desk_shelf: 211 (init) -> 211 (map).
+[15:10:45] [Server thread/INFO] [FML/]: Injected new block/item mw:MilSpecStock: 4295 (init) -> 4295 (map).
+[15:10:45] [Server thread/INFO] [FML/]: Injected new block/item mw:M38FrontSight: 4315 (init) -> 4315 (map).
+[15:10:45] [Server thread/INFO] [FML/]: Injected new block/item mw:M712mag_2: 4595 (init) -> 4595 (map).
+[15:10:45] [Server thread/INFO] [FML/]: Injected new block/item mw:MA5Dcover: 4335 (init) -> 4335 (map).
+[15:10:45] [Server thread/INFO] [FML/]: Injected new block/item mw:M1928Sight: 4421 (init) -> 4421 (map).
+[15:10:45] [Server thread/INFO] [FML/]: Injected new block/item mw:M110Mag_2: 4593 (init) -> 4593 (map).
+[15:10:45] [Server thread/INFO] [FML/]: Injected new block/item mw:body_bag: 217 (init) -> 217 (map).
+[15:10:45] [Server thread/INFO] [FML/]: Injected new block/item mw:Kar98Krail: 4260 (init) -> 4260 (map).
+[15:10:45] [Server thread/INFO] [FML/]: Injected new block/item mw:VP70mag_2: 4609 (init) -> 4609 (map).
+[15:10:45] [Server thread/INFO] [FML/]: Injected new block/item mw:M6CSOCOMMag: 4499 (init) -> 4499 (map).
+[15:10:45] [Server thread/INFO] [FML/]: Injected new block/item mw:mkvidefault_helmet: 4209 (init) -> 4209 (map).
+[15:10:45] [Server thread/INFO] [FML/]: Injected new block/item mw:M45A1slide: 4451 (init) -> 4451 (map).
+[15:10:45] [Server thread/INFO] [FML/]: Injected new block/item mw:rpg7: 4687 (init) -> 4687 (map).
+[15:10:45] [Server thread/INFO] [FML/]: Injected new block/item mw:m1a1_thompson: 4644 (init) -> 4644 (map).
+[15:10:45] [Server thread/INFO] [FML/]: Injected new block/item mw:VGrip: 4368 (init) -> 4368 (map).
+[15:10:45] [Server thread/INFO] [FML/]: Injected new block/item mw:marine_boots: 4183 (init) -> 4183 (map).
+[15:10:45] [Server thread/INFO] [FML/]: Injected new block/item mw:M249Action: 4434 (init) -> 4434 (map).
+[15:10:45] [Server thread/INFO] [FML/]: Injected new block/item mw:wcam: 4711 (init) -> 4711 (map).
+[15:10:45] [Server thread/INFO] [FML/]: Injected new block/item mw:shelf_top: 197 (init) -> 197 (map).
+[15:10:45] [Server thread/INFO] [FML/]: Injected new block/item mw:M32Barrel: 4341 (init) -> 4341 (map).
+[15:10:45] [Server thread/INFO] [FML/]: Injected new block/item mw:combat_sustainment_backpack: 4098 (init) -> 4098 (map).
+[15:10:45] [Server thread/INFO] [FML/]: Injected new block/item mw:M9Mag_2: 4574 (init) -> 4574 (map).
+[15:10:45] [Server thread/INFO] [FML/]: Injected new block/item mw:rpg7_rocket: 4527 (init) -> 4527 (map).
+[15:10:45] [Server thread/INFO] [FML/]: Injected new block/item mw:ma5d: 4698 (init) -> 4698 (map).
+[15:10:45] [Server thread/INFO] [FML/]: Injected new block/item mw:mp40: 4643 (init) -> 4643 (map).
+[15:10:45] [Server thread/INFO] [FML/]: Injected new block/item mw:Bullet9x39mm: 4551 (init) -> 4551 (map).
+[15:10:45] [Server thread/INFO] [FML/]: Injected new block/item mw:assault_backpack: 4103 (init) -> 4103 (map).
+[15:10:45] [Server thread/INFO] [FML/]: Injected new block/item mw:gas_can: 4722 (init) -> 4722 (map).
+[15:10:45] [Server thread/INFO] [FML/]: Injected new block/item mw:impaled_body: 219 (init) -> 219 (map).
+[15:10:45] [Server thread/INFO] [FML/]: Injected new block/item mw:santa_helmet: 4161 (init) -> 4161 (map).
+[15:10:45] [Server thread/INFO] [FML/]: Injected new block/item mw:TinIngot: 4149 (init) -> 4149 (map).
+[15:10:45] [Server thread/INFO] [FML/]: Injected new block/item mw:Bullet792x57: 4536 (init) -> 4536 (map).
+[15:10:45] [Server thread/INFO] [FML/]: Injected new block/item mw:stars_boots: 4180 (init) -> 4180 (map).
+[15:10:45] [Server thread/INFO] [FML/]: Injected new block/item mw:scar_boots: 4203 (init) -> 4203 (map).
+[15:10:45] [Server thread/INFO] [FML/]: Injected new block/item mw:AKaction: 4454 (init) -> 4454 (map).
+[15:10:45] [Server thread/INFO] [FML/]: Injected new block/item mw:locker: 186 (init) -> 186 (map).
+[15:10:45] [Server thread/INFO] [FML/]: Injected new block/item mw:ceiling_tv: 199 (init) -> 199 (map).
+[15:10:45] [Server thread/INFO] [FML/]: Injected new block/item mw:L96A1Mag_2: 4591 (init) -> 4591 (map).
+[15:10:45] [Server thread/INFO] [FML/]: Injected new block/item mw:UziAction: 4467 (init) -> 4467 (map).
+[15:10:46] [Server thread/INFO] [FML/]: Injected new block/item mw:M16StockTan: 4301 (init) -> 4301 (map).
+[15:10:46] [Server thread/INFO] [FML/]: Injected new block/item mw:KedrAction: 4418 (init) -> 4418 (map).
+[15:10:46] [Server thread/INFO] [FML/]: Injected new block/item mw:STG44action: 4439 (init) -> 4439 (map).
+[15:10:46] [Server thread/INFO] [FML/]: Injected new block/item mw:Saiga12sights: 4458 (init) -> 4458 (map).
+[15:10:46] [Server thread/INFO] [FML/]: Injected new block/item mw:mkv_green_odst_boots: 4235 (init) -> 4235 (map).
+[15:10:46] [Server thread/INFO] [FML/]: Injected new block/item mw:m82action: 4425 (init) -> 4425 (map).
+[15:10:46] [Server thread/INFO] [FML/]: Injected new block/item mw:glock_18c: 4666 (init) -> 4666 (map).
+[15:10:46] [Server thread/INFO] [FML/]: Injected new block/item mw:spas_12: 4673 (init) -> 4673 (map).
+[15:10:46] [Server thread/INFO] [FML/]: Injected new block/item mw:MP5A5Mag: 4600 (init) -> 4600 (map).
+[15:10:46] [Server thread/INFO] [FML/]: Injected new block/item mw:ceiling_lamp: 229 (init) -> 229 (map).
+[15:10:46] [Server thread/INFO] [FML/]: Injected new block/item mw:tactical_helmet: 4196 (init) -> 4196 (map).
+[15:10:46] [Server thread/INFO] [FML/]: Injected new block/item mw:MIMP5MRail: 4258 (init) -> 4258 (map).
+[15:10:46] [Server thread/INFO] [FML/]: Injected new block/item mw:M9DrumMag: 4578 (init) -> 4578 (map).
+[15:10:46] [Server thread/INFO] [FML/]: Injected new block/item mw:pilgrim_backpack: 4114 (init) -> 4114 (map).
+[15:10:46] [Server thread/INFO] [FML/]: Injected new block/item mw:HolographicAlt: 4323 (init) -> 4323 (map).
+[15:10:46] [Server thread/INFO] [FML/]: Injected new block/item mw:Grenade40mm: 4524 (init) -> 4524 (map).
+[15:10:46] [Server thread/INFO] [FML/]: Injected new block/item mw:M249HandGuard: 4247 (init) -> 4247 (map).
+[15:10:46] [Server thread/INFO] [FML/]: Injected new block/item mw:cz805_bren: 4649 (init) -> 4649 (map).
+[15:10:46] [Server thread/INFO] [FML/]: Injected new block/item mw:ncr_helmet: 4184 (init) -> 4184 (map).
+[15:10:46] [Server thread/INFO] [FML/]: Injected new block/item mw:mkv_red_odst_chest: 4240 (init) -> 4240 (map).
+[15:10:46] [Server thread/INFO] [FML/]: Injected new block/item mw:FrommerStopMag: 4582 (init) -> 4582 (map).
+[15:10:46] [Server thread/INFO] [FML/]: Injected new block/item mw:M18White: 4716 (init) -> 4716 (map).
+[15:10:46] [Server thread/INFO] [FML/]: Injected new block/item mw:ServerRackTopLeft: 411 (init) -> 411 (map).
+[15:10:46] [Server thread/INFO] [FML/]: Injected new block/item mw:tactical_push_backpack: 4096 (init) -> 4096 (map).
+[15:10:46] [Server thread/INFO] [FML/]: Injected new block/item mw:M1A1ThompsonAction: 4417 (init) -> 4417 (map).
+[15:10:46] [Server thread/INFO] [FML/]: Injected new block/item mw:Radio: 416 (init) -> 416 (map).
+[15:10:46] [Server thread/INFO] [FML/]: Injected new block/item mw:super90: 4614 (init) -> 4614 (map).
+[15:10:46] [Server thread/INFO] [FML/]: Injected new block/item mw:mp5a5: 4631 (init) -> 4631 (map).
+[15:10:46] [Server thread/INFO] [FML/]: Injected new block/item mw:desk_left: 205 (init) -> 205 (map).
+[15:10:46] [Server thread/INFO] [FML/]: Injected new block/item mw:sl8: 4654 (init) -> 4654 (map).
+[15:10:46] [Server thread/INFO] [FML/]: Injected new block/item mw:MiniNuke: 4372 (init) -> 4372 (map).
+[15:10:46] [Server thread/INFO] [FML/]: Injected new block/item mw:esa23: 4706 (init) -> 4706 (map).
+[15:10:46] [Server thread/INFO] [FML/]: Injected new block/item mw:marine_chest: 4182 (init) -> 4182 (map).
+[15:10:46] [Server thread/INFO] [FML/]: Injected new block/item mw:marine_vest: 4138 (init) -> 4138 (map).
+[15:10:46] [Server thread/INFO] [FML/]: Injected new block/item mw:M32Main1B: 4376 (init) -> 4376 (map).
+[15:10:46] [Server thread/INFO] [FML/]: Injected new block/item mw:desert_tactical_push_backpack: 4097 (init) -> 4097 (map).
+[15:10:46] [Server thread/INFO] [FML/]: Injected new block/item mw:ak47: 4650 (init) -> 4650 (map).
+[15:10:46] [Server thread/INFO] [FML/]: Injected new block/item mw:HK416Stock: 4298 (init) -> 4298 (map).
+[15:10:46] [Server thread/INFO] [FML/]: Injected new block/item mw:M1928ThompsonAction: 4419 (init) -> 4419 (map).
+[15:10:46] [Server thread/INFO] [FML/]: Injected new block/item mw:CSA16pump: 4422 (init) -> 4422 (map).
+[15:10:46] [Server thread/INFO] [FML/]: Injected new block/item mw:Bullet8x58: 4532 (init) -> 4532 (map).
+[15:10:46] [Server thread/INFO] [FML/]: Injected new block/item mw:RailAlt: 4513 (init) -> 4513 (map).
+[15:10:46] [Server thread/INFO] [FML/]: Injected new block/item mw:MA37Action: 4409 (init) -> 4409 (map).
+[15:10:46] [Server thread/INFO] [FML/]: Injected new block/item mw:outdoor_chair_rotated: 248 (init) -> 248 (map).
+[15:10:46] [Server thread/INFO] [FML/]: Injected new block/item mw:AK15Mag_2: 4567 (init) -> 4567 (map).
+[15:10:46] [Server thread/INFO] [FML/]: Injected new block/item mw:Type2Mag: 4456 (init) -> 4456 (map).
+[15:10:46] [Server thread/INFO] [FML/]: Injected new block/item mw:KS23pump: 4481 (init) -> 4481 (map).
+[15:10:46] [Server thread/INFO] [FML/]: Injected new block/item mw:Bullet9x19mm: 4552 (init) -> 4552 (map).
+[15:10:46] [Server thread/INFO] [FML/]: Injected new block/item mw:SaigaMag_2: 4573 (init) -> 4573 (map).
+[15:10:46] [Server thread/INFO] [FML/]: Injected new block/item mw:Mk14EBRaction: 4437 (init) -> 4437 (map).
+[15:10:46] [Server thread/INFO] [FML/]: Injected new block/item mw:ssg42: 4691 (init) -> 4691 (map).
+[15:10:46] [Server thread/INFO] [FML/]: Injected new block/item mw:M6CMag: 4498 (init) -> 4498 (map).
+[15:10:46] [Server thread/INFO] [FML/]: Injected new block/item mw:albert01R_slide: 4466 (init) -> 4466 (map).
+[15:10:46] [Server thread/INFO] [FML/]: Injected new block/item mw:m110_sass: 4612 (init) -> 4612 (map).
+[15:10:46] [Server thread/INFO] [FML/]: Injected new block/item mw:operating_table: 224 (init) -> 224 (map).
+[15:10:46] [Server thread/INFO] [FML/]: Injected new block/item mw:mp_443: 4623 (init) -> 4623 (map).
+[15:10:46] [Server thread/INFO] [FML/]: Injected new block/item mw:M60E4Guard: 4246 (init) -> 4246 (map).
+[15:10:46] [Server thread/INFO] [FML/]: Injected new block/item mw:mkv_red_helmet: 4227 (init) -> 4227 (map).
+[15:10:46] [Server thread/INFO] [FML/]: Injected new block/item mw:wooden_crate_opened: 223 (init) -> 223 (map).
+[15:10:46] [Server thread/INFO] [FML/]: Injected new block/item mw:M4MagpulHandGuardTan: 4273 (init) -> 4273 (map).
+[15:10:46] [Server thread/INFO] [FML/]: Injected new block/item mw:AK101Stock: 4291 (init) -> 4291 (map).
+[15:10:46] [Server thread/INFO] [FML/]: Injected new block/item mw:M4MagpulHandGuard: 4272 (init) -> 4272 (map).
+[15:10:46] [Server thread/INFO] [FML/]: Injected new block/item mw:Bullet357: 4546 (init) -> 4546 (map).
+[15:10:46] [Server thread/INFO] [FML/]: Injected new block/item mw:leadingot: 4146 (init) -> 4146 (map).
+[15:10:46] [Server thread/INFO] [FML/]: Injected new block/item mw:Silencer57x38: 4356 (init) -> 4356 (map).
+[15:10:46] [Server thread/INFO] [FML/]: Injected new block/item mw:frommer_stop: 4664 (init) -> 4664 (map).
+[15:10:46] [Server thread/INFO] [FML/]: Injected new block/item mw:Krag_Jorgensen: 4663 (init) -> 4663 (map).
+[15:10:46] [Server thread/INFO] [FML/]: Injected new block/item mw:baseball_bat: 4719 (init) -> 4719 (map).
+[15:10:46] [Server thread/INFO] [FML/]: Injected new block/item mw:Super90Pump: 4379 (init) -> 4379 (map).
+[15:10:46] [Server thread/INFO] [FML/]: Injected new block/item mw:vent_end: 237 (init) -> 237 (map).
+[15:10:46] [Server thread/INFO] [FML/]: Injected new block/item mw:M1897pump: 4378 (init) -> 4378 (map).
+[15:10:46] [Server thread/INFO] [FML/]: Injected new block/item mw:G36CRail: 4512 (init) -> 4512 (map).
+[15:10:46] [Server thread/INFO] [FML/]: Injected new block/item mw:mkv_red_odst_boots: 4241 (init) -> 4241 (map).
+[15:10:46] [Server thread/INFO] [FML/]: Injected new block/item mw:F2000Action: 4408 (init) -> 4408 (map).
+[15:10:46] [Server thread/INFO] [FML/]: Injected new block/item mw:M14Drum50: 4598 (init) -> 4598 (map).
+[15:10:46] [Server thread/INFO] [FML/]: Injected new block/item mw:hecu_chest: 4171 (init) -> 4171 (map).
+[15:10:46] [Server thread/INFO] [FML/]: Injected new block/item mw:MilSpecStockTan: 4296 (init) -> 4296 (map).
+[15:10:46] [Server thread/INFO] [FML/]: Injected new block/item mw:M4GripGray: 4286 (init) -> 4286 (map).
+[15:10:46] [Server thread/INFO] [FML/]: Injected new block/item mw:VeprDustCover: 4311 (init) -> 4311 (map).
+[15:10:46] [Server thread/INFO] [FML/]: Injected new block/item mw:M1A1ThompsonSight: 4420 (init) -> 4420 (map).
+[15:10:46] [Server thread/INFO] [FML/]: Injected new block/item mw:SL8Action: 4416 (init) -> 4416 (map).
+[15:10:46] [Server thread/INFO] [FML/]: Injected new block/item mw:AR15Iron: 4508 (init) -> 4508 (map).
+[15:10:46] [Server thread/INFO] [FML/]: Injected new block/item mw:juggernaut_chest: 4174 (init) -> 4174 (map).
+[15:10:46] [Server thread/INFO] [FML/]: Injected new block/item mw:M45A1Mag_2: 4580 (init) -> 4580 (map).
+[15:10:46] [Server thread/INFO] [FML/]: Injected new block/item mw:M60Belt: 4430 (init) -> 4430 (map).
+[15:10:46] [Server thread/INFO] [FML/]: Injected new block/item mw:nazisanta_chest: 4165 (init) -> 4165 (map).
+[15:10:46] [Server thread/INFO] [FML/]: Injected new block/item mw:GlockHogueGrip: 4265 (init) -> 4265 (map).
+[15:10:46] [Server thread/INFO] [FML/]: Injected new block/item mw:electric_box: 243 (init) -> 243 (map).
+[15:10:46] [Server thread/INFO] [FML/]: Injected new block/item mw:MP5A5action: 4427 (init) -> 4427 (map).
+[15:10:46] [Server thread/INFO] [FML/]: Injected new block/item mw:ak15: 4624 (init) -> 4624 (map).
+[15:10:46] [Server thread/INFO] [FML/]: Injected new block/item mw:Bullet50BMG: 4534 (init) -> 4534 (map).
+[15:10:46] [Server thread/INFO] [FML/]: Injected new block/item mw:merc_boots: 4178 (init) -> 4178 (map).
+[15:10:46] [Server thread/INFO] [FML/]: Injected new block/item mw:CopperIngot: 4147 (init) -> 4147 (map).
+[15:10:46] [Server thread/INFO] [FML/]: Injected new block/item mw:GunmetalComposite: 4155 (init) -> 4155 (map).
+[15:10:46] [Server thread/INFO] [FML/]: Injected new block/item mw:mkvired_boots: 4217 (init) -> 4217 (map).
+[15:10:46] [Server thread/INFO] [FML/]: Injected new block/item mw:Volkaction: 4455 (init) -> 4455 (map).
+[15:10:46] [Server thread/INFO] [FML/]: Injected new block/item mw:MP5SDHandGuard: 4263 (init) -> 4263 (map).
+[15:10:46] [Server thread/INFO] [FML/]: Injected new block/item mw:mkv_red_odst_helmet: 4239 (init) -> 4239 (map).
+[15:10:46] [Server thread/INFO] [FML/]: Injected new block/item mw:pc: 190 (init) -> 190 (map).
+[15:10:46] [Server thread/INFO] [FML/]: Injected new block/item mw:merc_helmet: 4176 (init) -> 4176 (map).
+[15:10:46] [Server thread/INFO] [FML/]: Injected new block/item mw:mkv_blue_chest: 4225 (init) -> 4225 (map).
+[15:10:46] [Server thread/INFO] [FML/]: Injected new block/item mw:f4m_terminator_backpack: 4115 (init) -> 4115 (map).
+[15:10:46] [Server thread/INFO] [FML/]: Injected new block/item mw:M56Mag: 4399 (init) -> 4399 (map).
+[15:10:46] [Server thread/INFO] [FML/]: Injected new block/item mw:R870part: 4424 (init) -> 4424 (map).
+[15:10:46] [Server thread/INFO] [FML/]: Injected new block/item mw:MP40Mag_2: 4599 (init) -> 4599 (map).
+[15:10:46] [Server thread/INFO] [FML/]: Injected new block/item mw:AK15ironsight: 4353 (init) -> 4353 (map).
+[15:10:46] [Server thread/DEBUG] [FML/]: Registry consistency check successful
+[15:10:46] [Server thread/TRACE] [mcp/mcp]: Sending event FMLModIdMappingEvent to mod mcp
+[15:10:46] [Server thread/TRACE] [mcp/mcp]: Sent event FMLModIdMappingEvent to mod mcp
+[15:10:46] [Server thread/DEBUG] [FML/]: Bar Step: ModIdMapping - Minecraft Coder Pack took 0.001s
+[15:10:46] [Server thread/TRACE] [FML/FML]: Sending event FMLModIdMappingEvent to mod FML
+[15:10:46] [Server thread/TRACE] [FML/FML]: Sent event FMLModIdMappingEvent to mod FML
+[15:10:46] [Server thread/DEBUG] [FML/]: Bar Step: ModIdMapping - Forge Mod Loader took 0.000s
+[15:10:46] [Server thread/TRACE] [Forge/Forge]: Sending event FMLModIdMappingEvent to mod Forge
+[15:10:46] [Server thread/TRACE] [Forge/Forge]: Sent event FMLModIdMappingEvent to mod Forge
+[15:10:46] [Server thread/DEBUG] [FML/]: Bar Step: ModIdMapping - Minecraft Forge took 0.003s
+[15:10:46] [Server thread/TRACE] [mw/mw]: Sending event FMLModIdMappingEvent to mod mw
+[15:10:46] [Server thread/TRACE] [mw/mw]: Sent event FMLModIdMappingEvent to mod mw
+[15:10:46] [Server thread/DEBUG] [FML/]: Bar Step: ModIdMapping - Modern Warfare Contagion took 0.001s
+[15:10:46] [Server thread/DEBUG] [FML/]: Bar Finished: ModIdMapping took 0.005s
+[15:10:46] [Server thread/INFO] [FML/]: Applying holder lookups
+[15:10:46] [Server thread/INFO] [FML/]: Holder lookups applied
+[15:10:46] [Server thread/DEBUG] [FML/]: Loading persistent fluid defaults from world
+[15:10:46] [Server thread/DEBUG] [FML/]: The fluid minecraft:lava has been selected as the default fluid for lava
+[15:10:46] [Server thread/DEBUG] [FML/]: The fluid minecraft:water has been selected as the default fluid for water
+[15:10:48] [Server thread/INFO] [FML/]: Loading dimension 0 (world) (net.minecraft.server.dedicated.DedicatedServer@74757a9c)
+[15:10:48] [Server thread/INFO] [FML/]: Loading dimension 1 (world) (net.minecraft.server.dedicated.DedicatedServer@74757a9c)
+[15:10:48] [Server thread/INFO] [FML/]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@74757a9c)
+[15:10:53] [Server thread/TRACE] [mcp/mcp]: Sending event FMLServerStartingEvent to mod mcp
+[15:10:53] [Server thread/TRACE] [mcp/mcp]: Sent event FMLServerStartingEvent to mod mcp
+[15:10:53] [Server thread/DEBUG] [FML/]: Bar Step: ServerStarting - Minecraft Coder Pack took 0.001s
+[15:10:53] [Server thread/TRACE] [FML/FML]: Sending event FMLServerStartingEvent to mod FML
+[15:10:53] [Server thread/TRACE] [FML/FML]: Sent event FMLServerStartingEvent to mod FML
+[15:10:53] [Server thread/DEBUG] [FML/]: Bar Step: ServerStarting - Forge Mod Loader took 0.002s
+[15:10:53] [Server thread/TRACE] [Forge/Forge]: Sending event FMLServerStartingEvent to mod Forge
+[15:10:53] [Server thread/TRACE] [Forge/Forge]: Sent event FMLServerStartingEvent to mod Forge
+[15:10:53] [Server thread/DEBUG] [FML/]: Bar Step: ServerStarting - Minecraft Forge took 0.010s
+[15:10:53] [Server thread/TRACE] [mw/mw]: Sending event FMLServerStartingEvent to mod mw
+[15:10:53] [Server thread/TRACE] [mw/mw]: Sent event FMLServerStartingEvent to mod mw
+[15:10:53] [Server thread/DEBUG] [FML/]: Bar Step: ServerStarting - Modern Warfare Contagion took 0.002s
+[15:10:53] [Server thread/DEBUG] [FML/]: Bar Finished: ServerStarting took 0.014s
+[15:10:53] [Server thread/TRACE] [mcp/mcp]: Sending event FMLServerStartedEvent to mod mcp
+[15:10:53] [Server thread/TRACE] [mcp/mcp]: Sent event FMLServerStartedEvent to mod mcp
+[15:10:53] [Server thread/DEBUG] [FML/]: Bar Step: ServerStarted - Minecraft Coder Pack took 0.001s
+[15:10:53] [Server thread/TRACE] [FML/FML]: Sending event FMLServerStartedEvent to mod FML
+[15:10:53] [Server thread/TRACE] [FML/FML]: Sent event FMLServerStartedEvent to mod FML
+[15:10:53] [Server thread/DEBUG] [FML/]: Bar Step: ServerStarted - Forge Mod Loader took 0.000s
+[15:10:53] [Server thread/TRACE] [Forge/Forge]: Sending event FMLServerStartedEvent to mod Forge
+[15:10:53] [Server thread/TRACE] [Forge/Forge]: Sent event FMLServerStartedEvent to mod Forge
+[15:10:53] [Server thread/DEBUG] [FML/]: Bar Step: ServerStarted - Minecraft Forge took 0.000s
+[15:10:53] [Server thread/TRACE] [mw/mw]: Sending event FMLServerStartedEvent to mod mw
+[15:10:53] [Server thread/TRACE] [mw/mw]: Sent event FMLServerStartedEvent to mod mw
+[15:10:53] [Server thread/DEBUG] [FML/]: Bar Step: ServerStarted - Modern Warfare Contagion took 0.000s
+[15:10:53] [Server thread/DEBUG] [FML/]: Bar Finished: ServerStarted took 0.002s
+[15:11:06] [Netty IO #1/TRACE] [FML/]: $ClientHello->FMLHandshakeServerState$2:HELLO
+[15:11:06] [Netty IO #1/INFO] [FML/]: Client protocol version 2
+[15:11:06] [Netty IO #1/TRACE] [FML/]: $ModList:4 mods->FMLHandshakeServerState$2:HELLO
+[15:11:06] [Netty IO #1/INFO] [FML/]: Client attempting to join with 4 mods : FML@7.10.99.99,Forge@10.13.4.1614,mw@0.4.2.4,mcp@9.05
+[15:11:06] [Netty IO #1/INFO] [FML/]: Attempting connection with missing mods [] at CLIENT
+[15:11:06] [Netty IO #1/TRACE] [FML/]: $HandshakeAck:{2}->FMLHandshakeServerState$3:WAITINGCACK
+[15:11:06] [Netty IO #1/TRACE] [FML/]: $HandshakeAck:{3}->FMLHandshakeServerState$4:COMPLETE
+[15:11:06] [Netty IO #1/TRACE] [FML/]: $HandshakeAck:{4}->FMLHandshakeServerState$5:DONE
+[15:11:06] [Netty IO #1/TRACE] [FML/]: $HandshakeAck:{5}->FMLHandshakeServerState$5:DONE
+[15:11:06] [Server thread/INFO] [FML/]: [Server thread] Server side modded connection established
+[15:11:06] [Server thread/DEBUG] [com.vicmatskiv.weaponlib.ServerEventHandler/]: Player EntityPlayerMP['jongog'/1631, l='world', x=-31.50, y=75.00, z=247.50] joined the world
+[15:11:31] [Server thread/DEBUG] [com.vicmatskiv.weaponlib.network.NetworkPermitManager/]: Processing permit com.vicmatskiv.weaponlib.state.Permit@324947e8 for instance mp_443[e34ab55e-d3fc-4e1d-a292-f54f4cf9150a]
+[15:11:31] [Server thread/DEBUG] [com.vicmatskiv.weaponlib.SyncManager/]: Syncing mp_443[e34ab55e-d3fc-4e1d-a292-f54f4cf9150a] in state READY on server
+[15:11:31] [Server thread/DEBUG] [com.vicmatskiv.weaponlib.SyncManager/]: Stored instance mp_443[e34ab55e-d3fc-4e1d-a292-f54f4cf9150a] of com.vicmatskiv.weaponlib.Weapon@7a93edb4 in stack 1xitem.mp_443@0
+[15:11:36] [Server thread/DEBUG] [com.vicmatskiv.weaponlib.network.NetworkPermitManager/]: Processing permit com.vicmatskiv.weaponlib.state.Permit@642131f for instance mp_443[e34ab55e-d3fc-4e1d-a292-f54f4cf9150a]
+[15:11:36] [Server thread/DEBUG] [com.vicmatskiv.weaponlib.SyncManager/]: Syncing mp_443[e34ab55e-d3fc-4e1d-a292-f54f4cf9150a] in state READY on server
+[15:11:36] [Server thread/DEBUG] [com.vicmatskiv.weaponlib.SyncManager/]: Stored instance mp_443[e34ab55e-d3fc-4e1d-a292-f54f4cf9150a] of com.vicmatskiv.weaponlib.Weapon@7a93edb4 in stack 1xitem.mp_443@0
+[15:11:36] [Server thread/DEBUG] [com.vicmatskiv.weaponlib.network.NetworkPermitManager/]: Processing permit com.vicmatskiv.weaponlib.state.Permit@1486cd5b for instance mp_443[e34ab55e-d3fc-4e1d-a292-f54f4cf9150a]
+[15:11:36] [Server thread/DEBUG] [com.vicmatskiv.weaponlib.SyncManager/]: Syncing mp_443[e34ab55e-d3fc-4e1d-a292-f54f4cf9150a] in state READY on server
+[15:11:36] [Server thread/DEBUG] [com.vicmatskiv.weaponlib.SyncManager/]: Stored instance mp_443[e34ab55e-d3fc-4e1d-a292-f54f4cf9150a] of com.vicmatskiv.weaponlib.Weapon@7a93edb4 in stack 1xitem.mp_443@0
+[15:11:45] [Server thread/DEBUG] [com.vicmatskiv.weaponlib.network.NetworkPermitManager/]: Processing permit com.vicmatskiv.weaponlib.state.Permit@21b54970 for instance mp_443[e34ab55e-d3fc-4e1d-a292-f54f4cf9150a]
+[15:11:45] [Server thread/DEBUG] [com.vicmatskiv.weaponlib.SyncManager/]: Syncing mp_443[e34ab55e-d3fc-4e1d-a292-f54f4cf9150a] in state READY on server
+[15:11:45] [Server thread/DEBUG] [com.vicmatskiv.weaponlib.SyncManager/]: Stored instance mp_443[e34ab55e-d3fc-4e1d-a292-f54f4cf9150a] of com.vicmatskiv.weaponlib.Weapon@7a93edb4 in stack 1xitem.mp_443@0
+[15:11:45] [Server thread/DEBUG] [com.vicmatskiv.weaponlib.network.NetworkPermitManager/]: Processing permit com.vicmatskiv.weaponlib.state.Permit@3ffdb957 for instance mp_443[e34ab55e-d3fc-4e1d-a292-f54f4cf9150a]
+[15:11:45] [Server thread/DEBUG] [com.vicmatskiv.weaponlib.SyncManager/]: Syncing mp_443[e34ab55e-d3fc-4e1d-a292-f54f4cf9150a] in state READY on server
+[15:11:45] [Server thread/DEBUG] [com.vicmatskiv.weaponlib.SyncManager/]: Stored instance mp_443[e34ab55e-d3fc-4e1d-a292-f54f4cf9150a] of com.vicmatskiv.weaponlib.Weapon@7a93edb4 in stack 1xitem.mp_443@0
+[15:11:57] [Server thread/DEBUG] [com.vicmatskiv.weaponlib.network.NetworkPermitManager/]: Processing permit com.vicmatskiv.weaponlib.state.Permit@6b311378 for instance m110_sass[19274189-b567-4394-9644-754bf8848780]
+[15:11:57] [Server thread/DEBUG] [com.vicmatskiv.weaponlib.SyncManager/]: Syncing m110_sass[19274189-b567-4394-9644-754bf8848780] in state READY on server
+[15:11:57] [Server thread/DEBUG] [com.vicmatskiv.weaponlib.SyncManager/]: Stored instance m110_sass[19274189-b567-4394-9644-754bf8848780] of com.vicmatskiv.weaponlib.Weapon@9125b31 in stack 1xitem.m110_sass@0
+[15:12:08] [Server thread/DEBUG] [com.vicmatskiv.weaponlib.network.NetworkPermitManager/]: Processing permit com.vicmatskiv.weaponlib.state.Permit@5104973a for instance m110_sass[19274189-b567-4394-9644-754bf8848780]
+[15:12:08] [Server thread/DEBUG] [com.vicmatskiv.weaponlib.SyncManager/]: Syncing m110_sass[19274189-b567-4394-9644-754bf8848780] in state AWAIT_FURTHER_LOAD_INSTRUCTIONS on server
+[15:12:08] [Server thread/DEBUG] [com.vicmatskiv.weaponlib.SyncManager/]: Stored instance m110_sass[19274189-b567-4394-9644-754bf8848780] of com.vicmatskiv.weaponlib.Weapon@9125b31 in stack 1xitem.m110_sass@0
+[15:12:09] [Server thread/DEBUG] [com.vicmatskiv.weaponlib.network.NetworkPermitManager/]: Processing permit com.vicmatskiv.weaponlib.WeaponReloadAspect$LoadPermit@64188bb0 for instance m110_sass[19274189-b567-4394-9644-754bf8848780]
+[15:12:09] [Server thread/DEBUG] [com.vicmatskiv.weaponlib.WeaponReloadAspect/]: Processing load permit on server for m110_sass[19274189-b567-4394-9644-754bf8848780]
+[15:12:10] [Server thread/DEBUG] [com.vicmatskiv.weaponlib.network.NetworkPermitManager/]: Processing permit com.vicmatskiv.weaponlib.state.Permit@1813115a for instance m110_sass[19274189-b567-4394-9644-754bf8848780]
+[15:12:10] [Server thread/DEBUG] [com.vicmatskiv.weaponlib.SyncManager/]: Syncing m110_sass[19274189-b567-4394-9644-754bf8848780] in state LOAD_REQUESTED on server
+[15:12:10] [Server thread/DEBUG] [com.vicmatskiv.weaponlib.SyncManager/]: Stored instance m110_sass[19274189-b567-4394-9644-754bf8848780] of com.vicmatskiv.weaponlib.Weapon@9125b31 in stack 1xitem.m110_sass@0
+[15:12:10] [Server thread/DEBUG] [com.vicmatskiv.weaponlib.network.NetworkPermitManager/]: Processing permit com.vicmatskiv.weaponlib.state.Permit@1055e6ee for instance m110_sass[19274189-b567-4394-9644-754bf8848780]
+[15:12:10] [Server thread/DEBUG] [com.vicmatskiv.weaponlib.SyncManager/]: Syncing m110_sass[19274189-b567-4394-9644-754bf8848780] in state READY on server
+[15:12:10] [Server thread/DEBUG] [com.vicmatskiv.weaponlib.SyncManager/]: Stored instance m110_sass[19274189-b567-4394-9644-754bf8848780] of com.vicmatskiv.weaponlib.Weapon@9125b31 in stack 1xitem.m110_sass@0
+[15:12:18] [Server thread/DEBUG] [com.vicmatskiv.weaponlib.network.NetworkPermitManager/]: Processing permit com.vicmatskiv.weaponlib.state.Permit@11f3bea8 for instance m110_sass[19274189-b567-4394-9644-754bf8848780]
+[15:12:18] [Server thread/DEBUG] [com.vicmatskiv.weaponlib.SyncManager/]: Syncing m110_sass[19274189-b567-4394-9644-754bf8848780] in state AWAIT_FURTHER_LOAD_INSTRUCTIONS on server
+[15:12:18] [Server thread/DEBUG] [com.vicmatskiv.weaponlib.SyncManager/]: Stored instance m110_sass[19274189-b567-4394-9644-754bf8848780] of com.vicmatskiv.weaponlib.Weapon@9125b31 in stack 1xitem.m110_sass@0
+[15:12:18] [Server thread/DEBUG] [com.vicmatskiv.weaponlib.network.NetworkPermitManager/]: Processing permit com.vicmatskiv.weaponlib.WeaponReloadAspect$LoadPermit@720c26d6 for instance m110_sass[19274189-b567-4394-9644-754bf8848780]
+[15:12:18] [Server thread/DEBUG] [com.vicmatskiv.weaponlib.WeaponReloadAspect/]: Processing load permit on server for m110_sass[19274189-b567-4394-9644-754bf8848780]
+[15:12:18] [Server thread/DEBUG] [com.vicmatskiv.weaponlib.network.NetworkPermitManager/]: Processing permit com.vicmatskiv.weaponlib.state.Permit@57c575de for instance m110_sass[19274189-b567-4394-9644-754bf8848780]
+[15:12:18] [Server thread/DEBUG] [com.vicmatskiv.weaponlib.SyncManager/]: Syncing m110_sass[19274189-b567-4394-9644-754bf8848780] in state LOAD_REQUESTED on server
+[15:12:18] [Server thread/DEBUG] [com.vicmatskiv.weaponlib.SyncManager/]: Stored instance m110_sass[19274189-b567-4394-9644-754bf8848780] of com.vicmatskiv.weaponlib.Weapon@9125b31 in stack 1xitem.m110_sass@0
+[15:12:18] [Server thread/DEBUG] [com.vicmatskiv.weaponlib.network.NetworkPermitManager/]: Processing permit com.vicmatskiv.weaponlib.state.Permit@2fa38297 for instance m110_sass[19274189-b567-4394-9644-754bf8848780]
+[15:12:18] [Server thread/DEBUG] [com.vicmatskiv.weaponlib.SyncManager/]: Syncing m110_sass[19274189-b567-4394-9644-754bf8848780] in state READY on server
+[15:12:18] [Server thread/DEBUG] [com.vicmatskiv.weaponlib.SyncManager/]: Stored instance m110_sass[19274189-b567-4394-9644-754bf8848780] of com.vicmatskiv.weaponlib.Weapon@9125b31 in stack 1xitem.m110_sass@0
+[15:12:19] [Server thread/DEBUG] [com.vicmatskiv.weaponlib.network.NetworkPermitManager/]: Processing permit com.vicmatskiv.weaponlib.state.Permit@23297f35 for instance m110_sass[19274189-b567-4394-9644-754bf8848780]
+[15:12:19] [Server thread/DEBUG] [com.vicmatskiv.weaponlib.SyncManager/]: Syncing m110_sass[19274189-b567-4394-9644-754bf8848780] in state AWAIT_FURTHER_LOAD_INSTRUCTIONS on server
+[15:12:19] [Server thread/DEBUG] [com.vicmatskiv.weaponlib.SyncManager/]: Stored instance m110_sass[19274189-b567-4394-9644-754bf8848780] of com.vicmatskiv.weaponlib.Weapon@9125b31 in stack 1xitem.m110_sass@0
+[15:12:19] [Server thread/DEBUG] [com.vicmatskiv.weaponlib.network.NetworkPermitManager/]: Processing permit com.vicmatskiv.weaponlib.WeaponReloadAspect$LoadPermit@7f93bb74 for instance m110_sass[19274189-b567-4394-9644-754bf8848780]
+[15:12:19] [Server thread/DEBUG] [com.vicmatskiv.weaponlib.WeaponReloadAspect/]: Processing load permit on server for m110_sass[19274189-b567-4394-9644-754bf8848780]
+[15:12:19] [Server thread/DEBUG] [com.vicmatskiv.weaponlib.network.NetworkPermitManager/]: Processing permit com.vicmatskiv.weaponlib.state.Permit@17aba364 for instance m110_sass[19274189-b567-4394-9644-754bf8848780]
+[15:12:19] [Server thread/DEBUG] [com.vicmatskiv.weaponlib.SyncManager/]: Syncing m110_sass[19274189-b567-4394-9644-754bf8848780] in state LOAD_REQUESTED on server
+[15:12:19] [Server thread/DEBUG] [com.vicmatskiv.weaponlib.SyncManager/]: Stored instance m110_sass[19274189-b567-4394-9644-754bf8848780] of com.vicmatskiv.weaponlib.Weapon@9125b31 in stack 1xitem.m110_sass@0
+[15:12:19] [Server thread/DEBUG] [com.vicmatskiv.weaponlib.network.NetworkPermitManager/]: Processing permit com.vicmatskiv.weaponlib.state.Permit@21255ec6 for instance m110_sass[19274189-b567-4394-9644-754bf8848780]
+[15:12:19] [Server thread/DEBUG] [com.vicmatskiv.weaponlib.SyncManager/]: Syncing m110_sass[19274189-b567-4394-9644-754bf8848780] in state READY on server
+[15:12:19] [Server thread/DEBUG] [com.vicmatskiv.weaponlib.SyncManager/]: Stored instance m110_sass[19274189-b567-4394-9644-754bf8848780] of com.vicmatskiv.weaponlib.Weapon@9125b31 in stack 1xitem.m110_sass@0
+[15:12:26] [Server thread/DEBUG] [com.vicmatskiv.weaponlib.network.NetworkPermitManager/]: Processing permit com.vicmatskiv.weaponlib.state.Permit@517972a5 for instance m110_sass[19274189-b567-4394-9644-754bf8848780]
+[15:12:26] [Server thread/DEBUG] [com.vicmatskiv.weaponlib.SyncManager/]: Syncing m110_sass[19274189-b567-4394-9644-754bf8848780] in state AWAIT_FURTHER_LOAD_INSTRUCTIONS on server
+[15:12:26] [Server thread/DEBUG] [com.vicmatskiv.weaponlib.SyncManager/]: Stored instance m110_sass[19274189-b567-4394-9644-754bf8848780] of com.vicmatskiv.weaponlib.Weapon@9125b31 in stack 1xitem.m110_sass@0
+[15:12:26] [Server thread/DEBUG] [com.vicmatskiv.weaponlib.network.NetworkPermitManager/]: Processing permit com.vicmatskiv.weaponlib.WeaponReloadAspect$LoadPermit@247a6402 for instance m110_sass[19274189-b567-4394-9644-754bf8848780]
+[15:12:26] [Server thread/DEBUG] [com.vicmatskiv.weaponlib.WeaponReloadAspect/]: Processing load permit on server for m110_sass[19274189-b567-4394-9644-754bf8848780]
+[15:12:26] [Server thread/DEBUG] [com.vicmatskiv.weaponlib.network.NetworkPermitManager/]: Processing permit com.vicmatskiv.weaponlib.state.Permit@79ac5d23 for instance m110_sass[19274189-b567-4394-9644-754bf8848780]
+[15:12:26] [Server thread/DEBUG] [com.vicmatskiv.weaponlib.SyncManager/]: Syncing m110_sass[19274189-b567-4394-9644-754bf8848780] in state READY on server
+[15:12:26] [Server thread/DEBUG] [com.vicmatskiv.weaponlib.SyncManager/]: Stored instance m110_sass[19274189-b567-4394-9644-754bf8848780] of com.vicmatskiv.weaponlib.Weapon@9125b31 in stack 1xitem.m110_sass@0
+[15:12:27] [Server thread/DEBUG] [com.vicmatskiv.weaponlib.network.NetworkPermitManager/]: Processing permit com.vicmatskiv.weaponlib.state.Permit@42b82fed for instance m110_sass[19274189-b567-4394-9644-754bf8848780]
+[15:12:27] [Server thread/DEBUG] [com.vicmatskiv.weaponlib.SyncManager/]: Syncing m110_sass[19274189-b567-4394-9644-754bf8848780] in state AWAIT_FURTHER_LOAD_INSTRUCTIONS on server
+[15:12:27] [Server thread/DEBUG] [com.vicmatskiv.weaponlib.SyncManager/]: Stored instance m110_sass[19274189-b567-4394-9644-754bf8848780] of com.vicmatskiv.weaponlib.Weapon@9125b31 in stack 1xitem.m110_sass@0
+[15:12:27] [Server thread/DEBUG] [com.vicmatskiv.weaponlib.network.NetworkPermitManager/]: Processing permit com.vicmatskiv.weaponlib.WeaponReloadAspect$LoadPermit@58ce9145 for instance m110_sass[19274189-b567-4394-9644-754bf8848780]
+[15:12:27] [Server thread/DEBUG] [com.vicmatskiv.weaponlib.WeaponReloadAspect/]: Processing load permit on server for m110_sass[19274189-b567-4394-9644-754bf8848780]
+[15:12:27] [Server thread/DEBUG] [com.vicmatskiv.weaponlib.network.NetworkPermitManager/]: Processing permit com.vicmatskiv.weaponlib.state.Permit@2fe3a42a for instance m110_sass[19274189-b567-4394-9644-754bf8848780]
+[15:12:27] [Server thread/DEBUG] [com.vicmatskiv.weaponlib.SyncManager/]: Syncing m110_sass[19274189-b567-4394-9644-754bf8848780] in state LOAD_REQUESTED on server
+[15:12:27] [Server thread/DEBUG] [com.vicmatskiv.weaponlib.SyncManager/]: Stored instance m110_sass[19274189-b567-4394-9644-754bf8848780] of com.vicmatskiv.weaponlib.Weapon@9125b31 in stack 1xitem.m110_sass@0
+[15:12:27] [Server thread/DEBUG] [com.vicmatskiv.weaponlib.network.NetworkPermitManager/]: Processing permit com.vicmatskiv.weaponlib.state.Permit@34bdb1b0 for instance m110_sass[19274189-b567-4394-9644-754bf8848780]
+[15:12:27] [Server thread/DEBUG] [com.vicmatskiv.weaponlib.SyncManager/]: Syncing m110_sass[19274189-b567-4394-9644-754bf8848780] in state READY on server
+[15:12:27] [Server thread/DEBUG] [com.vicmatskiv.weaponlib.SyncManager/]: Stored instance m110_sass[19274189-b567-4394-9644-754bf8848780] of com.vicmatskiv.weaponlib.Weapon@9125b31 in stack 1xitem.m110_sass@0
+[15:12:27] [Server thread/DEBUG] [com.vicmatskiv.weaponlib.network.NetworkPermitManager/]: Processing permit com.vicmatskiv.weaponlib.state.Permit@1b11dc8e for instance m110_sass[19274189-b567-4394-9644-754bf8848780]
+[15:12:27] [Server thread/DEBUG] [com.vicmatskiv.weaponlib.SyncManager/]: Syncing m110_sass[19274189-b567-4394-9644-754bf8848780] in state AWAIT_FURTHER_LOAD_INSTRUCTIONS on server
+[15:12:27] [Server thread/DEBUG] [com.vicmatskiv.weaponlib.SyncManager/]: Stored instance m110_sass[19274189-b567-4394-9644-754bf8848780] of com.vicmatskiv.weaponlib.Weapon@9125b31 in stack 1xitem.m110_sass@0
+[15:12:28] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[15:12:29] [Server thread/DEBUG] [com.vicmatskiv.weaponlib.network.NetworkPermitManager/]: Processing permit com.vicmatskiv.weaponlib.WeaponReloadAspect$LoadPermit@1079b3a1 for instance m110_sass[19274189-b567-4394-9644-754bf8848780]
+[15:12:29] [Server thread/DEBUG] [com.vicmatskiv.weaponlib.WeaponReloadAspect/]: Processing load permit on server for m110_sass[19274189-b567-4394-9644-754bf8848780]
+[15:12:29] [Server thread/DEBUG] [com.vicmatskiv.weaponlib.network.NetworkPermitManager/]: Processing permit com.vicmatskiv.weaponlib.state.Permit@664fd3ff for instance m110_sass[19274189-b567-4394-9644-754bf8848780]
+[15:12:29] [Server thread/DEBUG] [com.vicmatskiv.weaponlib.SyncManager/]: Syncing m110_sass[19274189-b567-4394-9644-754bf8848780] in state LOAD_REQUESTED on server
+[15:12:29] [Server thread/DEBUG] [com.vicmatskiv.weaponlib.SyncManager/]: Stored instance m110_sass[19274189-b567-4394-9644-754bf8848780] of com.vicmatskiv.weaponlib.Weapon@9125b31 in stack 1xitem.m110_sass@0
+[15:12:29] [Server thread/DEBUG] [com.vicmatskiv.weaponlib.network.NetworkPermitManager/]: Processing permit com.vicmatskiv.weaponlib.state.Permit@11524a43 for instance m110_sass[19274189-b567-4394-9644-754bf8848780]
+[15:12:29] [Server thread/DEBUG] [com.vicmatskiv.weaponlib.SyncManager/]: Syncing m110_sass[19274189-b567-4394-9644-754bf8848780] in state READY on server
+[15:12:29] [Server thread/DEBUG] [com.vicmatskiv.weaponlib.SyncManager/]: Stored instance m110_sass[19274189-b567-4394-9644-754bf8848780] of com.vicmatskiv.weaponlib.Weapon@9125b31 in stack 1xitem.m110_sass@0
+[15:12:30] [Server thread/DEBUG] [com.vicmatskiv.weaponlib.network.NetworkPermitManager/]: Processing permit com.vicmatskiv.weaponlib.state.Permit@546b69f2 for instance m110_sass[19274189-b567-4394-9644-754bf8848780]
+[15:12:30] [Server thread/DEBUG] [com.vicmatskiv.weaponlib.SyncManager/]: Syncing m110_sass[19274189-b567-4394-9644-754bf8848780] in state ALERT on server
+[15:12:30] [Server thread/DEBUG] [com.vicmatskiv.weaponlib.SyncManager/]: Stored instance m110_sass[19274189-b567-4394-9644-754bf8848780] of com.vicmatskiv.weaponlib.Weapon@9125b31 in stack 1xitem.m110_sass@0
+[15:12:30] [Server thread/DEBUG] [com.vicmatskiv.weaponlib.network.NetworkPermitManager/]: Processing permit com.vicmatskiv.weaponlib.state.Permit@7fb9c93c for instance m110_sass[19274189-b567-4394-9644-754bf8848780]
+[15:12:30] [Server thread/DEBUG] [com.vicmatskiv.weaponlib.SyncManager/]: Syncing m110_sass[19274189-b567-4394-9644-754bf8848780] in state READY on server
+[15:12:30] [Server thread/DEBUG] [com.vicmatskiv.weaponlib.SyncManager/]: Stored instance m110_sass[19274189-b567-4394-9644-754bf8848780] of com.vicmatskiv.weaponlib.Weapon@9125b31 in stack 1xitem.m110_sass@0
+[15:12:37] [Server thread/TRACE] [mcp/mcp]: Sending event FMLServerStoppingEvent to mod mcp
+[15:12:37] [Server thread/TRACE] [mcp/mcp]: Sent event FMLServerStoppingEvent to mod mcp
+[15:12:37] [Server thread/DEBUG] [FML/]: Bar Step: ServerStopping - Minecraft Coder Pack took 0.000s
+[15:12:37] [Server thread/TRACE] [FML/FML]: Sending event FMLServerStoppingEvent to mod FML
+[15:12:37] [Server thread/TRACE] [FML/FML]: Sent event FMLServerStoppingEvent to mod FML
+[15:12:37] [Server thread/DEBUG] [FML/]: Bar Step: ServerStopping - Forge Mod Loader took 0.000s
+[15:12:37] [Server thread/TRACE] [Forge/Forge]: Sending event FMLServerStoppingEvent to mod Forge
+[15:12:37] [Server thread/TRACE] [Forge/Forge]: Sent event FMLServerStoppingEvent to mod Forge
+[15:12:37] [Server thread/DEBUG] [FML/]: Bar Step: ServerStopping - Minecraft Forge took 0.000s
+[15:12:37] [Server thread/TRACE] [mw/mw]: Sending event FMLServerStoppingEvent to mod mw
+[15:12:37] [Server thread/TRACE] [mw/mw]: Sent event FMLServerStoppingEvent to mod mw
+[15:12:37] [Server thread/DEBUG] [FML/]: Bar Step: ServerStopping - Modern Warfare Contagion took 0.000s
+[15:12:37] [Server thread/DEBUG] [FML/]: Bar Finished: ServerStopping took 0.001s
+[15:12:38] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[15:12:39] [Server thread/INFO] [FML/]: Unloading dimension 0
+[15:12:39] [Server thread/INFO] [FML/]: Unloading dimension -1
+[15:12:39] [Server thread/INFO] [FML/]: Unloading dimension 1
+[15:12:39] [Server thread/DEBUG] [FML/]: Reverting to frozen data state.
+[15:12:39] [Server thread/TRACE] [mcp/mcp]: Sending event FMLModIdMappingEvent to mod mcp
+[15:12:39] [Server thread/TRACE] [mcp/mcp]: Sent event FMLModIdMappingEvent to mod mcp
+[15:12:40] [Server thread/DEBUG] [FML/]: Bar Step: ModIdMapping - Minecraft Coder Pack took 0.001s
+[15:12:40] [Server thread/TRACE] [FML/FML]: Sending event FMLModIdMappingEvent to mod FML
+[15:12:40] [Server thread/TRACE] [FML/FML]: Sent event FMLModIdMappingEvent to mod FML
+[15:12:40] [Server thread/DEBUG] [FML/]: Bar Step: ModIdMapping - Forge Mod Loader took 0.000s
+[15:12:40] [Server thread/TRACE] [Forge/Forge]: Sending event FMLModIdMappingEvent to mod Forge
+[15:12:40] [Server thread/TRACE] [Forge/Forge]: Sent event FMLModIdMappingEvent to mod Forge
+[15:12:40] [Server thread/DEBUG] [FML/]: Bar Step: ModIdMapping - Minecraft Forge took 0.001s
+[15:12:40] [Server thread/TRACE] [mw/mw]: Sending event FMLModIdMappingEvent to mod mw
+[15:12:40] [Server thread/TRACE] [mw/mw]: Sent event FMLModIdMappingEvent to mod mw
+[15:12:40] [Server thread/DEBUG] [FML/]: Bar Step: ModIdMapping - Modern Warfare Contagion took 0.000s
+[15:12:40] [Server thread/DEBUG] [FML/]: Bar Finished: ModIdMapping took 0.002s
+[15:12:40] [Server thread/INFO] [FML/]: Applying holder lookups
+[15:12:40] [Server thread/INFO] [FML/]: Holder lookups applied
+[15:12:40] [Server thread/TRACE] [mcp/mcp]: Sending event FMLServerStoppedEvent to mod mcp
+[15:12:40] [Server thread/TRACE] [mcp/mcp]: Sent event FMLServerStoppedEvent to mod mcp
+[15:12:40] [Server thread/DEBUG] [FML/]: Bar Step: ServerStopped - Minecraft Coder Pack took 0.001s
+[15:12:40] [Server thread/TRACE] [FML/FML]: Sending event FMLServerStoppedEvent to mod FML
+[15:12:40] [Server thread/TRACE] [FML/FML]: Sent event FMLServerStoppedEvent to mod FML
+[15:12:40] [Server thread/DEBUG] [FML/]: Bar Step: ServerStopped - Forge Mod Loader took 0.000s
+[15:12:40] [Server thread/TRACE] [Forge/Forge]: Sending event FMLServerStoppedEvent to mod Forge
+[15:12:40] [Server thread/TRACE] [Forge/Forge]: Sent event FMLServerStoppedEvent to mod Forge
+[15:12:40] [Server thread/DEBUG] [FML/]: Bar Step: ServerStopped - Minecraft Forge took 0.000s
+[15:12:40] [Server thread/TRACE] [mw/mw]: Sending event FMLServerStoppedEvent to mod mw
+[15:12:40] [Server thread/TRACE] [mw/mw]: Sent event FMLServerStoppedEvent to mod mw
+[15:12:40] [Server thread/DEBUG] [FML/]: Bar Step: ServerStopped - Modern Warfare Contagion took 0.000s
+[15:12:40] [Server thread/DEBUG] [FML/]: Bar Finished: ServerStopped took 0.002s

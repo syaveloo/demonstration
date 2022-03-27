@@ -1,0 +1,57 @@
+######################
+#+                  +#
+#   MENU SETTINGS    #
+#+                  +#
+######################
+
+menu-settings:
+
+  # REQUIRED
+  # Appears as the title of the menu.
+  name: '&3&lShop'
+
+  # REQUIRED
+  # The number of rows in the menu.
+  rows: 3
+
+  # OPTIONAL
+  # Set which commands a player can execute to open the menu.
+  commands:
+  - 'shop'
+
+  # OPTIONAL
+  # How frequently the menu will be refreshed, in seconds.
+  # Useful if you have variables in icon descriptions.
+  auto-refresh: 5
+
+  # OPTIONAL
+  # This command command will be executed when the menu is opened.
+  # Supports all the icon command types.
+  open-actions:
+  - ''
+
+  # OPTIONAL
+  # The menu will open only when right-clicking with a compass.
+  open-with-item:
+    material: compass
+    left-click: false
+    right-click: false
+
+
+######################
+#+                  +#
+#       ICONS        #
+#+                  +#
+######################
+
+
+enderperl:
+  MATERIAL: enderpearl
+  POSITION-X: 1
+  POSITION-Y: 1
+  NAME: '&d&l&nEnderpearl'
+  LORE:
+    - '&7Sell for &a$10'
+  ACTIONS:
+    - 'execute if entity @a[nbt={Inventory:[{id:"minecraft:ender_pearl"}]},name={player}] run /eco give {player} 10'
+    - 'console: clear {player} minecraft:ender_pearl 1'
